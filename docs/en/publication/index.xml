@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Eri KURODA</title>
-    <link>/en/publication/</link>
-      <atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://erikuroda.github.io/en/publication/</link>
+      <atom:link href="https://erikuroda.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Eri Kuroda, 2020.</copyright>
     <image>
-      <url>/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
+      <url>https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/en/publication/</link>
+      <link>https://erikuroda.github.io/en/publication/</link>
     </image>
     
   </channel>

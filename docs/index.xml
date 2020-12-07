@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eri KURODA</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://erikuroda.github.io/</link>
+      <atom:link href="https://erikuroda.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Eri KURODA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-jp</language><copyright>© Eri Kuroda, 2020.</copyright><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
+      <url>https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
       <title>Eri KURODA</title>
-      <link>/</link>
+      <link>https://erikuroda.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://erikuroda.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://erikuroda.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://erikuroda.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://erikuroda.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>ウェブサイトをリニューアルしました</title>
-      <link>/post/hugo-academic/</link>
+      <link>https://erikuroda.github.io/post/hugo-academic/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/hugo-academic/</guid>
+      <guid>https://erikuroda.github.io/post/hugo-academic/</guid>
       <description>&lt;p&gt;公式サイトをリニューアルしました。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wowchemy&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -66,34 +66,34 @@
     
     <item>
       <title>予測符号化を模倣する深層生成学習モデル構築に向けた取り組み</title>
-      <link>/talk/ibis2020/</link>
+      <link>https://erikuroda.github.io/talk/ibis2020/</link>
       <pubDate>Mon, 23 Nov 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/ibis2020/</guid>
+      <guid>https://erikuroda.github.io/talk/ibis2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み</title>
-      <link>/talk/jsai34/</link>
+      <link>https://erikuroda.github.io/talk/jsai34/</link>
       <pubDate>Tue, 09 Jun 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/jsai34/</guid>
+      <guid>https://erikuroda.github.io/talk/jsai34/</guid>
       <description></description>
     </item>
     
     <item>
       <title>予測を対象とする深層生成学習モデルを用いた実世界理解への取り組み</title>
-      <link>/talk/ipsj82/</link>
+      <link>https://erikuroda.github.io/talk/ipsj82/</link>
       <pubDate>Thu, 05 Mar 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/ipsj82/</guid>
+      <guid>https://erikuroda.github.io/talk/ipsj82/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.ipsj.or.jp/award/taikaigakusei.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学生奨励賞&lt;/a&gt;・&lt;a href=&#34;https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大会優秀賞&lt;/a&gt; 受賞&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み</title>
-      <link>/talk/time200202/</link>
+      <link>https://erikuroda.github.io/talk/time200202/</link>
       <pubDate>Sat, 01 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/time200202/</guid>
+      <guid>https://erikuroda.github.io/talk/time200202/</guid>
       <description></description>
     </item>
     
