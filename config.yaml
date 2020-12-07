@@ -1,9 +1,9 @@
 theme: starter-academic
 title: Eri KURODA
 baseurl: https://erikuroda.github.io/
-copyright: '`&copy;` Eri Kuroda, `{year}`.'
+copyright: '&copy; Eri Kuroda, {year}.'
 publishDir: "docs"
-relativeurls: true
+relativeurls: false
 languageCode: "ja-jp"
 enableGitInfo: no
 defaultContentLanguage: ja
