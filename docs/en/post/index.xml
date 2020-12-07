@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Eri KURODA</title>
+    <link>/en/post/</link>
+      <atom:link href="/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>`©` Eri Kuroda, `2020`.</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/en/post/</link>
+    </image>
+    
+    <item>
+      <title>ウェブサイトをリニューアルしました</title>
+      <link>/en/post/hugo-academic/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/en/post/hugo-academic/</guid>
+      <description>&lt;p&gt;こんにちは、こみぃです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+{
+  "name": "Eri KURODA",
+  "short_name": "Eri KURODA",
+  "lang": "ja-jp",
+  "theme_color": "#8fbc8f",
+  "background_color": "#8fbc8f",
+  "icons": [{
+    "src": "/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satoshi Nishida | Eri KURODA</title>
+    <link>/en/author/satoshi-nishida/</link>
+      <atom:link href="/en/author/satoshi-nishida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Satoshi Nishida</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>`©` Eri Kuroda, `2020`.</copyright><lastBuildDate>Mon, 23 Nov 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
+      <title>Satoshi Nishida</title>
+      <link>/en/author/satoshi-nishida/</link>
+    </image>
+    
+    <item>
+      <title>A Deep Generative Model Imitating Predictive Coding</title>
+      <link>/en/talk/ibis2020/</link>
+      <pubDate>Mon, 23 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>/en/talk/ibis2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
