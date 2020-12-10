@@ -19,7 +19,7 @@ organizations:
 - name: お茶の水女子大学 小林一郎研究室
   url: "http://www.koba.is.ocha.ac.jp/wordpress/"
 role: 博士前期課程 1年
-social:
+social: 
 - icon: envelope
   icon_pack: fas
   link: "#contact"
@@ -30,7 +30,7 @@ social:
   icon_pack: fab
   link: https://github.com/erikuroda
 superuser: true
-title: 黒田 彗莉
+title: Eri Kuroda
 ---
 お茶の水女子大学で情報科学を専攻しています。
 
