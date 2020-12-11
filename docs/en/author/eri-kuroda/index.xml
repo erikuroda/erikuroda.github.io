@@ -5,12 +5,47 @@
     <link>https://erikuroda.github.io/en/author/eri-kuroda/</link>
       <atom:link href="https://erikuroda.github.io/en/author/eri-kuroda/index.xml" rel="self" type="application/rss+xml" />
     <description>Eri Kuroda</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Eri Kuroda, 2020.</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Eri Kuroda, 2020.</copyright><lastBuildDate>Mon, 23 Nov 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
       <title>Eri Kuroda</title>
       <link>https://erikuroda.github.io/en/author/eri-kuroda/</link>
     </image>
+    
+    <item>
+      <title>A Deep Generative Model Imitating Predictive Coding</title>
+      <link>https://erikuroda.github.io/en/talk/ibis2020/</link>
+      <pubDate>Mon, 23 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>https://erikuroda.github.io/en/talk/ibis2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study on Building a Deep Generative Model for Prediction in the Human Brain</title>
+      <link>https://erikuroda.github.io/en/talk/jsai34/</link>
+      <pubDate>Tue, 09 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>https://erikuroda.github.io/en/talk/jsai34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study on Predicting the Real World using Deep Generative Models</title>
+      <link>https://erikuroda.github.io/en/talk/ipsj82/</link>
+      <pubDate>Thu, 05 Mar 2020 13:00:00 +0000</pubDate>
+      <guid>https://erikuroda.github.io/en/talk/ipsj82/</guid>
+      <description>&lt;p&gt;Award&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ipsj.or.jp/award/taikaigakusei.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Encouragement Award of IPSJ National Convention&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Best Paper Award of IPSJ National Conven&lt;/a&gt; (9/753)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Study on Building a Deep Generative Model for Prediction in the Human Brain</title>
+      <link>https://erikuroda.github.io/en/talk/time200202/</link>
+      <pubDate>Sat, 01 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>https://erikuroda.github.io/en/talk/time200202/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
