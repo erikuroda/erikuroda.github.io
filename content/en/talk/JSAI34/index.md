@@ -23,7 +23,7 @@ summary: The 34th Annual Conference of the Japanese Society for Artificial Intel
 tags: []
 title: A Study on Building a Deep Generative Model for Prediction in the Human Brain
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1O3GS801/_pdf/-char/ja"
 url_slides: ""
 url_video: ""
 ---

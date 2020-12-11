@@ -23,7 +23,7 @@ summary: 人工知能学会全国大会(第34回) (JSAI2020)
 tags: []
 title: ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1O3GS801/_pdf/-char/ja"
 url_slides: ""
 url_video: ""
 ---
