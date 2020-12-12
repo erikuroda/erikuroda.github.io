@@ -29,6 +29,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/erikuroda
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1bv93nxzr4xYpNSSq27EWRXbA6aJQEU3A/view?usp=sharing
 superuser: true
 title: Eri Kuroda
 ---

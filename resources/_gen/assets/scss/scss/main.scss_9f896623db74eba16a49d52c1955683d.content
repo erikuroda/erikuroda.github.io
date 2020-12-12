@@ -9289,6 +9289,12 @@ html[dir="rtl"] body {
 .fa-file-pdf {
   color: #b10a0f; }
 
+.fa-file {
+  color: cornflowerblue; }
+
+.ai-cv {
+  color: teal; }
+
 .dark .fa-file-pdf {
   color: #d55e00; }
 
