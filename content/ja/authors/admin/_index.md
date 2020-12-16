@@ -16,8 +16,10 @@ interests:
 - 物理法則
 - 時間認識
 organizations:
-- name: お茶の水女子大学 小林一郎研究室
-  url: "http://www.koba.is.ocha.ac.jp/wordpress/"
+- name: お茶の水女子大学
+  url: "https://www.ocha.ac.jp/index.html"
+- name: 小林一郎研究室
+  url: 
 role: 博士前期課程 1年
 social: 
 - icon: envelope

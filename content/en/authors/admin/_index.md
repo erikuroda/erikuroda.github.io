@@ -17,8 +17,10 @@ interests:
 - physical reasoning
 - time recognition 
 organizations:
-- name: Ochanomizu Unoversity
-  url: ""
+- name: Ochanomizu University
+  url: "https://www.ocha.ac.jp/index.html"
+- name: Ichiro Kobayashi Lab.
+  url: ""  
 role: Mater 1st
 social:
 - icon: envelope
