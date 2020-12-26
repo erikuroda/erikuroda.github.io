@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Eri KURODA</title>
-    <link>https://erikuroda.github.io/post/</link>
-      <atom:link href="https://erikuroda.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>mac | Eri KURODA</title>
+    <link>https://erikuroda.github.io/category/mac/</link>
+      <atom:link href="https://erikuroda.github.io/category/mac/index.xml" rel="self" type="application/rss+xml" />
+    <description>mac</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-jp</language><copyright>© Eri Kuroda, 2020.</copyright><lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>https://erikuroda.github.io/post/</link>
+      <title>mac</title>
+      <link>https://erikuroda.github.io/category/mac/</link>
     </image>
     
     <item>
@@ -95,16 +95,6 @@ Windowsの方は他サイトをご参照ください。&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://qiita.com/kojiyam/items/36f48e0b7a8aef6bf3be&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;座長@Zoom会議で映像＋タイマー表示&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://qiita.com/sendaiharu1/items/83aa20f8e5c96bf0a573&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;macOS CatalinaでOBS（ウインドウキャプチャ）を使う&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ウェブサイトをリニューアルしました</title>
-      <link>https://erikuroda.github.io/post/hugo-academic/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://erikuroda.github.io/post/hugo-academic/</guid>
-      <description>&lt;p&gt;公式サイトをリニューアルしました。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wowchemy&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
