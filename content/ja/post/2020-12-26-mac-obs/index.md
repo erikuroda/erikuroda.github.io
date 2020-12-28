@@ -1,13 +1,13 @@
 ---
-title: mac+OBSでタイマーをキャプチャする
+title: Mac+OBSでタイマーをキャプチャする
 author: ''
 date: '2020-12-26'
 slug: mac-obs
 categories:
-  - mac
-tags:
+  - Mac
+tags: ["Mac", "Zoom", "オンライン", "OBS"]
 subtitle: '備忘録も兼ねてます。'
-summary: 'zoom学会のときに便利そうです。'
+summary: 'Zoom学会のときに便利そうです。'
 authors: []
 featured: no
 image:
@@ -45,7 +45,7 @@ draft: false
 
 <span style="color: red; ">!!! 注意 !!!</span>
 
-私の使用しているPCはmacなので、mac使用者向けの説明が中心になります。
+私の使用しているPCはMacなので、Mac使用者向けの説明が中心になります。
 Windowsの方は他サイトをご参照ください。
 
 <br>

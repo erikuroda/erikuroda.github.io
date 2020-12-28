@@ -55,7 +55,7 @@
     </item>
     
     <item>
-      <title>mac&#43;OBSでタイマーをキャプチャする</title>
+      <title>Mac&#43;OBSでタイマーをキャプチャする</title>
       <link>https://erikuroda.github.io/post/mac-obs/</link>
       <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://erikuroda.github.io/post/mac-obs/</guid>
@@ -78,7 +78,7 @@
 &lt;h2 id=&#34;b顔を出す代わりにタイムを表示するb&#34;&gt;&lt;b&gt;顔を出す代わりに、タイムを表示する&lt;/b&gt;&lt;/h2&gt;
 &lt;p&gt;個人の顔出しの画面にカウントダウン画面をキャプチャする方法です。&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;!!! 注意 !!!&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;私の使用しているPCはmacなので、mac使用者向けの説明が中心になります。
+&lt;p&gt;私の使用しているPCはMacなので、Mac使用者向けの説明が中心になります。
 Windowsの方は他サイトをご参照ください。&lt;/p&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;b1-obs-studioをインストールするb&#34;&gt;&lt;b&gt;1. OBS Studioをインストールする&lt;/b&gt;&lt;/h2&gt;

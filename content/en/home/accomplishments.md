@@ -13,7 +13,7 @@ headless: true
 weight: 40
 
 title: Accomplish  ment
-subtitle: Award<br>Scholarship<br>Funds<br>
+subtitle: Award<br>Scholarship<br>Grants<br>
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -27,8 +27,17 @@ date_format: "2006/1"
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2020-12-23"
+  description: Graduate student who have made outstanding achievements in research (FY2020, 3 students).
+  organization: Ochanomizu University
+  organization_url: https://www.ocha.ac.jp/index.html
+  title: FY2020 Student Award
+  url: ""
+
+- certificate_url: 
+  date_end: ""
   date_start: "2020-05-01"
-  description: 9/753 number
+  description: 9 out of 753<br>[News1](https://www.ocha.ac.jp/news/20200529.html)　[News2](https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html)
   organization: The 82nd National Convention of IPSJ
   organization_url: https://www.ipsj.or.jp/event/taikai/82/index.html
   title: Best Paper Award of IPSJ National Convention
@@ -46,7 +55,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2020-03-01"
-  description: ""
+  description: 　[News](https://www.ocha.ac.jp/news/20200316.html)
   organization: The 82nd National Convention of IPSJ
   organization_url: https://www.ipsj.or.jp/event/taikai/82/index.html
   title: Student Encouragement Award of IPSJ National Convention
