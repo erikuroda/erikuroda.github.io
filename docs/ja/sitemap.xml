@@ -3,51 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://erikuroda.github.io/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/courses/example/example1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/courses/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/courses/example/example2/"
-                />
-  </url>
-  
-  <url>
     <loc>https://erikuroda.github.io/categories/</loc>
     <lastmod>2020-12-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -100,16 +55,6 @@
   <url>
     <loc>https://erikuroda.github.io/post/</loc>
     <lastmod>2020-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/post/"
-                />
   </url>
   
   <url>
@@ -140,31 +85,11 @@
   <url>
     <loc>https://erikuroda.github.io/post/hugo-academic/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/post/hugo-academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/post/hugo-academic/"
-                />
   </url>
   
   <url>
     <loc>https://erikuroda.github.io/category/%E5%9F%B7%E7%AD%86/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/category/%E5%9F%B7%E7%AD%86/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/category/%E5%9F%B7%E7%AD%86/"
-                />
   </url>
   
   <url>
@@ -274,21 +199,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://erikuroda.github.io/talk/time200202/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/courses/"
                 />
   </url>
   

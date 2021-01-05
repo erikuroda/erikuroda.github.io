@@ -1,3 +1,13 @@
+
+a {
+  transition: color 0.0s ease;
+}
+
+a:hover {
+  transition: color 0.0s ease;
+  text-decoration: none;
+}
+
 .fa-file-pdf {
   color: rgb(177, 10, 15);
 }
@@ -10,24 +20,12 @@
   color: rgb(0, 128, 128);
 }
 
-.dark .fa-file-pdf {
-  color: #d55e00;
-}
-
 .fa-quote-right {
   color: #333333;
 }
 
-.dark .fa-quote-right {
-  color: white;
-}
-
 .fa-external-link-alt {
   color: #333333;
-}
-
-.dark .fa-external-link-alt {
-  color: white;
 }
 
 .ai-google-scholar {
@@ -42,10 +40,6 @@
   color: rgb(20, 20, 20);
 }
 
-.dark .fa-github {
-  color: white;
-}
-
 .fa-researchgate {
   color: rgb(0, 194, 176);
 }
@@ -54,40 +48,20 @@
   color: rgb(40, 156, 232);
 }
 
-.dark .fa-twitter-square {
-  color: white;
-}
-
 .fa-facebook-square {
   color: rgb(55, 93, 169);
-}
-
-.dark .fa-facebook-square {
-  color: white;
 }
 
 .fa-line {
   color: rgb(33, 179, 42);
 }
 
-.dark .fa-line {
-  color: white;
-}
-
 .fa-get-pocket {
   color: rgb(236, 64, 89);
 }
 
-.dark .fa-get-pocket {
-  color: white;
-}
-
 .fa-linkedin {
   color: rgb(15, 115, 174);
-}
-
-.dark .fa-linkedin {
-  color: white;
 }
 
 .fa-reddit {
@@ -102,10 +76,6 @@
   color: rgb(45, 74, 99);
 }
 
-.dark .fa-tumblr-square {
-  color: white;
-}
-
 .fa-hatena {
   &:before {
     content: "B!";
@@ -115,29 +85,12 @@
   }
 }
 
-.dark .fa-hatena {
-  &:before {
-    content: "B!";
-    font-family: Verdana;
-    font-weight: bold;
-    color: white;
-  }
-}
-
 .fa-rss-square {
   color: rgb(246, 139, 30);
 }
 
-.dark .fa-rss-square {
-  color: white;
-}
-
 .fa-envelope {
   color: rgb(51, 51, 51);
-}
-
-.dark .fa-envelope {
-  color: white;
 }
 
 .icon-feedly:hover, .icon-feedly-o:hover, .icon-feedly, .icon-feedly-o {
@@ -145,62 +98,12 @@
   font-size: 99% !important;
 }
 
-.dark .icon-feedly:hover, .dark .icon-feedly-o:hover, .dark .icon-feedly, .dark .icon-feedly-o {
-  color: white;
-  font-size: 99% !important;
+h4.card-title.exp-title.text-muted{
+  color: #555555 !important;
 }
 
-body.dark {
-  background: rgb(80, 80, 80);
-  font-family: "Roboto" "Noto Sans JP";
-}
-
-.dark .home-section:nth-of-type(even) {
-  background-color: rgb(80, 80, 80);
-}
-
-.dark .home-section:nth-of-type(odd) {
-  background-color: rgb(70, 70, 70);
-}
-
-// a ha talks no tokoro
-.dark a {
-  color: white;
-  text-decoration: none;
-  transition: color 0.0s ease;
-}
-
-.dark h3.article-title a:hover {
-  color: #8fbc8f;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-//
-
-.dark .card-simple {
-  background: rgb(40, 40, 40);
-}
-
-.dark .summary-link {
-  color: white !important;
-}
-
-.dark a.summary-link:hover {
-  color: unset !important;
-  text-decoration: none;
-}
-
-.dark .card-subtitle a:hover {
-  color: #8fbc8f;
-}
-
-// shokureki
 .card h4 a {
   color: rgba(0, 0, 0, 0.54);
-}
-
-.dark .card h4 a {
-  color: rgb(230, 230, 230);
 }
 
 .card h4 a:hover {
@@ -208,35 +111,126 @@ body.dark {
   border-bottom: none;
 }
 
-.dark .card h4 a:hover {
-  color: #8fbc8f;
-  border-bottom: none;
-}
-
-//
-// gyouseki
-
 a:hover h4.card-title.exp-title.text-muted {
   color: #8fbc8f !important;
 }
 
+.card-subtitle a {
+  color: #777777;
+}
+
+.course .card-subtitle a {
+  border-bottom: none !important;
+}
+
 .card-subtitle a:hover {
   color: #8fbc8f;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+.card-text a {
+  color: #8fbc8f;
+}
+
+.card-text a:hover {
+  color: #8fbc8f;
+  font-weight: bold;
 }
 
 .experience .card-text {
   color: rgb(47, 47, 47) !important;
 }
 
-.dark a:hover h4.card-title.exp-title.text-muted {
+.dropdown-menu, .dropdown-item {
+  background-color: white !important;
   color: #8fbc8f !important;
 }
 
-.dark .card-subtitle a:hover {
-  color: #8fbc8f;
+h3.article-title a {
+  color: #333333;
 }
 
-.dark .experience .card-text {
-  color: white !important;
+h3.article-title a:hover{
+  transition: color 0.2s ease;
 }
 
+.article-title a{
+  transition: color 0.1s ease;
+}
+
+.navbar {
+  background: #faf0e6;
+}
+
+.navbar-light {
+  font-weight: normal;
+  color: #333333 !important;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #333333 !important;
+  &:hover {
+    color: #8fbc8f !important;
+  }
+}
+
+.navbar .navbar-nav .nav-link.active {
+  color: #8fbc8f !important;
+  font-weight: bold !important;
+  transition: none;
+}
+
+.navbar-collapse {
+  flex-basis: 120%;
+  flex-grow: 0.5;
+  align-items: center;
+}
+
+#navbar-main .main-menu-item ul li .nav-link:hover{
+  // font-weight: bold;
+  color: #696969;
+  font-weight: bold !important;
+}
+
+.navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
+  font-weight: normal !important;
+  color: #8fbc8f !important;
+  i {
+    color: #8fbc8f !important;
+  }
+}
+
+
+.navbar-light .navbar-nav .show>.nav-link, .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+  color: #333333;
+}
+
+button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
+  color: #333333;
+}
+
+
+// button.navbar-toggler i:hover {
+//   color: black;
+// }
+
+#navbar-main .main-menu-item {
+  text-align: left !important;
+  padding-left: 0;
+}
+
+.collapse:not(.show) {
+  display: none;
+}
+
+h1 {
+  font-weight: bold !important;
+}
+
+.btn:hover {
+  color: #8fbc8f !important;
+  font-weight: bold;
+  background: #f5f5dc;
+}

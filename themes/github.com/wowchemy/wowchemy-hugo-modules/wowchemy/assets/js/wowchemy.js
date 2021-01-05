@@ -633,5 +633,5 @@ $('body').on('mouseenter mouseleave', '.dropdown', function (e) {
 let resizeTimer;
 $(window).resize(function () {
   clearTimeout(resizeTimer);
-  resizeTimer = setTimeout(fixScrollspy, 200);
+  resizeTimer = setTimeout(fixScrollspy, 20);
 });
