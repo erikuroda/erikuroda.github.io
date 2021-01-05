@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 業績
-subtitle: 賞・奨学金・研究助成
+title: Accomplish ments
+subtitle: 賞<br>奨学金<br>研究助成
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

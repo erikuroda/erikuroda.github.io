@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 学会発表
-subtitle: 国際・国内・ワークショップ
+title: Talks
+subtitle: 国際学会<br>国内学会<br>ワークショップ
 
 content:
   # Page type to display. E.g. post, talk, publication...

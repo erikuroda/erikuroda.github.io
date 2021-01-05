@@ -92,7 +92,7 @@ Windowsの方は他サイトをご参照ください。
 
 <br>
 
-# <b>おわりに</b>
+# おわりに
 
 はたしてこれがZoom学会での最適解なのかと言われると、どうなのかな、と思う点もありますが、小さな発表会や少し表示したい時などは便利になるかと思います。
 
@@ -100,7 +100,7 @@ Windowsの方は他サイトをご参照ください。
 
 <br>
 
-# <b>参考にしたサイト</b>
+# 参考にしたサイト
 
 - [座長@Zoom会議で映像＋タイマー表示](https://qiita.com/kojiyam/items/36f48e0b7a8aef6bf3be)
 - [macOS CatalinaでOBS（ウインドウキャプチャ）を使う](https://qiita.com/sendaiharu1/items/83aa20f8e5c96bf0a573)
