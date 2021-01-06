@@ -33,7 +33,7 @@ social:
   link: https://github.com/erikuroda
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1bv93nxzr4xYpNSSq27EWRXbA6aJQEU3A/view?usp=sharing
+  link: https://drive.google.com/file/d/1r03IJc6ZHp76xXtfDi0MqKiW9Lnu-Hxw/view?usp=sharing
 superuser: true
 title: Eri Kuroda
 ---
