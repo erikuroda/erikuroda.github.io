@@ -235,3 +235,8 @@ h1 {
   font-weight: bold;
   background: #f5f5dc;
 }
+
+.btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary.active:not(:disabled):not(.disabled), .show > .btn-outline-primary.dropdown-toggle {
+  background: none;
+  font-weight: bold;
+}

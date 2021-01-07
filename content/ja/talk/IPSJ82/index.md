@@ -1,6 +1,6 @@
 ---
 abstract: 近年、機械学習や深層学習の研究が盛んであり、その中でも、将来を予測する深層学習モデルの開発が注目されている。先行研究としてTD-VAE[Gregor+,18]などが挙げられ、可能世界予測を実現している。一方でヒトの大脳皮質で行われていると言われている予測符号化を模したPredNet[Lotter+,16]も開発されている。本研究では、ヒト脳内で行われている予測のモデルを双方のモデルを融合することにより、新しいモデルを構築し提案する。
-doi: https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=205265&item_no=1&page_id=13&block_id=8
+doi: 
 address:
 all_day: true
 authors: [黒田彗莉, 小林一郎]
@@ -13,6 +13,8 @@ image:
   caption: '[IPSJ82](https://www.ipsj.or.jp/event/taikai/82/index.html)'
   focal_point: Right
 links:
+- name: 'Permalink'
+  url: http://id.nii.ac.jp/1001/00205169
 location: オンライン
 math: true
 projects:
