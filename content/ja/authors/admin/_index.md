@@ -35,7 +35,7 @@ social:
   icon_pack: ai
   link: https://drive.google.com/file/d/1r03IJc6ZHp76xXtfDi0MqKiW9Lnu-Hxw/view?usp=sharing
 superuser: true
-title: Eri Kuroda
+title: 黒田 彗莉
 ---
 お茶の水女子大学で情報科学を専攻しています。
 

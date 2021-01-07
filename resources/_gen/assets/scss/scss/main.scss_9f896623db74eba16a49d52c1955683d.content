@@ -9454,7 +9454,8 @@ button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main
   display: none; }
 
 h1 {
-  font-weight: bold !important; }
+  font-weight: bold !important;
+  color: #555555; }
 
 .btn:hover {
   color: #8fbc8f !important;

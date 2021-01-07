@@ -4,37 +4,37 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "ホーム"
   url = "#about"
   weight =10
 
 [[main]]
-  name = "Talks"
+  name = "学会発表"
   url = "#talks"
   weight = 20
 
 [[main]]
-  name = "Papers"
+  name = "学術論文"
   url = "#publications"
   weight = 30
 
 [[main]]
-  name = "Accomplishments"
+  name = "業績"
   url = "#accomplishments"
   weight = 40
 
 [[main]]
-  name = "Career"
+  name = "職歴"
   url = "#experience" #"courses/"
   weight = 50
 
 [[main]]
-  name = "Blog"
+  name = "ブログ"
   url = "#posts"
   weight = 60
   
 [[main]]
-  name = "Contact"
+  name = "連絡先"
   url = "#contact"
   weight = 70
 # Link to a PDF of your resume/CV from the menu.

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: Contact
+title: 連絡先
 subtitle: メールアドレス
 
 content:

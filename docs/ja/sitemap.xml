@@ -203,20 +203,6 @@
   </url>
   
   <url>
-    <loc>https://erikuroda.github.io/author/eri-kuroda/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/eri-kuroda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/eri-kuroda/"
-                />
-  </url>
-  
-  <url>
     <loc>https://erikuroda.github.io/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -241,6 +227,20 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://erikuroda.github.io/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://erikuroda.github.io/author/%E9%BB%92%E7%94%B0-%E5%BD%97%E8%8E%89/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erikuroda.github.io/en/author/eri-kuroda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://erikuroda.github.io/author/%E9%BB%92%E7%94%B0-%E5%BD%97%E8%8E%89/"
                 />
   </url>
   
