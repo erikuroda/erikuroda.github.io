@@ -9402,7 +9402,7 @@ h3.article-title a {
   color: #333333; }
 
 h3.article-title a:hover {
-  transition: color 0.2s ease; }
+  transition: color 0.0s ease; }
 
 .article-title a {
   transition: color 0.1s ease; }
@@ -9415,15 +9415,9 @@ h3.article-title a:hover {
   color: #333333 !important; }
 
 .navbar-brand {
-  font-weight: bold;
   color: #333333 !important; }
   .navbar-brand:hover {
     color: #8fbc8f !important; }
-
-.navbar .navbar-nav .nav-link.active {
-  color: #8fbc8f !important;
-  font-weight: bold !important;
-  transition: none; }
 
 .navbar-collapse {
   flex-basis: 120%;
@@ -9431,7 +9425,7 @@ h3.article-title a:hover {
   align-items: center; }
 
 #navbar-main .main-menu-item ul li .nav-link:hover {
-  color: #696969;
+  color: #8fbc8f;
   font-weight: bold !important; }
 
 .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
@@ -9440,11 +9434,15 @@ h3.article-title a:hover {
   .navbar .navbar-nav .nav-link:hover i, .navbar .navbar-nav .nav-link:focus i {
     color: #8fbc8f !important; }
 
-.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
-  color: #333333; }
+.navbar .navbar-nav .nav-link.active {
+  color: #333333 !important; }
+
+.navbar .navbar-nav .nav-link.active:hover {
+  color: #8fbc8f !important; }
 
 button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
-  color: #333333; }
+  color: #333333;
+  font-weight: normal !important; }
 
 #navbar-main .main-menu-item {
   text-align: left !important;
