@@ -156,6 +156,20 @@
   </url>
   
   <url>
+    <loc>https://erikuroda.github.io/en/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://erikuroda.github.io/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erikuroda.github.io/en/news/"
+                />
+  </url>
+  
+  <url>
     <loc>https://erikuroda.github.io/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"

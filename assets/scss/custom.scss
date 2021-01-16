@@ -230,9 +230,78 @@ h1 {
   color: #8fbc8f !important;
   font-weight: bold;
   background: #f5f5dc;
+  text-decoration: none;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary.active:not(:disabled):not(.disabled), .show > .btn-outline-primary.dropdown-toggle {
   background: none;
   font-weight: bold;
+}
+
+h3 {
+  margin-top: 0rem;
+}
+
+
+.accordion_contents p{
+  font-weight: bold;
+  text-align: left;
+}
+
+.accordion_box {
+  width: 100%;
+}
+
+.accordion_box label {
+  background-color: rgb(245, 245, 245);
+  cursor: pointer;
+  display: block;
+  border-radius: 0px 20px 20px 20px;
+  text-align: left;
+}
+
+.accordion_box input {
+  display: none;
+}
+
+.accordion_box .accordion_contents {
+  display: none;
+  text-align: left;
+  font-weight: normal;
+}
+
+.accordion:checked + .accordion_contents {
+  display:block;
+  padding: 10px;
+  transition: color 0.15s ease;
+}
+
+button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled) {
+  background-color: rgb(245, 245, 245);
+}
+
+.accordion_box h1{
+  font-weight: bold;
+  text-align: left;
+  color: #444444;
+}
+
+.accordion_box h1:hover {
+  color: #8fbc8f;
+}
+
+.accordion_contents p {
+  font-weight: normal;
+  font-size: 20px;
+  color: #444444;
+}
+
+.fa-arrow-circle-right {
+  font-weight: bold;
+  //color: rgb(200, 200, 200);
+  color: #8fbc8f !important;
+}
+
+.card {
+  background-color: rgb(249, 249, 249);
 }
