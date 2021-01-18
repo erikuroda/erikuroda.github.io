@@ -9396,6 +9396,15 @@ a:hover h4.card-title.exp-title.text-muted {
 
 .dropdown-menu, .dropdown-item {
   background-color: white !important;
+  color: #333333 !important;
+  font-weight: normal !important; }
+
+.dropdown-menu, .dropdown-item:hover {
+  font-weight: normal !important;
+  color: #8fbc8f !important; }
+
+.navbar .dropdown-item.active, .navbar .dropdown-item-active {
+  font-weight: bold !important;
   color: #8fbc8f !important; }
 
 h3.article-title a {
@@ -9434,12 +9443,6 @@ h3.article-title a:hover {
   .navbar .navbar-nav .nav-link:hover i, .navbar .navbar-nav .nav-link:focus i {
     color: #8fbc8f !important; }
 
-.navbar .navbar-nav .nav-link.active {
-  color: #333333 !important; }
-
-.navbar .navbar-nav .nav-link.active:hover {
-  color: #8fbc8f !important; }
-
 button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
   color: #333333;
   font-weight: normal !important; }
@@ -9476,57 +9479,57 @@ h3 {
   text-align: left;
   text-decoration: none; }
 
-.accordion_box {
-  width: 100%; }
-
-.accordion_box label {
-  background-color: whitesmoke;
-  cursor: pointer;
-  display: block;
-  border-radius: 0px 20px 20px 20px;
-  text-align: left;
-  text-decoration: none; }
-
-.accordion_box input {
-  display: none;
-  text-decoration: none; }
-
-.accordion_box .accordion_contents {
-  display: none;
-  text-align: left;
-  font-weight: normal;
-  text-decoration: none; }
-
-.accordion:checked + .accordion_contents {
-  display: block;
-  padding: 10px;
-  transition: color 0.15s ease;
-  text-decoration: none; }
-
 button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled) {
   background-color: whitesmoke;
-  text-decoration: none; }
-
-.accordion_box h1 {
-  font-weight: bold;
-  text-align: left;
-  color: #444444;
-  text-decoration: none; }
-
-.accordion_box h1:hover {
-  color: #8fbc8f;
-  text-decoration: none; }
-
-.accordion_contents p {
-  font-weight: normal;
-  font-size: 20px;
-  color: #444444;
-  text-decoration: none; }
+  text-decoration: none;
+  transition: color 0.15s ease; }
 
 .fa-arrow-circle-right {
   font-weight: bold;
-  color: #8fbc8f !important;
+  color: #a0a0a0;
   text-decoration: none; }
 
 .card {
   background-color: #f9f9f9; }
+
+.acd-check {
+  display: none; }
+
+.acd-label {
+  background: whitesmoke;
+  color: #333333;
+  display: block;
+  text-align: left;
+  text-decoration: none;
+  border-radius: 0px 20px 20px 20px; }
+
+.acd-content {
+  height: 0;
+  opacity: 0;
+  padding: 0 10px;
+  transition: .3s ease;
+  visibility: hidden; }
+
+.acd-check:checked + .acd-label + .acd-content {
+  height: 100%;
+  opacity: 1;
+  padding: 0 10px;
+  transition: 1.0s ease;
+  visibility: visible; }
+
+.acd-label h1:hover {
+  color: #8fbc8f;
+  text-decoration: none;
+  text-align: left; }
+
+.acd-content h3 {
+  color: #444444;
+  text-decoration: none;
+  text-align: left; }
+
+.acd-content p {
+  font-weight: normal;
+  font-size: 20px;
+  color: #444444;
+  text-decoration: none;
+  text-align: left; }

@@ -5,15 +5,14 @@ header:
 title: 過去のお知らせ
 view: 2
 ---
-<div class="accordion_box">
 <div class="card" id="news2020">
 <button class="btn btn-link" type="button">
-<label for="label1">
+<input id="acd-check1" class="acd-check" type="checkbox">
+<label class="acd-label" for="acd-check1">
 <h1>2020</h1>
 </label>
-<input type="checkbox" id="label1" class="accordion">
-<div class="accordion_contents">
-<h3>06 / 09</h3>
+<div class="acd-content">
+  <h3>06 / 09</h3>
 <p>人工知能学会全国大会(第34回) (JSAI2020)にて口頭発表を行いました。</p>
 <br>
 <h3>05 / 28</h3>
@@ -30,20 +29,21 @@ view: 2
 <br>
 <h3>03 / 01</h3>
 <p>ホームページを開設しました。</p>
+</div>
 </button>
 </div>
 
 <div class="card" id="news2019">
 <button class="btn btn-link" type="button">
-<label for="label2">
+<input id="acd-check2" class="acd-check" type="checkbox">
+<label class="acd-label" for="acd-check2">
 <h1>2019</h1>
 </label>
-<input type="checkbox" id="label2" class="accordion">
-<div class="accordion_contents">
+<div class="acd-content">
 <h3>11 / 20</h3>
 <p>お茶の水女子大学 AI・データサイエンスセンターの学生研究支援を頂きました。</p>
-</button>
 </div>
+</button>
 </div>
 
 

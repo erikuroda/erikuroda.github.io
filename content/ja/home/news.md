@@ -81,4 +81,4 @@ subtitle = "お知らせ"
 
 <br>
 
-<a href="news"><i class="fas fa-arrow-circle-right">過去のお知らせ</i></a>
+<i class="fas fa-arrow-circle-right"> [過去のお知らせ](news)</i>

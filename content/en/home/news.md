@@ -81,4 +81,4 @@ I gave a oral presentation at IBIS2020.
 
 <br>
 
-<a href="news"><i class="fas fa-arrow-circle-right">Past News</i></a>
+<i class="fas fa-arrow-circle-right"> [Past News](news)</i>
