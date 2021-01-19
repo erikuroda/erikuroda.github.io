@@ -28,7 +28,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-12-23"
-  description: 研究において顕著な業績を挙げた大学院生 (今年度 3名)
+  description: 研究において顕著な業績を挙げた大学院生 (令和2年度 3名)
   organization: "お茶の水女子大学"
   organization_url: https://www.ocha.ac.jp/index.html
   title: 令和2年度 学生表彰
@@ -46,7 +46,7 @@ item:
 - certificate_url: 
   date_end: "2022-03-30"
   date_start: "2020-04-01"
-  description: 2020年度 1名採用
+  description: 令和2年度 1名採用
   organization: お茶の水女子大学・(株)KSP-SP
   organization_url: https://www.ocha.ac.jp/campuslife/scholarship/kspsp.html
   title: KSP-SP奨学金 (500,000円)

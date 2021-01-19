@@ -29,6 +29,9 @@ view: 2
 <br>
 <h3>03 / 01</h3>
 <p>I opened the website.</p>
+<br>
+<h3>02 / 02</h3>
+<p>I gave an poster presentation at the convention of Chronogenesis.</p>
 </button>
 </div>
 
