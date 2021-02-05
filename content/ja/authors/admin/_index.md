@@ -34,6 +34,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1r03IJc6ZHp76xXtfDi0MqKiW9Lnu-Hxw/view?usp=sharing
+
   
 superuser: true
 title: 黒田 彗莉
@@ -41,3 +42,5 @@ title: 黒田 彗莉
 お茶の水女子大学で情報科学を専攻しています。
 
 機械学習や深層学習を用いて、ヒト脳内における時間認識や物理法則について<br>研究をしています。
+
+[researchmap](https://researchmap.jp/erikuroda?lang=ja)

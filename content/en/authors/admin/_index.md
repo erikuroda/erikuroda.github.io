@@ -39,3 +39,5 @@ superuser: true
 title: Eri Kuroda
 ---
 Eri Kuroda is a graduate student majoring in information science at Ochanomizu University.
+
+[researchmap](https://researchmap.jp/erikuroda?lang=en)

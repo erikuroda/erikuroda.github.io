@@ -3,11 +3,15 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "what's New?"
+title = "ほも"
 subtitle = "最近の出来事"
 
+[[feature]]
+  icon = "rm"
+  icon_pack = "custom"
+  name = "Surfing"
+  description = "90%"
+
 +++
-<br>
-2020/12/07：：：あいうえおあいうえおあいうえおあいうえおあいうえお

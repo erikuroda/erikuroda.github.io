@@ -7227,7 +7227,7 @@ ul.task-list li input[type="checkbox"] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "Roboto", sans-serif;
+  font-family: "Righteous", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
@@ -9434,14 +9434,19 @@ h3.article-title a:hover {
   align-items: center; }
 
 #navbar-main .main-menu-item ul li .nav-link:hover {
-  color: #8fbc8f;
-  font-weight: bold !important; }
+  color: #8fbc8f; }
 
 .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
   font-weight: normal !important;
   color: #8fbc8f !important; }
   .navbar .navbar-nav .nav-link:hover i, .navbar .navbar-nav .nav-link:focus i {
     color: #8fbc8f !important; }
+
+.navbar .navbar-nav .nav-link.active {
+  color: #333333 !important; }
+
+.navbar .navbar-nav .nav-link.active:hover {
+  color: #8fbc8f !important; }
 
 button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
   color: #333333;
@@ -9486,7 +9491,7 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 
 .fa-arrow-circle-right {
   font-weight: bold;
-  color: #5a5a5a;
+  color: #464646;
   text-decoration: none; }
 
 .card {
@@ -9536,3 +9541,6 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 
 #links a:hover {
   font-weight: bold; }
+
+#about a:hover {
+  text-decoration: underline; }

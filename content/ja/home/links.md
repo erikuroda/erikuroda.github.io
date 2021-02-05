@@ -65,6 +65,7 @@ subtitle = "リンク"
  
  # CSS class.
  css_class = ""
+ 
 +++
 ### 所属
 - [お茶の水女子大学 理学部情報科学科](https://www.sci.ocha.ac.jp/ug/is/index.html)

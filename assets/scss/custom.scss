@@ -197,7 +197,7 @@ h3.article-title a:hover{
 
 #navbar-main .main-menu-item ul li .nav-link:hover{
   color: #8fbc8f;
-  font-weight: bold !important;
+  //font-weight: bold !important;
 }
 
 .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
@@ -208,11 +208,20 @@ h3.article-title a:hover{
   }
 }
 
+.navbar .navbar-nav .nav-link.active {
+  color: #333333 !important;
+}
+
+.navbar .navbar-nav .nav-link.active:hover {
+  color: #8fbc8f !important;
+}
+
 
 button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
   // バーの字の色
   color: #333333;
   font-weight: normal !important;
+  //font-family: Robot;
 }
 
 #navbar-main .main-menu-item {
@@ -265,7 +274,7 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 
 .fa-arrow-circle-right {
   font-weight: bold;
-  color: rgb(90, 90, 90);
+  color: rgb(70, 70, 70);
   //color: #8fbc8f !important;
   text-decoration: none;
 }
@@ -326,4 +335,8 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 
 #links a:hover {
   font-weight: bold;
+} 
+
+#about a:hover {
+  text-decoration: underline;
 } 
