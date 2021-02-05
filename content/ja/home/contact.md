@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 連絡先
-subtitle: メールアドレス
+title: Contact
+subtitle: 連絡先
 
 content:
   # Automatically link email and phone or display as text?

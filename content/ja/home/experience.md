@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 職歴
-subtitle: TA
+title: Career
+subtitle: 職歴
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -35,7 +35,7 @@ experience:
   
 - company: お茶の水女子大学
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: ""
+  date_end: "2021-02-01"
   date_start: "2020-10-01"
   description: 学部コア科目・コンピュータ演習２
   location: 東京

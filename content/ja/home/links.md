@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
-title = "News"
-subtitle = "ニュース"
+title = "Links"
+subtitle = "リンク"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "news"
+  page_type = "link"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 3
@@ -66,19 +66,12 @@ subtitle = "ニュース"
  # CSS class.
  css_class = ""
 +++
-### 2020 / 12 / 23
-お茶の水女子大学 令和2年度学生表彰を受賞しました。
+### 所属
+- [お茶の水女子大学 理学部情報科学科](https://www.sci.ocha.ac.jp/ug/is/index.html)
+- [情報処理学会](https://www.ipsj.or.jp)
+- [人工知能学会](https://www.ai-gakkai.or.jp)
 
 <br>
 
-### 2020 / 12 / 07
-ホームページをリニューアルしました。
-
-<br>
-
-### 2020 / 11 / 24
-第23回情報論的学習理論ワークショップ (IBIS2020)にて口頭発表を行いました。
-
-<br>
-
-<i class="fas fa-arrow-circle-right"> [過去のお知らせ](news)</i>
+### その他
+- [researchmap（黒田彗莉）](https://researchmap.jp/erikuroda?lang=ja)

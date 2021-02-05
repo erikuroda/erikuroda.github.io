@@ -3,45 +3,51 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "ホーム"
-  url = "#about"
-  weight =10
+#[[main]]
+#  name = "ホーム"
+#  url = "#about"
+#  weight =10
 
 [[main]]
   name = "News"
   url = "#news"
-  weight = 15
+  weight =15
 
 [[main]]
-  name = "学会発表"
+  name = "Talks"
   url = "#talks"
   weight = 20
 
 [[main]]
-  name = "学術論文"
+  name = "Papers"
   url = "#publications"
   weight = 30
 
 [[main]]
-  name = "業績"
+  name = "Accomplishments"
   url = "#accomplishments"
   weight = 40
 
 [[main]]
-  name = "職歴"
+  name = "Career"
   url = "#experience" #"courses/"
   weight = 50
-
+  
 [[main]]
-  name = "ブログ"
+  name = "Blogs"
   url = "#posts"
   weight = 60
   
 [[main]]
-  name = "連絡先"
+  name = "Links"
+  url = "#links"
+  weight = 65
+  
+[[main]]
+  name = "Contact"
   url = "#contact"
   weight = 70
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]

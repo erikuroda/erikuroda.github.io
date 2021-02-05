@@ -9486,7 +9486,7 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 
 .fa-arrow-circle-right {
   font-weight: bold;
-  color: #a0a0a0;
+  color: #5a5a5a;
   text-decoration: none; }
 
 .card {
@@ -9533,3 +9533,6 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
   color: #444444;
   text-decoration: none;
   text-align: left; }
+
+#links a:hover {
+  font-weight: bold; }
