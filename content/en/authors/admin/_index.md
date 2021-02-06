@@ -13,9 +13,9 @@ education:
 interests:
 - Machine Learning
 - Deep Learning
-- prediction
-- physical reasoning
-- time recognition 
+- World Model
+- Physical Reasoning
+- Prediction
 organizations:
 - name: Ochanomizu University
   url: "https://www.ocha.ac.jp/index.html"
@@ -40,4 +40,7 @@ title: Eri Kuroda
 ---
 Eri Kuroda is a graduate student majoring in information science at Ochanomizu University.
 
+My research focuses on understanding the world using machine learning and deep learning to help humans recognize objects and make predictions.
+
+<i class="far fa-caret-square-right"></i> 
 [researchmap](https://researchmap.jp/erikuroda?lang=en)

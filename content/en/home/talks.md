@@ -13,7 +13,7 @@ headless: true
 weight: 20
 
 title: Talks
-subtitle: International<br>Domestic<br>Workshop
+subtitle: Conference<br>Workshop
 
 content:
   # Page type to display. E.g. post, talk, publication...

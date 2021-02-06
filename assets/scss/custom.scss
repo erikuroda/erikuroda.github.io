@@ -176,7 +176,7 @@ h3.article-title a:hover{
 }
 
 .navbar-light {
-  font-weight: normal;
+  font-weight: bold;
   color: #333333 !important;
 }
 
@@ -187,7 +187,6 @@ h3.article-title a:hover{
     color: #8fbc8f !important;
   }
 }
-
 
 .navbar-collapse {
   flex-basis: 120%;
@@ -219,8 +218,8 @@ h3.article-title a:hover{
 
 button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
   // バーの字の色
-  color: #333333;
-  font-weight: normal !important;
+  color: #444444;
+  font-weight: bold !important;
   //font-family: Robot;
 }
 
@@ -235,7 +234,7 @@ button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main
 
 h1 {
   font-weight: bold !important;
-  color: #555555;
+  color: #444444;
   text-decoration: none;
 }
 
@@ -257,20 +256,17 @@ h3 {
   text-decoration: none;
 }
 
-
 .accordion_contents p{
   font-weight: bold;
   text-align: left;
   text-decoration: none;
 }
 
-
 button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled) {
   background-color: rgb(245, 245, 245);
   text-decoration: none;
   transition: color 0.15s ease;
 }
-
 
 .fa-arrow-circle-right {
   font-weight: bold;
@@ -338,5 +334,14 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 } 
 
 #about a:hover {
+  //font-weight: bold;
+  //color: rgb(155, 170, 190);
   text-decoration: underline;
 } 
+
+.fa-caret-square-right {
+  font-weight: bold;
+  color: rgb(155, 170, 190);
+  //color: #8fbc8f !important;
+  text-decoration: none;
+}

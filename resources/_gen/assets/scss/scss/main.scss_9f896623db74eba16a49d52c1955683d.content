@@ -7227,7 +7227,7 @@ ul.task-list li input[type="checkbox"] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "Righteous", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
@@ -9420,7 +9420,7 @@ h3.article-title a:hover {
   background: #faf0e6; }
 
 .navbar-light {
-  font-weight: normal;
+  font-weight: bold;
   color: #333333 !important; }
 
 .navbar-brand {
@@ -9449,8 +9449,8 @@ h3.article-title a:hover {
   color: #8fbc8f !important; }
 
 button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
-  color: #333333;
-  font-weight: normal !important; }
+  color: #444444;
+  font-weight: bold !important; }
 
 #navbar-main .main-menu-item {
   text-align: left !important;
@@ -9461,7 +9461,7 @@ button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main
 
 h1 {
   font-weight: bold !important;
-  color: #555555;
+  color: #444444;
   text-decoration: none; }
 
 .btn:hover {
@@ -9544,3 +9544,8 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 
 #about a:hover {
   text-decoration: underline; }
+
+.fa-caret-square-right {
+  font-weight: bold;
+  color: #9baabe;
+  text-decoration: none; }

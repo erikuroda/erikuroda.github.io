@@ -13,7 +13,7 @@ headless: true
 weight: 50
 
 title: Carrer
-subtitle: TA
+subtitle: 
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -35,7 +35,7 @@ experience:
   
 - company: Ochanomizu University
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: ""
+  date_end: "2021-02-01"
   date_start: "2020-10-01"
   description: Computer Exercises 2
   location: Tokyo

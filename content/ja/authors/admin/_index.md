@@ -12,9 +12,9 @@ education:
     year: 2020
 interests:
 - 機械学習、深層学習
+- 世界モデル
+- 物体認識
 - 予測
-- 物理法則
-- 時間認識
 organizations:
 - name: お茶の水女子大学
   url: "https://www.ocha.ac.jp/index.html"
@@ -41,6 +41,6 @@ title: 黒田 彗莉
 ---
 お茶の水女子大学で情報科学を専攻しています。
 
-機械学習や深層学習を用いて、ヒト脳内における時間認識や物理法則について<br>研究をしています。
+機械学習や深層学習を用いて、ヒトが物体を認識したり、予測を行うといった<br>世界理解についての研究をしています。
 
-[researchmap](https://researchmap.jp/erikuroda?lang=ja)
+<i class="far fa-caret-square-right"></i>  [researchmap](https://researchmap.jp/erikuroda?lang=ja)

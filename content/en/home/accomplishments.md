@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Accomplish  ment
+title: Accomplish&shy;ment
 subtitle: Award<br>Scholarship<br>Grants<br>
 
 # Date format
