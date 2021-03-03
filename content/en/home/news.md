@@ -66,17 +66,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### 2020 / 12 / 23
+### 2020-12-23
 I won the FY2020 Ochanomizu University Student Award.
 
 <br>
 
-### 2020 / 12 / 07
+### 2020-12-07
 I renewed the website.
 
 <br>
 
-### 2020 / 11 / 24
+### 2020-11-24
 I gave a oral presentation at IBIS2020.
 
 <br>

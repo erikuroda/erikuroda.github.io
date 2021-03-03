@@ -19,7 +19,7 @@
       <guid>https://erikuroda.github.io/post/mac-obs/</guid>
       <description>&lt;h1 id=&#34;bはじめにb&#34;&gt;&lt;b&gt;はじめに&lt;/b&gt;&lt;/h1&gt;
 &lt;p&gt;最近は学会や発表会が軒並みオンラインで行われています。&lt;/p&gt;
-&lt;p&gt;そのとき多くの場合問題になっているのが、&lt;b&gt;&lt;span style=&#34;color: red; &#34;&gt;タイムをどうやって管理するか&lt;/span&gt;&lt;/b&gt;
+&lt;p&gt;そのとき多くの場合問題になっているのが、&lt;b&gt;&lt;span style=&#34;color: #dc143c; &#34;&gt;タイムをどうやって管理するか&lt;/span&gt;&lt;/b&gt;
 だと思います。
 いくつかのオンライン学会に参加した際は、チャットに残り時間を記載する仕組みを取っていました。&lt;/p&gt;
 &lt;p&gt;しかしこのような方法は個人的にはいくつか不便な点があるように感じました。&lt;/p&gt;
@@ -35,10 +35,10 @@
 &lt;/ul&gt;
 &lt;p&gt;といった点があり、少し改良が必要そうです。&lt;/p&gt;
 &lt;br&gt;
-&lt;h1 id=&#34;b顔出し画面にタイムを表示するb&#34;&gt;&lt;b&gt;顔出し画面にタイムを表示する&lt;/b&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;顔出し画面にタイムを表示する&#34;&gt;顔出し画面にタイムを表示する&lt;/h1&gt;
 &lt;p&gt;個人の顔出しの画面にカウントダウン画面をキャプチャする方法です。
 この方法を取っていれば、画面共有をしていてもその画面は発表者側からも見えるようになると思います。&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;&lt;b&gt;※注意※&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color: #dc143c; &#34;&gt;&lt;b&gt;※注意※&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;私の使用しているPCはMacなので、Mac使用者向けの説明が中心になります。
 Windowsの方は他サイトをご参照ください。&lt;/p&gt;
 &lt;br&gt;
@@ -51,7 +51,7 @@ Windowsの方は他サイトをご参照ください。&lt;/p&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;b2-zoomに画面をキャプチャする手順b&#34;&gt;&lt;b&gt;2. Zoomに画面をキャプチャする手順&lt;/b&gt;&lt;/h2&gt;
 &lt;p&gt;OBS Studioをインストールし終えたあと、実際にZoomに任意の画面をキャプチャする手順を示します。&lt;/p&gt;
-&lt;p&gt;&amp;mdash;OBS側の設定&amp;mdash;&lt;/p&gt;
+&lt;h3 id=&#34;obs側の設定&#34;&gt;OBS側の設定&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;OBS Studioを立ち上げる&lt;/p&gt;
@@ -75,15 +75,14 @@ Windowsの方は他サイトをご参照ください。&lt;/p&gt;
 &lt;p&gt;「ウィンドウ」のタブから、参照したいページ(Safariなど)を選択し、「ok」を選択&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;b&gt;※注意※
-&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color: #dc143c; &#34;&gt;&lt;b&gt;※注意※&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;もしここで「Safari」などブラウザが表示されない場合は、&lt;a href=&#34;https://qiita.com/sendaiharu1/items/83aa20f8e5c96bf0a573&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;を行うと良さそうです。
 私はこれを行ったら、Macの&lt;b&gt;「セキュリティとデバイス &amp;gt; プライバシー &amp;gt; 画面収録」&lt;/b&gt;にOBSが反映されました。&lt;/p&gt;
 &lt;ol start=&#34;8&#34;&gt;
 &lt;li&gt;下の方の「コントロール」の「仮想カメラ開始」を選択&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;mdash;OBS側の設定は終了&amp;mdash;&lt;/p&gt;
-&lt;p&gt;&amp;mdash;ここからZoom側の設定&amp;mdash;&lt;/p&gt;
+&lt;p&gt;ここまでがOBS側での設定です。&lt;/p&gt;
+&lt;h3 id=&#34;zoom側の設定&#34;&gt;Zoom側の設定&lt;/h3&gt;
 &lt;ol start=&#34;9&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Zoomの「ビデオの停止」の右側の上三角を選択し，カメラを選択の部分を「OBS Virtual Camera」に変更&lt;/p&gt;
@@ -92,10 +91,10 @@ Windowsの方は他サイトをご参照ください。&lt;/p&gt;
 &lt;p&gt;もし映し出された映像が反転していたら、OBS側のSafariなどの画面を反転して、Zoomに映るものが正しくなるように調整する&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;mdash;Zoom側の設定終了&amp;mdash;&lt;/p&gt;
+&lt;p&gt;これでZoom側の設定も終わりました。&lt;/p&gt;
 &lt;br&gt;
 &lt;h1 id=&#34;おわりに&#34;&gt;おわりに&lt;/h1&gt;
-&lt;p&gt;Zoomの顔出し画面にタイマーをキャプチャする方法を書きました。(Mac)&lt;/p&gt;
+&lt;p&gt;MacにおけるZoomの顔出し画面にタイマーをキャプチャする方法を書きました。&lt;/p&gt;
 &lt;p&gt;はたしてこれがZoom学会での最適解なのかと言われると、どうなのかな、と思う点もありますが、小さな発表会や少し表示したい時などは便利になると思いました。&lt;/p&gt;
 &lt;p&gt;なにかの参考になれば幸いです。&lt;/p&gt;
 &lt;br&gt;
