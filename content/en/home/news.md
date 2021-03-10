@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2021-03-10
+I participated the FY2020 Ochanomizu University Scholarship Award Ceremony.
+
+<br>
+
 ### 2020-12-23
 I won the FY2020 Ochanomizu University Student Award.
 
@@ -73,11 +78,6 @@ I won the FY2020 Ochanomizu University Student Award.
 
 ### 2020-12-07
 I renewed the website.
-
-<br>
-
-### 2020-11-24
-I gave a oral presentation at IBIS2020.
 
 <br>
 

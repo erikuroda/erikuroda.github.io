@@ -102,6 +102,10 @@ h4.card-title.exp-title.text-muted{
   color: #555555 !important;
 }
 
+.card h4 {
+  font-size: 0.8rem;
+}
+
 .card h4 a {
   color: rgba(0, 0, 0, 0.54);
 }
@@ -324,6 +328,7 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 .acd-content p {
   font-weight: normal;
   font-size: 20px;
+  line-height: 40px;
   color: #444444;
   text-decoration: none;
   text-align: left;
@@ -344,4 +349,22 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
   color: rgb(155, 170, 190);
   //color: #8fbc8f !important;
   text-decoration: none;
+}
+
+.acd-content a:hover {
+  text-decoration: underline;
+}
+
+.article-metadata {
+  font-size: 16px;
+  margin-bottom: 13px;
+}
+
+.portrait-title h2 {
+  font-weight: 600;
+  color: #333333;
+}
+
+.portrait-title h3 {
+  color: rgba(0, 0, 0, 0.65);
 }

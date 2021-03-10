@@ -27,9 +27,9 @@ date_format: "2006年1月"
 experience:
 - company: お茶の水女子大学
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: "2020-11-28"
-  date_start: "2020-10-17"
-  description: 入試補助(文・理)、オンラインオープンキャンパス補助
+  date_end: "2021-08-31"
+  date_start: "2021-04-01"
+  description: 情報処理演習
   location: 東京
   title: ティーチングアシスタント
   
@@ -43,17 +43,10 @@ experience:
   
 - company: お茶の水女子大学
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: ""
+  date_end: "2022-03-30"
   date_start: "2020-04-01"
   description: 図書館PCサポーター
   location: 東京
   title: ティーチングアシスタント
   
-- company: お茶の水女子大学
-  company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: "2019-10-28"
-  date_start: "2019-10-28"
-  description: 入試補助(理)
-  location: 東京
-  title: ティーチングアシスタント
 ---

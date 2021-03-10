@@ -27,9 +27,9 @@ date_format: "2006/1"
 experience:
 - company: Ochanomizu University
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: "2020-11-28"
-  date_start: "2020-10-17"
-  description: Admission assistance、Online Open Campus assistance
+  date_end: "2021-08-31"
+  date_start: "2021-04-01"
+  description: Exercises in Information Processing
   location: Tokyo
   title: Teaching Assistant
   
@@ -43,17 +43,10 @@ experience:
   
 - company: Ochanomizu University
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: ""
+  date_end: "2022-03-31"
   date_start: "2020-04-01"
   description: Library PC supporter
   location: Tokyo
   title: Teaching Assistant
-  
-- company: Ochanomizu University
-  company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: "2019-10-28"
-  date_start: "2019-10-28"
-  description: Admission assistance
-  location: Tokyo
-  title: Teaching Assistant
+
 ---
