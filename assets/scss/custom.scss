@@ -103,11 +103,13 @@ h4.card-title.exp-title.text-muted{
 }
 
 .card h4 {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
+  line-height: 1.0;
 }
 
 .card h4 a {
   color: rgba(0, 0, 0, 0.54);
+  font-size: 0.8rem;
 }
 
 .card h4 a:hover {
@@ -367,4 +369,8 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 
 .portrait-title h3 {
   color: rgba(0, 0, 0, 0.65);
+}
+
+.article-metadata {
+  font-size: 0.8rem;
 }
