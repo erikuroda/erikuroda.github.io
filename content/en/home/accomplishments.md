@@ -46,7 +46,7 @@ item:
 - certificate_url: 
   date_end: "2022-03-30"
   date_start: "2020-04-01"
-  description: FY2020, just one person
+  description: FY2020, just one person<br>[News](https://www.ocha.ac.jp/news/202103016_4.html)
   organization: Ochanomizu University and Inc. KSP-SP
   organization_url: https://www.ocha.ac.jp/campuslife/scholarship/kspsp.html
   title: Scholarship (500,000JPY)

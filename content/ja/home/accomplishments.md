@@ -46,7 +46,7 @@ item:
 - certificate_url: 
   date_end: "2022-03-30"
   date_start: "2020-04-01"
-  description: 令和2年度 1名採用
+  description: 令和2年度 1名採用<br>[News](https://www.ocha.ac.jp/news/202103016_4.html)
   organization: お茶の水女子大学・(株)KSP-SP
   organization_url: https://www.ocha.ac.jp/campuslife/scholarship/kspsp.html
   title: KSP-SP奨学金 (500,000円)

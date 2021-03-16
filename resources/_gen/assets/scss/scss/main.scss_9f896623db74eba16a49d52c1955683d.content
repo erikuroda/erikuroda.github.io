@@ -9572,3 +9572,6 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 
 .article-metadata {
   font-size: 0.8rem; }
+
+#news a:hover {
+  text-decoration: underline; }

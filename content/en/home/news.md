@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 ### 2021-03-10
-I participated the FY2020 Ochanomizu University Scholarship Award Ceremony.
+I participated [the FY2020 Ochanomizu University Scholarship Award Ceremony](https://www.ocha.ac.jp/news/202103016_4.html).
 
 <br>
 
