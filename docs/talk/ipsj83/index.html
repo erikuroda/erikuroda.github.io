@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html><html lang="ja-jp" >
 
 <head>
 
@@ -27,17 +27,19 @@
   
   
 
-  <meta name="author" content="Eri Kuroda">
+  <meta name="author" content="黒田 彗莉">
 
   
   
   
     
   
-  <meta name="description" content="Eri Kuroda(黒田彗莉)&#39;s website.">
+  <meta name="description" content="情報処理学会 第83回全国大会">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://erikuroda.github.io/en/404.html">
+  <link rel="alternate" hreflang="en" href="https://erikuroda.github.io/en/talk/ipsj83/">
+  
+  <link rel="alternate" hreflang="ja-jp" href="https://erikuroda.github.io/talk/ipsj83/">
 
   
 
@@ -64,6 +66,9 @@
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -204,9 +209,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -295,11 +300,11 @@
 
   
 
-  <link rel="manifest" href="/en/index.webmanifest">
+  <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://erikuroda.github.io/en/404.html">
+  <link rel="canonical" href="https://erikuroda.github.io/talk/ipsj83/">
 
   
   
@@ -309,24 +314,65 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Eri KURODA">
-  <meta property="og:url" content="https://erikuroda.github.io/en/404.html">
-  <meta property="og:title" content="404 Page not found | Eri KURODA">
-  <meta property="og:description" content="Eri Kuroda(黒田彗莉)&#39;s website."><meta property="og:image" content="https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://erikuroda.github.io/talk/ipsj83/">
+  <meta property="og:title" content="予測符号化を模倣する深層生成学習モデル構築に向けた基礎的検討 | Eri KURODA">
+  <meta property="og:description" content="情報処理学会 第83回全国大会"><meta property="og:image" content="https://erikuroda.github.io/talk/ipsj83/featured.jpg">
+  <meta property="twitter:image" content="https://erikuroda.github.io/talk/ipsj83/featured.jpg"><meta property="og:locale" content="ja-jp">
   
     
+      <meta property="article:published_time" content="2020-03-18T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-03-18T13:00:00&#43;00:00">
   
 
   
 
 
 
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://erikuroda.github.io/talk/ipsj83/"
+  },
+  "name": "予測符号化を模倣する深層生成学習モデル構築に向けた基礎的検討",
+  
+  "location": {
+    "@type": "Place",
+    "name": "オンライン"
+  },
+  
+  
+  "image": [
+    "https://erikuroda.github.io/talk/ipsj83/featured.jpg"
+  ],
+  
+  "startDate": "2021-03-18T13:00:00Z",
+  
+  "endDate": "2021-03-20T15:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "黒田彗莉"
+  },
+  
+  "description": "情報処理学会 第83回全国大会"
+}
+</script>
 
   
 
@@ -334,10 +380,13 @@
   
 
 
+  
 
 
 
-  <title>404 Page not found | Eri KURODA</title>
+
+
+  <title>予測符号化を模倣する深層生成学習モデル構築に向けた基礎的検討 | Eri KURODA</title>
 
 </head>
 
@@ -366,7 +415,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        <input name="q" id="search-query" placeholder="検索..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -402,20 +451,20 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/en/">Eri KURODA</a>
+      <a class="navbar-brand" href="/">Eri KURODA</a>
     </div>
     
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="ナビゲーションの切り替え">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/en/">Eri KURODA</a>
+      <a class="navbar-brand" href="/">Eri KURODA</a>
     </div>
     
 
@@ -458,7 +507,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/#news"><span>News</span></a>
+          <a class="nav-link " href="/#news"><span>News</span></a>
         </li>
 
         
@@ -495,7 +544,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/#talks"><span>Talks</span></a>
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -532,7 +581,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/#publications"><span>Papers</span></a>
+          <a class="nav-link " href="/#publications"><span>Papers</span></a>
         </li>
 
         
@@ -569,7 +618,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/#accomplishments"><span>Accomplishments</span></a>
+          <a class="nav-link " href="/#accomplishments"><span>Accomplishments</span></a>
         </li>
 
         
@@ -606,7 +655,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/#experience"><span>Career</span></a>
+          <a class="nav-link " href="/#experience"><span>Career</span></a>
         </li>
 
         
@@ -643,7 +692,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/#links"><span>Links</span></a>
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
         </li>
 
         
@@ -680,7 +729,44 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/#links"><span>Links</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -704,6 +790,21 @@
       
 
       
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link " data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>日本語</span>
+          </div>
+          
+          <a class="dropdown-item" href="https://erikuroda.github.io/en/talk/ipsj83/">
+            <span>English</span>
+          </a>
+          
+        </div>
+      </li>
+      
 
     </ul>
 
@@ -714,40 +815,381 @@
   </div>
 
   <div class="page-body">
-    <div class="universal-wrapper pt-3">
-
-  <h1>Page not found</h1>
-
-  
-  
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
-  </form>
-  
+    <div class="pub">
 
   
 
-  <p>Perhaps you were looking for one of these?</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>予測符号化を模倣する深層生成学習モデル構築に向けた基礎的検討</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
 
   
   
   
-  <h2>Latest</h2>
-  <ul>
+  
+  <div>
     
-      <li><a href="/en/talk/ipsj83/">A Study on a Deep Generative Model Imitating Predictive Coding</a></li>
+
+  
+  <span >黒田彗莉</span>, <span >西本伸志</span>, <span >西田知史</span>, <span >小林一郎</span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
     
-      <li><a href="/en/talk/ibis2020/">A Deep Generative Model Imitating Predictive Coding</a></li>
+  
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 512px; max-height: 512px;">
+  <div style="position: relative">
+    <img src="/talk/ipsj83/featured.jpg" alt="" class="featured-image">
+    <span class="article-header-caption"><a href="https://www.ipsj.or.jp/event/taikai/83/index.html">IPSJ83</a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
     
-      <li><a href="/en/talk/jsai34/">A Study on Building a Deep Generative Model for Prediction in the Human Brain</a></li>
+      <h3>概要</h3>
+      <p class="pub-abstract">近年、機械学習の研究が盛んに行われており、中でも、将来を予測する深層学習モデルの開発が注目されている。本研究は、ヒト脳内の時間認識を機械学習モデルで表現することを目的とし、脳内構造を模倣した深層生成学習モデルや予測モデルをもとに新しいモデルの構築に向けた基礎的検討を行った。またそのモデルに対して、画像刺激を受けている際の脳活動情報との相関性について考察した。</p>
     
-      <li><a href="/en/talk/ipsj82/">A Study on Predicting the Real World using Deep Generative Models</a></li>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">日付</div>
+          <div class="col-12 col-md-9">
+            2021-03-18 &mdash; 2021-03-20
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
     
-      <li><a href="/en/talk/time200202/">A Study on Building a Deep Generative Model for Prediction in the Human Brain</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">イベント</div>
+          <div class="col-12 col-md-9">
+            <a href="https://www.ipsj.or.jp/event/taikai/83/index.html" target="_blank" rel="noopener">
+            情報処理学会 第83回全国大会
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">場所</div>
+          <div class="col-12 col-md-9">オンライン</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://erikuroda.github.io/talk/ipsj83/&amp;text=%e4%ba%88%e6%b8%ac%e7%ac%a6%e5%8f%b7%e5%8c%96%e3%82%92%e6%a8%a1%e5%80%a3%e3%81%99%e3%82%8b%e6%b7%b1%e5%b1%a4%e7%94%9f%e6%88%90%e5%ad%a6%e7%bf%92%e3%83%a2%e3%83%87%e3%83%ab%e6%a7%8b%e7%af%89%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e5%9f%ba%e7%a4%8e%e7%9a%84%e6%a4%9c%e8%a8%8e" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter-square"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://erikuroda.github.io/talk/ipsj83/&amp;t=%e4%ba%88%e6%b8%ac%e7%ac%a6%e5%8f%b7%e5%8c%96%e3%82%92%e6%a8%a1%e5%80%a3%e3%81%99%e3%82%8b%e6%b7%b1%e5%b1%a4%e7%94%9f%e6%88%90%e5%ad%a6%e7%bf%92%e3%83%a2%e3%83%87%e3%83%ab%e6%a7%8b%e7%af%89%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e5%9f%ba%e7%a4%8e%e7%9a%84%e6%a4%9c%e8%a8%8e" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-square"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://social-plugins.line.me/lineit/share?url=https://erikuroda.github.io/talk/ipsj83/" target="_blank" rel="noopener" class="share-btn-line">
+          <i class="fab fa-line"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+      
+      
+      <li>
+        <a href="http://b.hatena.ne.jp/add?mode=confirm&amp;url=https://erikuroda.github.io/talk/ipsj83/&amp;title=%e4%ba%88%e6%b8%ac%e7%ac%a6%e5%8f%b7%e5%8c%96%e3%82%92%e6%a8%a1%e5%80%a3%e3%81%99%e3%82%8b%e6%b7%b1%e5%b1%a4%e7%94%9f%e6%88%90%e5%ad%a6%e7%bf%92%e3%83%a2%e3%83%87%e3%83%ab%e6%a7%8b%e7%af%89%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e5%9f%ba%e7%a4%8e%e7%9a%84%e6%a4%9c%e8%a8%8e" target="_blank" rel="noopener" class="share-btn-hatena">
+          <i class="fa fa-hatena"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="http://getpocket.com/edit?url=https://erikuroda.github.io/talk/ipsj83/&amp;title=%e4%ba%88%e6%b8%ac%e7%ac%a6%e5%8f%b7%e5%8c%96%e3%82%92%e6%a8%a1%e5%80%a3%e3%81%99%e3%82%8b%e6%b7%b1%e5%b1%a4%e7%94%9f%e6%88%90%e5%ad%a6%e7%bf%92%e3%83%a2%e3%83%87%e3%83%ab%e6%a7%8b%e7%af%89%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e5%9f%ba%e7%a4%8e%e7%9a%84%e6%a4%9c%e8%a8%8e" target="_blank" rel="noopener" class="share-btn-pocket">
+          <i class="fab fa-get-pocket"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://erikuroda.github.io/talk/ipsj83/&amp;title=%e4%ba%88%e6%b8%ac%e7%ac%a6%e5%8f%b7%e5%8c%96%e3%82%92%e6%a8%a1%e5%80%a3%e3%81%99%e3%82%8b%e6%b7%b1%e5%b1%a4%e7%94%9f%e6%88%90%e5%ad%a6%e7%bf%92%e3%83%a2%e3%83%87%e3%83%ab%e6%a7%8b%e7%af%89%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e5%9f%ba%e7%a4%8e%e7%9a%84%e6%a4%9c%e8%a8%8e" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://erikuroda.github.io/talk/ipsj83/&amp;title=%e4%ba%88%e6%b8%ac%e7%ac%a6%e5%8f%b7%e5%8c%96%e3%82%92%e6%a8%a1%e5%80%a3%e3%81%99%e3%82%8b%e6%b7%b1%e5%b1%a4%e7%94%9f%e6%88%90%e5%ad%a6%e7%bf%92%e3%83%a2%e3%83%87%e3%83%ab%e6%a7%8b%e7%af%89%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e5%9f%ba%e7%a4%8e%e7%9a%84%e6%a4%9c%e8%a8%8e" target="_blank" rel="noopener" class="share-btn-tumblr">
+          <i class="fab fa-tumblr-square"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e4%ba%88%e6%b8%ac%e7%ac%a6%e5%8f%b7%e5%8c%96%e3%82%92%e6%a8%a1%e5%80%a3%e3%81%99%e3%82%8b%e6%b7%b1%e5%b1%a4%e7%94%9f%e6%88%90%e5%ad%a6%e7%bf%92%e3%83%a2%e3%83%87%e3%83%ab%e6%a7%8b%e7%af%89%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e5%9f%ba%e7%a4%8e%e7%9a%84%e6%a4%9c%e8%a8%8e&amp;body=https://erikuroda.github.io/talk/ipsj83/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>関連項目</h3>
+    <ul>
+      
+      <li><a href="/talk/ibis2020/">予測符号化を模倣する深層生成学習モデル構築に向けた取り組み</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
 </div>
   </div>
 
@@ -791,7 +1233,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
+        <h5 class="modal-title">引用</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -801,10 +1243,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
+          <i class="fas fa-copy"></i> コピー
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
+          <i class="fas fa-download"></i> ダウンロード
         </a>
         <div id="modal-error"></div>
       </div>
@@ -859,13 +1301,13 @@
     
     
     <script>
-      const search_config = {"indexURI":"/en/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"結果が見つかりませんでした","placeholder":"検索...","results":"results found"};
       const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks",
+        'post': "投稿",
+        'project': "プロジェクト",
+        'publication' : "発表文献",
+        'talk' : "登壇",
         'slides' : "Slides"
         };
     </script>

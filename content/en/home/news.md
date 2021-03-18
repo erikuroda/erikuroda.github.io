@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2021-03-18
+I gave an oral presentation at [The 83rd National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/83/index.html)
+
+<br>
+
 ### 2021-03-10
 I participated [the FY2020 Ochanomizu University Scholarship Award Ceremony](https://www.ocha.ac.jp/news/202103016_4.html).
 
@@ -73,11 +78,6 @@ I participated [the FY2020 Ochanomizu University Scholarship Award Ceremony](htt
 
 ### 2020-12-23
 I won the FY2020 Ochanomizu University Student Award.
-
-<br>
-
-### 2020-12-07
-I renewed the website.
 
 <br>
 

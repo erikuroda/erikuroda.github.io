@@ -33,7 +33,7 @@ social:
   link: https://github.com/erikuroda
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1r03IJc6ZHp76xXtfDi0MqKiW9Lnu-Hxw/view?usp=sharing
+  link: static/files/cv210318_kuroda.pdf
 
   
 superuser: true
