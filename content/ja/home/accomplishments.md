@@ -27,6 +27,15 @@ date_format: "2006年1月"
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2021-03-22"
+  description: 
+  organization: "(株)リバネス, (株)パナソニックアプライアンス"
+  organization_url: 
+  title: 第50回リバネス研究費 パナソニックアプライアンス社賞 (500,000円)
+  url: ""
+
+- certificate_url: 
+  date_end: ""
   date_start: "2020-12-23"
   description: 研究において顕著な業績を挙げた大学院生 (令和2年度 3名)
   organization: "お茶の水女子大学"

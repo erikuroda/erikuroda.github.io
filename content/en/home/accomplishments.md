@@ -27,6 +27,15 @@ date_format: "2006/1"
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2021-03-22"
+  description: 
+  organization: Leave a Nest Co. and Appliances Company, Panasonic Co.
+  organization_url: 
+  title: Research Grant (JPY 500,000)
+  url: ""
+
+- certificate_url: 
+  date_end: ""
   date_start: "2020-12-23"
   description: Graduate student who have made outstanding achievements in research (FY2020, 3 students).
   organization: Ochanomizu University
@@ -49,7 +58,7 @@ item:
   description: FY2020, just one person<br>[News](https://www.ocha.ac.jp/news/202103016_4.html)
   organization: Ochanomizu University and Inc. KSP-SP
   organization_url: https://www.ocha.ac.jp/campuslife/scholarship/kspsp.html
-  title: Scholarship (500,000JPY)
+  title: Scholarship (JPY 500,000)
   url: 
   
 - certificate_url:
@@ -67,6 +76,6 @@ item:
   description: ""
   organization: Ochanomizu University AI-Data Science Center
   organization_url: https://www.cf.ocha.ac.jp/ai-ds/index.html
-  title: Research support (200,000JPY)
+  title: Research Grant (JPY 200,000)
   url: ""
 ---

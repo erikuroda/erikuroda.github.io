@@ -66,13 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2021-03-22
+I received Research Grant from Leave a Nest Co. and Appliances Company, Panasonic Co.
 ### 2021-03-18
 I gave an oral presentation at [The 83rd National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/83/index.html)
-
-<br>
-
-### 2021-03-10
-I participated [the FY2020 Ochanomizu University Scholarship Award Ceremony](https://www.ocha.ac.jp/news/202103016_4.html).
 
 <br>
 

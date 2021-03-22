@@ -109,7 +109,8 @@ h4.card-title.exp-title.text-muted{
 
 .card h4 a {
   color: rgba(0, 0, 0, 0.54);
-  font-size: 0.8rem;
+  line-height: 2;
+  font-size: 0.7rem;
 }
 
 .card h4 a:hover {
@@ -373,7 +374,8 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 }
 
 .article-metadata {
-  font-size: 0.8rem;
+  line-height: 2;
+  font-size: 0.65rem;
 }
 
 #news a:hover {

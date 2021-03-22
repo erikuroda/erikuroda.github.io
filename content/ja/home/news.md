@@ -66,13 +66,13 @@ subtitle = "ニュース"
  # CSS class.
  css_class = ""
 +++
-### 2021-03-18
-[情報処理学会 第83回全国大会](https://www.ipsj.or.jp/event/taikai/83/index.html)にて口頭発表を行いました。
+### 2021-03-22
+第50回リバネス研究費 パナソニックアプライアンス社賞に採択されました。
 
 <br>
 
-### 2021-03-10
-[令和2年度お茶の水女子大学奨学金授与式](https://www.ocha.ac.jp/news/202103016_4.html)に参加しました。
+### 2021-03-18
+[情報処理学会 第83回全国大会](https://www.ipsj.or.jp/event/taikai/83/index.html)にて口頭発表を行いました。
 
 <br>
 
