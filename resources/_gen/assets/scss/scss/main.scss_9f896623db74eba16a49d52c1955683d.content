@@ -9500,6 +9500,10 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
   color: #464646;
   text-decoration: none; }
 
+#news p a {
+  color: #8fbc8f;
+  font-family: Roboto; }
+
 .card {
   background-color: #f9f9f9; }
 
@@ -9547,7 +9551,7 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
   text-align: left; }
 
 #links a:hover {
-  font-weight: bold; }
+  text-decoration: underline !important; }
 
 #about a:hover {
   text-decoration: underline; }

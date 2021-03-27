@@ -66,8 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### 2021-03-22
-I received Research Grant from Leave a Nest Co. and Appliances Company, Panasonic Co.
+### 2021-03-26
+I received [Research Grant from Leave a Nest Co. and Appliances Company, Panasonic Co](https://r.lne.st/2021/03/26/50th_panasonic_result/).
+
+<br>
+
 ### 2021-03-18
 I gave an oral presentation at [The 83rd National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/83/index.html)
 

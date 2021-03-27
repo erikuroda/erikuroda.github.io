@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "News"
-subtitle = "ニュース"
+subtitle = "最近のお知らせ"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,8 +66,8 @@ subtitle = "ニュース"
  # CSS class.
  css_class = ""
 +++
-### 2021-03-22
-第50回リバネス研究費 パナソニックアプライアンス社賞に採択されました。
+### 2021-03-26
+[第50回リバネス研究費 パナソニックアプライアンス社賞](https://r.lne.st/2021/03/26/50th_panasonic_result/)に採択されました。
 
 <br>
 

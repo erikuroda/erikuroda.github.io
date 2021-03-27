@@ -27,7 +27,7 @@ date_format: "2006/1"
 experience:
 - company: Information Processing Society of Japan
   company_url: "https://www.ipsj.or.jp"
-  date_end: "2022-03-31"
+  date_end: ""
   date_start: "2021-04-01"
   description: 
   location: Tokyo
@@ -35,7 +35,15 @@ experience:
 
 - company: Ochanomizu University
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: "2021-08-31"
+  date_end: ""
+  date_start: "2021-04-01"
+  description: Introduction to Data Analysis
+  location: Tokyo
+  title: Teaching Assistant
+
+- company: Ochanomizu University
+  company_url: "https://www.ocha.ac.jp/index.html"
+  date_end: ""
   date_start: "2021-04-01"
   description: Exercises in Information Processing
   location: Tokyo

@@ -283,6 +283,11 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
   text-decoration: none;
 }
 
+#news p a {
+  color: #8fbc8f;
+  font-family: Roboto;
+}
+
 .card {
   background-color: rgb(249, 249, 249);
 }
@@ -339,7 +344,7 @@ button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disab
 }
 
 #links a:hover {
-  font-weight: bold;
+  text-decoration: underline !important;
 } 
 
 #about a:hover {

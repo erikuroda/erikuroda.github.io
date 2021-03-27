@@ -29,10 +29,10 @@ item:
   date_end: ""
   date_start: "2021-03-22"
   description: 
-  organization: "(株)リバネス, (株)パナソニックアプライアンス"
-  organization_url: 
+  organization: "(株)リバネス・(株)パナソニックアプライアンス"
+  organization_url: https://r.lne.st/2020/09/01/50th_panasonic/
   title: 第50回リバネス研究費 パナソニックアプライアンス社賞 (500,000円)
-  url: ""
+  url: "https://r.lne.st/2021/03/26/50th_panasonic_result/"
 
 - certificate_url: 
   date_end: ""

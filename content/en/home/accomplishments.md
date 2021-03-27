@@ -27,12 +27,12 @@ date_format: "2006/1"
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2021-03-22"
+  date_start: "2021-03-26"
   description: 
   organization: Leave a Nest Co. and Appliances Company, Panasonic Co.
-  organization_url: 
+  organization_url: https://r.lne.st/2020/09/01/50th_panasonic/
   title: Research Grant (JPY 500,000)
-  url: ""
+  url: "https://r.lne.st/2021/03/26/50th_panasonic_result/"
 
 - certificate_url: 
   date_end: ""
