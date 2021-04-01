@@ -20,7 +20,7 @@ organizations:
   url: "https://www.ocha.ac.jp/index.html"
 - name: 小林一郎研究室
   url: 
-role: 博士前期課程 1年
+role: 博士前期課程 2年
 social: 
 - icon: envelope
   icon_pack: fas

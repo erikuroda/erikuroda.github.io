@@ -21,7 +21,7 @@ organizations:
   url: "https://www.ocha.ac.jp/index.html"
 - name: Ichiro Kobayashi Lab.
   url: ""  
-role: Mater 1st
+role: Master 2nd
 social:
 - icon: envelope
   icon_pack: fas
