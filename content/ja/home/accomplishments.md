@@ -28,7 +28,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2021-03-22"
-  description: 　[News](https://lne.st/2021/03/31/ceremony_panasonicap/)
+  description: 　[News](https://lne.st/2021/03/31/ceremony_panasonicap/)　[Interview](https://r.lne.st/2021/05/31/50-panasonicap_kuroda/)
   organization: "(株)リバネス・(株)パナソニックアプライアンス"
   organization_url: https://r.lne.st/2020/09/01/50th_panasonic/
   title: 第50回リバネス研究費 パナソニックアプライアンス社賞 (500,000円)

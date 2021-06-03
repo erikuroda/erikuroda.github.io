@@ -28,6 +28,9 @@ view: 2
 <h1>2020</h1>
 </label>
 <div class="acd-content">
+<h3>12-23</h3>
+<p>I won the FY2020 Ochanomizu University Student Award.</p>
+<br>
 <h3>12-07</h3>
 <p>Renewal of the website.</p>
 <br>

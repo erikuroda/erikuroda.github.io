@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2021-05-31
+My interview was posted on the [website](https://r.lne.st/2021/05/31/50-panasonicap_kuroda/).
+
+<br>
+
 ### 2021-03-26
 I received [Research Grant from Leave a Nest Co. and Appliances Company, Panasonic Co](https://r.lne.st/2021/03/26/50th_panasonic_result/).
 
@@ -73,11 +78,6 @@ I received [Research Grant from Leave a Nest Co. and Appliances Company, Panason
 
 ### 2021-03-18
 I gave an oral presentation at [The 83rd National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/83/index.html)
-
-<br>
-
-### 2020-12-23
-I won the FY2020 Ochanomizu University Student Award.
 
 <br>
 
