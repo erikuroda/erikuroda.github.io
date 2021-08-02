@@ -20,3 +20,5 @@
 /docs/en/courses
 /docs/en/post
 /docs/en/publication_types
+
+/config/_default/params.toml
