@@ -240,3 +240,9 @@
 
 - id: cookie_learn
   translation: Learn more
+  
+- id: address
+  translation: 2-1-1 Otsuka, Bunkyo-ku, Tokyo 112-8610
+  
+- id: office_hours
+  translation: Monday-Friday　9:00-18:00

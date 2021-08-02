@@ -42,6 +42,7 @@ item:
   organization_url: https://www.ocha.ac.jp/index.html
   title: 令和2年度 学生表彰
   url: ""
+  svg_icon: "ocha"
 
 - certificate_url: 
   date_end: ""
@@ -74,7 +75,7 @@ item:
   date_end: ""
   date_start: "2019-11-01"
   description: ""
-  organization: お茶の水女子大学 文理融合AI・データサイエンスセンター
+  organization: お茶の水女子大学・文理融合AIデータサイエンスセンター
   organization_url: https://www.cf.ocha.ac.jp/ai-ds/index.html
   title: AI・データサイエンス学生研究支援 (200,000円)
   url: ""

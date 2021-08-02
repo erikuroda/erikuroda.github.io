@@ -9369,7 +9369,7 @@ h4.card-title.exp-title.text-muted {
 
 .card h4 a {
   color: rgba(0, 0, 0, 0.54);
-  line-height: 2;
+  line-height: 1.5;
   font-size: 0.7rem; }
 
 .card h4 a:hover {
@@ -9398,7 +9398,13 @@ a:hover h4.card-title.exp-title.text-muted {
   font-weight: bold; }
 
 .experience .card-text {
-  color: #2f2f2f !important; }
+  color: #2f2f2f !important;
+  padding-left: 3.0rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0; }
+
+.experience .card-body {
+  padding: 1.0rem; }
 
 .dropdown-menu, .dropdown-item {
   background-color: white !important;

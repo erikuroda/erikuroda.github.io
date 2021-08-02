@@ -108,7 +108,7 @@ h4.card-title.exp-title.text-muted{
 
 .card h4 a {
   color: rgba(0, 0, 0, 0.54);
-  line-height: 2;
+  line-height: 1.5;
   font-size: 0.7rem;
 }
 
@@ -127,6 +127,7 @@ a:hover h4.card-title.exp-title.text-muted {
 
 .course .card-subtitle a {
   border-bottom: none !important;
+  
 }
 
 .card-subtitle a:hover {
@@ -146,6 +147,13 @@ a:hover h4.card-title.exp-title.text-muted {
 
 .experience .card-text {
   color: rgb(47, 47, 47) !important;
+  padding-left: 3.0rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0;
+}
+
+.experience .card-body {
+  padding: 1.0rem;
 }
 
 .dropdown-menu, .dropdown-item {

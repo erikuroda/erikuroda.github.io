@@ -27,6 +27,7 @@ date_format: "2006/1"
 experience:
 - company: The Japanese Society for Artificial Intelligence
   company_url: "https://www.ai-gakkai.or.jp/resource/student_forum/"
+  company_logo: "jsai"
   date_end: ""
   date_start: "2021-06-01"
   description: 
@@ -35,6 +36,7 @@ experience:
 
 - company: Information Processing Society of Japan
   company_url: "https://www.ipsj.or.jp"
+  company_logo: "ipsj"
   date_end: ""
   date_start: "2021-04-01"
   description: 
@@ -43,7 +45,8 @@ experience:
 
 - company: Ochanomizu University
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: ""
+  company_logo: "ocha"
+  date_end: "2021-08-01"
   date_start: "2021-04-01"
   description: Introduction to Data Analysis
   location: Tokyo
@@ -51,7 +54,8 @@ experience:
 
 - company: Ochanomizu University
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: ""
+  company_logo: "ocha"
+  date_end: "2021-08-01"
   date_start: "2021-04-01"
   description: Exercises in Information Processing
   location: Tokyo
@@ -59,6 +63,7 @@ experience:
   
 - company: Ochanomizu University
   company_url: "https://www.ocha.ac.jp/index.html"
+  company_logo: "ocha"
   date_end: "2021-02-01"
   date_start: "2020-10-01"
   description: Computer Exercises 2
@@ -67,6 +72,7 @@ experience:
   
 - company: Ochanomizu University
   company_url: "https://www.ocha.ac.jp/index.html"
+  company_logo: "ocha"
   date_end: "2022-03-31"
   date_start: "2020-04-01"
   description: Library PC supporter

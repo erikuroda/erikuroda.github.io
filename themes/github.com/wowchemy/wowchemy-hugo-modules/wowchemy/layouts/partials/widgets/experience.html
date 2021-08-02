@@ -28,6 +28,19 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
+          
+          {{- if .company_logo}}
+          {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) -}}
+          {{ if not $svg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/brands/%s.svg`" .company_logo }}{{end}}
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2">
+              {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+              <img src="{{ $svg_icon.RelPermalink }}" width="50px" height="50px" alt="{{.company | plainify}}">
+              {{- with .company_url}}</a>{{end -}}
+            </div>
+            <div>
+          {{ end }}
+          
           <h4 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h4>
           <h4 class="card-title exp-company text-muted my-0">
             {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
@@ -44,6 +57,12 @@
               <span>{{.}}</span>
             {{end}}
           </div>
+          
+          {{- if .company_logo}}
+            </div>
+          </div>
+          {{end}}
+          
           {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
         </div>
       </div>

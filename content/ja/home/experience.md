@@ -27,6 +27,7 @@ date_format: "2006年1月"
 experience:
 - company: 人工知能学会
   company_url: "https://www.ai-gakkai.or.jp/resource/student_forum/"
+  company_logo: "jsai"
   date_end: ""
   date_start: "2021-06-01"
   description: 
@@ -35,6 +36,7 @@ experience:
 
 - company: 情報処理学会
   company_url: "https://www.ipsj.or.jp"
+  company_logo: "ipsj"
   date_end: ""
   date_start: "2021-04-01"
   description: 
@@ -43,7 +45,8 @@ experience:
   
 - company: お茶の水女子大学
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: ""
+  company_logo: "ocha"
+  date_end: "2021-08-01"
   date_start: "2021-04-01"
   description: 学部専門科目・データ解析序論
   location: 東京
@@ -51,7 +54,8 @@ experience:
 
 - company: お茶の水女子大学
   company_url: "https://www.ocha.ac.jp/index.html"
-  date_end: ""
+  company_logo: "ocha"
+  date_end: "2021-08-01"
   date_start: "2021-04-01"
   description: 学部コア科目・情報処理演習
   location: 東京
@@ -59,6 +63,7 @@ experience:
   
 - company: お茶の水女子大学
   company_url: "https://www.ocha.ac.jp/index.html"
+  company_logo: "ocha"
   date_end: "2021-02-01"
   date_start: "2020-10-01"
   description: 学部コア科目・コンピュータ演習２
@@ -67,6 +72,7 @@ experience:
   
 - company: お茶の水女子大学
   company_url: "https://www.ocha.ac.jp/index.html"
+  company_logo: "ocha"
   date_end: "2022-03-30"
   date_start: "2020-04-01"
   description: 図書館PCサポーター

@@ -93,18 +93,19 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+#address = {street = "2-1-1 Otsuka", city = "Bunkyo-ku", region = "Tokyo", postcode = "112-8610", country = "Japan", country_code = "JP"}
 address = {street = "", city = "", region = "", postcode = "", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "", longitude = ""}
+coordinates = {latitude = "35.71887225068266", longitude = "139.73293857205243"}
 
 # Directions for visitors to locate you.
 directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday - Friday 09:00 to 20:00"]
+office_hours = ["Monday - Friday 09:00 to 18:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -258,8 +259,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
+  engine = 0
+  api_key = "AIzaSyDG89LERXhQiqRyzxJyjm4qOQGFCdHsqAM"
   zoom = 15
 
 ############################
