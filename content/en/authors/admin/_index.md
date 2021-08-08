@@ -34,7 +34,7 @@ social:
   link: https://github.com/erikuroda
 - icon: cv
   icon_pack: ai
-  link: https://erikuroda.github.io/docs/cv210327_kuroda.pdf
+  link: https://erikuroda.github.io/docs/cv210808_erikuroda.pdf
 superuser: true
 title: Eri Kuroda
 ---

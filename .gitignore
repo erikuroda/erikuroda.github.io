@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-.DS_Store
+*.DS_Store
 
 /docs/author/*
 !/docs/author/黒田-彗莉
