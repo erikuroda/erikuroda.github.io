@@ -9436,7 +9436,7 @@ h3.article-title a:hover {
   color: #fbfbfb !important; }
 
 .navbar-brand {
-  font-weight: 530;
+  font-weight: 600;
   color: #fbfbfb !important; }
   .navbar-brand:hover {
     color: #333333 !important; }
@@ -9463,7 +9463,7 @@ h3.article-title a:hover {
 
 button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
   color: #fbfbfb;
-  font-weight: 530 !important; }
+  font-weight: 600 !important; }
 
 #navbar-main .main-menu-item {
   text-align: left !important;
