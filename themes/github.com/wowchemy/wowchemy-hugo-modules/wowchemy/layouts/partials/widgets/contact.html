@@ -81,8 +81,8 @@
     {{ if $data.address.street | or $data.address.city | or $data.address.region | or $data.address.postcode | or $data.address.country }}
       {{ $addr_formatted = partial "functions/get_address" (dict "root" . "address" $data.address) }}
       <li>
-        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address">{{$addr_formatted}}</span>
+        <i class="fa-li fas fa-map-marker-alt fa-2x" aria-hidden="true"></i>
+        <span id="person-address">{{i18n "address"}}</span>
       </li>
     {{ end }}
 
@@ -97,11 +97,12 @@
     <li>
       <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
       <span>
-        {{- if not (reflect.IsSlice .)}}{{/* Support legacy string format. */}}
+        <!--{{- if not (reflect.IsSlice .)}}{{/* Support legacy string format. */}}
           {{- . | markdownify | emojify -}}
         {{else}}
           {{- delimit . "<br>" | markdownify | emojify -}}
-        {{end -}}
+        {{end -}}-->
+        {{ i18n "office_hours" }}
       </span>
     </li>
     {{ end }}

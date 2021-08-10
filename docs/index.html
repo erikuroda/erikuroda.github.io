@@ -247,45 +247,15 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QEV4HDLLG6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-QEV4HDLLG6', {});
-
   
-  document.addEventListener('click', onClickCallback, false);
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5SMSTGZ');
 </script>
 
-
-  
 
   
 
@@ -3032,13 +3002,22 @@
 
     
     
+      
+      <li>
+        <i class="fa-li fas fa-map-marker-alt fa-2x" aria-hidden="true"></i>
+        <span id="person-address">〒112-8610 東京都文京区大塚2-1-1 理学部3号館506　小林研究室学生室</span>
+      </li>
+    
 
     
 
     
     <li>
       <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-      <span>Monday - Friday 09:00 to 18:00</span>
+      <span>
+        
+        平日 9:00−18:00
+      </span>
     </li>
     
 
@@ -3049,6 +3028,16 @@
 
   </ul>
 
+  
+  <div class="d-none">
+    <input id="map-provider" value="1">
+    <input id="map-lat" value="35.71887225068266">
+    <input id="map-lng" value="139.73293857205243">
+    <input id="map-dir" value="2-1-1 Otsuka, Bunkyo-ku, Tokyo 112-8610">
+    <input id="map-zoom" value="15">
+    <input id="map-api-key" value="AIzaSyDG89LERXhQiqRyzxJyjm4qOQGFCdHsqAM">
+  </div>
+  <div id="map"></div>
   
 
 </div>
@@ -3157,6 +3146,11 @@
     
 
     
+    
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDG89LERXhQiqRyzxJyjm4qOQGFCdHsqAM"></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+      
     
 
     
