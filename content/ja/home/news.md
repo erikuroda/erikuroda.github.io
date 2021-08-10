@@ -81,4 +81,4 @@ subtitle = "最近のお知らせ"
 
 <br>
 
-<i class="fas fa-arrow-circle-right"> [過去のお知らせ](news)</i>
+<b>[過去のお知らせ](news)</b> <i class="fas fa-angle-right"></i>

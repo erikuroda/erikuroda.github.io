@@ -9399,12 +9399,11 @@ a:hover h4.card-title.exp-title.text-muted {
 
 .experience .card-text {
   color: #2f2f2f !important;
-  padding-left: 3.0rem;
-  padding-top: 0.3rem;
-  padding-bottom: 0; }
+  padding-left: 2.8rem;
+  padding-top: 0.5rem; }
 
 .experience .card-body {
-  padding: 1.0rem; }
+  padding-bottom: 0.8rem; }
 
 .dropdown-menu, .dropdown-item {
   background-color: white !important;
@@ -9492,9 +9491,9 @@ h3 {
   text-align: left;
   text-decoration: none; }
 
-.fa-arrow-circle-right {
+.fa-angle-right {
   font-weight: bold;
-  color: #464646;
+  color: #f59869;
   text-decoration: none; }
 
 #news p a {
