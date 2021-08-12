@@ -9314,7 +9314,7 @@ a:hover {
 .fa-orcid {
   color: #a1cd41; }
 
-.fa-github {
+.fa-github-alt {
   color: #141414; }
 
 .fa-researchgate {
@@ -9370,7 +9370,8 @@ h4.card-title.exp-title.text-muted {
 .card h4 a {
   color: rgba(0, 0, 0, 0.54);
   line-height: 1.5;
-  font-size: 0.7rem; }
+  font-size: 0.75rem;
+  font-family: Roboto; }
 
 .card h4 a:hover {
   color: #f59869;
@@ -9395,7 +9396,7 @@ a:hover h4.card-title.exp-title.text-muted {
 
 .card-text a:hover {
   color: #f59869;
-  font-weight: bold; }
+  text-decoration: underline; }
 
 .experience .card-text {
   color: #2f2f2f !important;
@@ -9559,10 +9560,6 @@ h3 {
 .acd-content a:hover {
   text-decoration: underline; }
 
-.article-metadata {
-  font-size: 16px;
-  margin-bottom: 13px; }
-
 .portrait-title h2 {
   font-weight: 600;
   color: #333333; }
@@ -9572,7 +9569,8 @@ h3 {
 
 .article-metadata {
   line-height: 2;
-  font-size: 0.65rem; }
+  font-size: 0.75rem;
+  margin-bottom: 13px; }
 
 #news a:hover {
   text-decoration: underline; }

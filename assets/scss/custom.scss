@@ -35,7 +35,7 @@ a:hover {
   color: rgb(161, 205, 65);
 }
 
-.fa-github {
+.fa-github-alt {
   color: rgb(20, 20, 20);
 }
 
@@ -109,7 +109,8 @@ h4.card-title.exp-title.text-muted{
 .card h4 a {
   color: rgba(0, 0, 0, 0.54);
   line-height: 1.5;
-  font-size: 0.7rem;
+  font-size: 0.75rem;
+  font-family: Roboto;
 }
 
 .card h4 a:hover {
@@ -127,6 +128,7 @@ a:hover h4.card-title.exp-title.text-muted {
 
 .course .card-subtitle a {
   border-bottom: none !important;
+  //font-size: 0.75rem;
   
 }
 
@@ -142,7 +144,8 @@ a:hover h4.card-title.exp-title.text-muted {
 
 .card-text a:hover {
   color: #f59869;
-  font-weight: bold;
+  text-decoration: underline;
+  //font-weight: bold;
 }
 
 .experience .card-text {
@@ -352,11 +355,6 @@ h3 {
   text-decoration: underline;
 }
 
-.article-metadata {
-  font-size: 16px;
-  margin-bottom: 13px;
-}
-
 .portrait-title h2 {
   font-weight: 600;
   color: #333333;
@@ -368,7 +366,9 @@ h3 {
 
 .article-metadata {
   line-height: 2;
-  font-size: 0.65rem;
+  font-size: 0.75rem;
+  //font-size: 22px;
+  margin-bottom: 13px;
 }
 
 #news a:hover {

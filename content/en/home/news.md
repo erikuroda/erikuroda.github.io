@@ -81,4 +81,4 @@ I gave an oral presentation at [The 83rd National Convention of IPSJ](https://ww
 
 <br>
 
-<i class="fas fa-arrow-circle-right"> [Past News](news)</i>
+[SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

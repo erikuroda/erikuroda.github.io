@@ -28,7 +28,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/erikuroda
-- icon: github
+- icon: github-alt
   icon_pack: fab
   link: https://github.com/erikuroda
 - icon: cv
