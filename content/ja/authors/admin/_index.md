@@ -41,6 +41,6 @@ title: 黒田 彗莉
 ---
 お茶の水女子大学で情報科学を専攻しています。
 
-機械学習や深層学習を用いて、ヒトが物体を認識したり、予測を行うといった<br>世界理解についての研究をしています。
+機械学習や深層学習を用いて、ヒトが物体を認識したり、予測を行うといった世界理解についての研究をしています。
 
 <i class="far fa-caret-square-right"></i>  [researchmap](https://researchmap.jp/erikuroda?lang=ja)
