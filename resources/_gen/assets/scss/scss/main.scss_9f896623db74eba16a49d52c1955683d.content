@@ -9439,7 +9439,7 @@ h3.article-title a:hover {
   font-weight: 600;
   color: #fbfbfb !important; }
   .navbar-brand:hover {
-    color: #333333 !important; }
+    color: #5C3927 !important; }
 
 .navbar-collapse {
   flex-basis: 120%;
@@ -9447,11 +9447,11 @@ h3.article-title a:hover {
   align-items: center; }
 
 #navbar-main .main-menu-item ul li .nav-link:hover {
-  color: #333333; }
+  color: #5C3927; }
 
 .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
   font-weight: normal !important;
-  color: #333333 !important; }
+  color: #5C3927 !important; }
   .navbar .navbar-nav .nav-link:hover i, .navbar .navbar-nav .nav-link:focus i {
     color: #fbfbfb !important; }
 
@@ -9575,8 +9575,11 @@ h3 {
 #news a:hover {
   text-decoration: underline; }
 
+footer {
+  margin-top: 23px; }
+
 .page-footer {
-  background: #646464; }
+  background: #5C3927; }
 
 .site-footer {
   color: white; }

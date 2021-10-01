@@ -202,7 +202,7 @@ h3.article-title a:hover{
   font-weight: 600;
   color: #fbfbfb !important;
   &:hover {
-    color: #333333 !important;
+    color: #5C3927 !important;
   }
 }
 
@@ -213,13 +213,13 @@ h3.article-title a:hover{
 }
 
 #navbar-main .main-menu-item ul li .nav-link:hover{
-  color: #333333;
+  color: #5C3927;
   //font-weight: bold !important;
 }
 
 .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
   font-weight: normal !important;
-  color: #333333 !important;
+  color: #5C3927 !important;
   i {
     color: #fbfbfb !important;
   }
@@ -375,8 +375,12 @@ h3 {
   text-decoration: underline;
 }
 
+footer {
+  margin-top: 23px;
+}
+
 .page-footer {
-  background: rgb(100, 100, 100);
+  background: #5C3927;
 }
 
 .site-footer {

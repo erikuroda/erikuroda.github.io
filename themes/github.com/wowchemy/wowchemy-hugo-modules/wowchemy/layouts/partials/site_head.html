@@ -57,7 +57,9 @@
   {{ $css := site.Data.assets.css }}
   {{ $js := site.Data.assets.js }}
   {{ if ne ($scr.Get "primary") "#fff" }}
-  <meta name="theme-color" content="{{ $scr.Get "primary" }}">
+  <!--<meta name="theme-color" content="{{ $scr.Get "primary" }}">-->
+  <meta name="theme-color" content="#5C3927" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#5C3927" media="(prefers-color-scheme: dark)">
   {{ end }}
 
   {{/* Config LaTeX math rendering. */}}
