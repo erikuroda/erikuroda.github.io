@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://erikuroda.github.io/talk/isis2021/</loc>
-    <lastmod>2021-10-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/isis2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/isis2021/"
-                />
-  </url>
-  
-  <url>
     <loc>https://erikuroda.github.io/authors/</loc>
-    <lastmod>2021-10-15T13:00:00+00:00</lastmod>
+    <lastmod>2021-03-18T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,23 +18,8 @@
   </url>
   
   <url>
-    <loc>https://erikuroda.github.io/author/eri-kuroda/</loc>
-    <lastmod>2021-10-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/eri-kuroda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/eri-kuroda/"
-                />
-  </url>
-  
-  <url>
     <loc>https://erikuroda.github.io/</loc>
-    <lastmod>2021-10-15T13:00:00+00:00</lastmod>
+    <lastmod>2021-03-18T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,66 +29,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://erikuroda.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/ichiro-kobayashi/</loc>
-    <lastmod>2021-10-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/ichiro-kobayashi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/ichiro-kobayashi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/satoshi-nishida/</loc>
-    <lastmod>2021-10-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/satoshi-nishida/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/satoshi-nishida/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/shinji-nishimoto/</loc>
-    <lastmod>2021-10-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/shinji-nishimoto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/shinji-nishimoto/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/talk/</loc>
-    <lastmod>2021-10-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/"
                 />
   </url>
   
@@ -134,6 +44,21 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://erikuroda.github.io/talk/ipsj83/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://erikuroda.github.io/talk/</loc>
+    <lastmod>2021-03-18T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erikuroda.github.io/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://erikuroda.github.io/talk/"
                 />
   </url>
   
