@@ -5,12 +5,20 @@
     <link>https://erikuroda.github.io/en/author/eri-kuroda/</link>
       <atom:link href="https://erikuroda.github.io/en/author/eri-kuroda/index.xml" rel="self" type="application/rss+xml" />
     <description>Eri Kuroda</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Eri Kuroda, 2021.</copyright><lastBuildDate>Thu, 18 Mar 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Eri Kuroda, 2021.</copyright><lastBuildDate>Wed, 15 Dec 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
       <title>Eri Kuroda</title>
       <link>https://erikuroda.github.io/en/author/eri-kuroda/</link>
     </image>
+    
+    <item>
+      <title>A Deep Generative Model imitating Predictive Coding in the Human Brain</title>
+      <link>https://erikuroda.github.io/en/talk/isis2021/</link>
+      <pubDate>Wed, 15 Dec 2021 13:00:00 +0000</pubDate>
+      <guid>https://erikuroda.github.io/en/talk/isis2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Study on a Deep Generative Model Imitating Predictive Coding</title>
