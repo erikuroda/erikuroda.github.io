@@ -17,7 +17,7 @@ location: Cheongju, Korea
 math: true
 projects:
 - internal-project
-publishDate: "2021-12-15T00:00:00Z"
+publishDate: "2021-10-27T00:00:00Z"
 slides: 
 summary: The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)
 tags: []
