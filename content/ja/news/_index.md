@@ -6,18 +6,18 @@ title: 過去のお知らせ
 view: 2
 ---
 
-<!-- <div class="card" id="news2021">
+<div class="card" id="news2021">
 <button class="btn btn-link" type="button">
 <input id="acd-check3" class="acd-check" type="checkbox">
 <label class="acd-label" for="acd-check3">
 <h1>2021</h1>
 </label>
 <div class="acd-content">
-<h3></h3>
-<p></p>
+<h3>03-18</h3>
+<p><a href="https://www.ipsj.or.jp/event/taikai/83/index.html">情報処理学会 第83回全国大会</a>にて口頭発表を行いました。</p>
 </div>
 </button>
-</div> -->
+</div>
 
 <div class="card" id="news2020">
 <button class="btn btn-link" type="button">

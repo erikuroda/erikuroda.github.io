@@ -46,7 +46,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-05-01"
-  description: 9 out of 753<br>[News1](https://www.ocha.ac.jp/news/20200529.html)　[News2](https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html)
+  description: 9 out of more than 1000 presentations. <br>[News1](https://www.ocha.ac.jp/news/20200529.html)　[News2](https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html)
   organization: The 82nd National Convention of IPSJ
   organization_url: https://www.ipsj.or.jp/event/taikai/82/index.html
   title: Best Paper Award of IPSJ National Convention
@@ -55,7 +55,7 @@ item:
 - certificate_url: 
   date_end: "2022-03-30"
   date_start: "2020-04-01"
-  description: FY2020, just one person<br>[News](https://www.ocha.ac.jp/news/202103016_4.html)
+  description: FY2020, just one person.<br>[News](https://www.ocha.ac.jp/news/202103016_4.html)
   organization: Ochanomizu University and Inc. KSP-SP
   organization_url: https://www.ocha.ac.jp/campuslife/scholarship/kspsp.html
   title: Scholarship (JPY 500,000)

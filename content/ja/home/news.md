@@ -66,18 +66,19 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2021-10-27
+ヒト脳内予測を模倣したモデルに関する論文が[The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）](http://isis2021.org)に採択されました。
+
+<br>
+
+
 ### 2021-05-31
-第50回リバネス研究費 パナソニックアプライアンス社賞採択に関するインタビューが、[採択者インタビュー記事](https://r.lne.st/2021/05/31/50-panasonicap_kuroda/)・[研究応援Vol.22](https://lne.st/business/publishing/kenkyu/)に掲載されました。
+第50回リバネス研究費 パナソニックアプライアンス社賞採択に関するインタビューが、[採択者インタビュー記事](https://r.lne.st/2021/50-kuroda/)・[研究応援Vol.22](https://lne.st/business/publishing/kenkyu/)に掲載されました。
 
 <br>
 
 ### 2021-03-26
 [第50回リバネス研究費 パナソニックアプライアンス社賞](https://r.lne.st/2021/03/26/50th_panasonic_result/)に採択されました。
-
-<br>
-
-### 2021-03-18
-[情報処理学会 第83回全国大会](https://www.ipsj.or.jp/event/taikai/83/index.html)にて口頭発表を行いました。
 
 <br>
 

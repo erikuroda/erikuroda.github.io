@@ -255,11 +255,22 @@ h1 {
   text-decoration: none;
 }
 
+.btn {
+  font-weight: bold;
+}
+
 .btn:hover {
   color: #f59869 !important;
   font-weight: bold;
   background: #ffffff;
   text-decoration: none;
+}
+
+.btn:active {
+  color: white !important;
+  font-weight: normal;
+  text-decoration: none;
+  background-color: rgba(245,152,105,0.85) !important;
 }
 
 h3 {
@@ -286,6 +297,17 @@ h3 {
 
 .card {
   background-color: rgb(255, 255, 255);
+}
+
+.card-simple {
+  border: 1px solid rgba(0,0,0,0.11);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.card-simple:hover {
+  border: 1px solid rgba(0,0,0,0.12);
+  box-shadow: 0 8px 12px rgba(0,0,0,0.15);
+  transition: 0.3s ;
 }
 
 ///////////

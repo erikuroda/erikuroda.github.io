@@ -66,8 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2021-10-27
+Our paper was accepted for [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org).
+
+<br>
+
 ### 2021-05-31
-My interview was posted on the [website](https://r.lne.st/2021/05/31/50-panasonicap_kuroda/).
+My interview was posted on the [website](https://r.lne.st/2021/50-kuroda/).
 
 <br>
 
@@ -76,9 +81,5 @@ I received [Research Grant from Leave a Nest Co. and Appliances Company, Panason
 
 <br>
 
-### 2021-03-18
-I gave an oral presentation at [The 83rd National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/83/index.html)
-
-<br>
 
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

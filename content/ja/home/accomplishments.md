@@ -47,7 +47,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-05-01"
-  description: 表彰対象753件中9件<br>[News1](https://www.ocha.ac.jp/news/20200529.html)　[News2](https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html)
+  description: 発表件数1000件以上のうち9件<br>[News1](https://www.ocha.ac.jp/news/20200529.html)　[News2](https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html)
   organization: "情報処理学会第82回全国大会"
   organization_url: https://www.ipsj.or.jp/event/taikai/82/index.html
   title: 大会優秀賞

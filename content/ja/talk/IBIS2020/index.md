@@ -9,7 +9,7 @@ event: 第23回情報論的学習理論ワークショップ (IBIS2020)
 event_url: http://ibisml.org/ibis2020/
 featured: false
 image:
-  caption: '[**IBIS2020**](http://ibisml.org/ibis2020/)'
+  caption: ''
   focal_point: Right
 links:
 location: オンライン
