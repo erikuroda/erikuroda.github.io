@@ -4,8 +4,8 @@ doi: ""
 address:
 all_day: true
 authors: [Eri Kuroda, Shinji Nishimoto, Satoshi Nishida, Ichiro Kobayashi]
-date: "2021-10-25T13:00:00Z"
-date_end: "2021-10-26T15:00:00Z"
+date: "2021-12-15T13:00:00Z"
+date_end: "2021-12-18T15:00:00Z"
 event: The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)
 event_url: http://isis2021.org
 featured: false
@@ -17,7 +17,7 @@ location: Cheongju, Korea
 math: true
 projects:
 - internal-project
-publishDate: "2021-10-27T00:00:00Z"
+publishDate: "2021-12-15T00:00:00Z"
 slides: 
 summary: The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)
 tags: []
