@@ -13,7 +13,7 @@ image:
   caption: ''
   focal_point: Right
 links:
-location: Cheongju, Korea
+location: Online
 math: true
 projects:
 - internal-project

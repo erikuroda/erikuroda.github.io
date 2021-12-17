@@ -6,69 +6,49 @@ title: Past News
 view: 2
 ---
 
-<div class="card" id="news2021">
-<button class="btn btn-link" type="button">
-<input id="acd-check3" class="acd-check" type="checkbox">
-<label class="acd-label" for="acd-check3">
-<h1>2021</h1>
-</label>
-<div class="acd-content">
-<h3>03-18</h3>
+<div class="accordion">
+
+<div class="option">
+<input type="checkbox" id="toggle1" class="toggle">
+<label class="title" for="toggle1">2021</label>
+<div class="content">
+<h3>26th Mar.</h3>
+<p>I received <a href="https://r.lne.st/2021/03/26/50th_panasonic_result/">Research Grant from Leave a Nest Co. and Appliances Company, Panasonic Co</a>.</p>
+<h3>18th Mar.</h3>
 <p>I gave an oral presentation at <a href="https://www.ipsj.or.jp/event/taikai/83/index.html">The 83rd National Convention of IPSJ</a>.</p>
 </div>
-</button>
 </div>
 
-
-
-<div class="card" id="news2020">
-<button class="btn btn-link" type="button">
-<input id="acd-check2" class="acd-check" type="checkbox">
-<label class="acd-label" for="acd-check2">
-<h1>2020</h1>
-</label>
-<div class="acd-content">
-<h3>12-23</h3>
+<div class="option">
+<input type="checkbox" id="toggle2" class="toggle">
+<label class="title" for="toggle2">2020</label>
+<div class="content">
+<h3>23rd Dec.</h3>
 <p>I won the FY2020 Ochanomizu University Student Award.</p>
-<br>
 <h3>12-07</h3>
 <p>Renewal of the website.</p>
-<br>
-<h3>11-24</h3>
+<h3>24th Nov.</h3>
 <p>I gave an oral presentation at <a href="https://ibisml.org/ibis2020/">The 23rd Information-Based Induction Sciences Workshop (IBIS2020)</a>.</p>
-<br>
-<h3>06-09</h3>
+<h3>9th Jun.</h3>
 <p>I gave an oral presentation at <a href="https://www.ai-gakkai.or.jp/jsai2020/">The 34th Annual Conference of the JSAI2020</a>.</p>
-<br>
-<h3>05-28</h3>
+<h3>28th May.</h3>
 <p>I won <a href="http://www.ipsj.or.jp/award/taikaiyusyu.html">the Best Paper Award of IPSJ National Convention</a>.</p>
-<br>
-<h3>04-01</h3>
+<h3>1st Apr.</h3>
 <p>I selected as a KSP-SP scholarship student (3rd term) by Ochanomizu University and KSP-SP Co.</p>
-<br>
-<h3>03-07</h3>
+<h3>7th May.</h3>
 <p>I gave an oral presentation at <a href="https://www.ipsj.or.jp/event/taikai/82/index.html">The 82nd National Convention of IPSJ</a> and won <a href="http://www.ipsj.or.jp/award/taikaigakusei.html">the Student Encouragement Award of IPSJ National Convention</a>.</p>
-<br>
-<h3>03-01</h3>
+<h3>1st May.</h3>
 <p>I opened the website.</p>
-<br>
-<h3>02-02</h3>
+<h3>2nd Feb.</h3>
 <p>I gave an poster presentation at <a href="https://www.chronogenesis.org">the convention of Chronogenesis</a>.</p>
-</button>
+</div>
 </div>
 
-<div class="card" id="news2019">
-<button class="btn btn-link" type="button">
-<input id="acd-check1" class="acd-check" type="checkbox">
-<label class="acd-label" for="acd-check1">
-<h1>2019</h1>
-</label>
-<div class="acd-content">
-<h3>11-20</h3>
+<div class="option">
+<input type="checkbox" id="toggle3" class="toggle">
+<label class="title" for="toggle3">2019</label>
+<div class="content">
+<h3>20th Nov.</h3>
 <p>I received research support from Ochanomizu University AI and Data Science Center.</p>
-</button>
 </div>
 </div>
-
-
-

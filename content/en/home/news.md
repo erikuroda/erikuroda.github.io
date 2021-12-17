@@ -13,10 +13,10 @@ subtitle = ""
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "news"
-  
+
   # Choose how much pages you would like to display (0 = all pages)
   count = 3
-  
+
   # Choose how many pages you would like to offset by
   offset = 0
 
@@ -30,7 +30,7 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-  
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -38,34 +38,39 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 1
-  
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
+### 2021-12-16
+I gave an oral presentation at [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org).
+
+<br>
+
 ### 2021-10-27
 Our paper was accepted for [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org).
 
@@ -73,11 +78,6 @@ Our paper was accepted for [The 22nd International Symposium on Advanced Intelli
 
 ### 2021-05-31
 My interview was posted on the [website](https://r.lne.st/2021/50-kuroda/).
-
-<br>
-
-### 2021-03-26
-I received [Research Grant from Leave a Nest Co. and Appliances Company, Panasonic Co](https://r.lne.st/2021/03/26/50th_panasonic_result/).
 
 <br>
 
