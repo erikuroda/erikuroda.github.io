@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* Set Bootstrap variables */
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
@@ -9287,7 +9288,8 @@ html[dir="rtl"] body {
   text-align: right; }
 
 html {
-  overflow-y: scroll; }
+  overflow-y: scroll;
+  height: 100%; }
 
 a {
   transition: color 0.0s ease; }
@@ -9509,10 +9511,6 @@ h3 {
   margin-top: 0rem;
   text-decoration: none; }
 
-#news p a {
-  color: #f59869;
-  font-family: Roboto; }
-
 .card {
   background-color: white; }
 
@@ -9524,74 +9522,6 @@ h3 {
   border: 1px solid rgba(0, 0, 0, 0.12);
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
   transition: 0.3s; }
-
-.accordion {
-  margin: 3em auto;
-  max-width: 60vw; }
-
-.toggle {
-  display: none; }
-
-.option {
-  position: relative;
-  margin-bottom: 1em; }
-
-.title,
-.content {
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  transform: translateZ(0);
-  transition: all 0.7s; }
-
-.title {
-  border: solid 2px #ccc;
-  padding: 0.8em;
-  display: block;
-  color: #333;
-  font-weight: bold;
-  font-size: 40px;
-  font-family: "Montserrat"; }
-
-.title::after,
-.title::before {
-  content: "";
-  position: absolute;
-  right: 1.25em;
-  top: 1.25em;
-  width: 2px;
-  height: 0.75em;
-  background-color: #999;
-  transition: all 0.3s; }
-
-.title::after {
-  transform: rotate(90deg); }
-
-.content {
-  max-height: 0;
-  overflow: hidden; }
-
-.content h3 {
-  margin: 0;
-  padding: 0.5em 0.5em 0em;
-  font-size: 1.3em;
-  line-height: 1.2;
-  font-weight: bold; }
-
-.content p {
-  margin: 0;
-  padding: 0.5em 1em 1em;
-  font-size: 0.9em;
-  line-height: 1.5; }
-
-.content a:hover {
-  text-decoration: underline; }
-
-.toggle:checked + .title + .content {
-  max-height: 500px;
-  transition: all 1.5s; }
-
-.toggle:checked + .title::before {
-  transform: rotate(90deg) !important; }
 
 #links a:hover {
   text-decoration: underline !important; }
@@ -9611,11 +9541,49 @@ h3 {
   font-size: 0.75rem;
   margin-bottom: 13px; }
 
-#news a:hover {
-  text-decoration: underline; }
+.card {
+  margin-top: 35px;
+  background-color: white; }
+
+.card-header {
+  border-bottom: none;
+  height: 4.0rem;
+  background-color: white; }
+
+.card h1 {
+  margin: auto 0;
+  font-weight: bold;
+  text-decoration-style: none; }
+
+.btn-link h1 {
+  text-align: center; }
+
+.btn-link:hover {
+  text-decoration: none; }
+  .btn-link:hover h1 {
+    color: #f59869;
+    transition: 0.3s; }
+
+.btn-link:focus {
+  background-color: white;
+  text-decoration: none; }
+
+#newspage {
+  height: 600px; }
+
+.footerFixed {
+  min-height: 64vh;
+  /* ←コンテンツの高さの最小値＝ブラウザの高さに指定 */
+  position: relative;
+  /* ←相対位置 */
+  padding-bottom: 100px;
+  /* ←フッターの高さを指定 */ }
 
 footer {
-  margin-top: 23px; }
+  margin-top: 35px;
+  bottom: 0;
+  width: 100%;
+  height: 100px; }
 
 .page-footer {
   background: #5C3927; }
