@@ -27,6 +27,15 @@ date_format: "2006/1"
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2022-02-15"
+  description: 
+  organization: "The 22nd International Symposium on Advanced Intelligent Systems"
+  organization_url: http://isis2021.org/
+  title: Best Session Award
+  url: 
+
+- certificate_url: 
+  date_end: ""
   date_start: "2021-03-26"
   description:  　[News](https://lne.st/2021/03/31/ceremony_panasonicap/)　[Interview](https://r.lne.st/2021/05/31/50-panasonicap_kuroda/)
   organization: Leave a Nest Co. and Appliances Company, Panasonic Co.

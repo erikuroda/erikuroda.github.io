@@ -33,7 +33,7 @@ social:
   link: https://github.com/erikuroda
 - icon: cv
   icon_pack: ai
-  link: docs/cv211026_erikuroda.pdf
+  link: docs/cv220215_erikuroda.pdf
   
 superuser: true
 title: 黒田 彗莉

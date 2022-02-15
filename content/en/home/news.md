@@ -66,8 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2022-02-15
+I won the Best Session Award at [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org) held in December 2021.
+
+<br>
+
 ### 2021-12-16
-I gave an oral presentation at [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org).
+I gave an online presentation at [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org).
 
 <br>
 
@@ -75,11 +80,5 @@ I gave an oral presentation at [The 22nd International Symposium on Advanced Int
 Our paper was accepted for [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org).
 
 <br>
-
-### 2021-05-31
-My interview was posted on the [website](https://r.lne.st/2021/50-kuroda/).
-
-<br>
-
 
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

@@ -66,8 +66,13 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2022-02-15
+2021年12月に開催された[The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）](http://isis2021.org)で、ベストセッション賞を受賞しました。
+
+<br>
+
 ### 2021-12-16
-[The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）](http://isis2021.org)にて口頭発表を行いました。
+オンラインにて開催された[The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）](http://isis2021.org)で、口頭発表を行いました。
 
 <br>
 
@@ -75,11 +80,5 @@ subtitle = "最近のお知らせ"
 ヒト脳内予測を模倣したモデルに関する論文が [The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）](http://isis2021.org)に採択されました。
 
 <br>
-
-### 2021-05-31
-第50回リバネス研究費 パナソニックアプライアンス社賞採択に関するインタビューが、[採択者インタビュー記事](https://r.lne.st/2021/50-kuroda/)・[研究応援Vol.22](https://lne.st/business/publishing/kenkyu/)に掲載されました。
-
-<br>
-
 
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>
