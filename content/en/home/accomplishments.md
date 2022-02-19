@@ -28,7 +28,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2022-02-15"
-  description: 
+  description: 　[News](https://www.ocha.ac.jp/news/20220217_1.html)
   organization: "The 22nd International Symposium on Advanced Intelligent Systems"
   organization_url: http://isis2021.org/
   title: Best Session Award
