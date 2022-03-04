@@ -25,6 +25,15 @@ date_format: "2006/1"
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
+- certificate_url:
+  date_end: ""
+  date_start: "2022-03-03"
+  description: 　
+  organization: The 84th National Convention of IPSJ
+  organization_url: https://www.ipsj.or.jp/event/taikai/84/index.html
+  title: Student Encouragement Award of IPSJ National Convention
+  url: "https://www.ipsj.or.jp/award/taikaigakusei.html"
+
 - certificate_url: 
   date_end: ""
   date_start: "2022-02-15"

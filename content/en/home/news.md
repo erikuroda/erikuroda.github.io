@@ -66,6 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2022-03-03
+I gave an online presentation at [The 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/index.html) and won [Student Encouragement Award of IPSJ National Convention](http://www.ipsj.or.jp/award/taikaigakusei.html).
+
 ### 2022-02-15
 I won the Best Session Award at [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org) held in December 2021.
 
@@ -73,11 +76,6 @@ I won the Best Session Award at [The 22nd International Symposium on Advanced In
 
 ### 2021-12-16
 I gave an online presentation at [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org).
-
-<br>
-
-### 2021-10-27
-Our paper was accepted for [The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)](http://isis2021.org).
 
 <br>
 
