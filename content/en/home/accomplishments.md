@@ -46,7 +46,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2021-03-26"
-  description:  　[News](https://lne.st/2021/03/31/ceremony_panasonicap/)　[Interview](https://r.lne.st/2021/50-kuroda/)
+  description:  　[News](https://lne.st/2021/03/31/ceremony_panasonicap/)　[Interview](https://r.lne.st/adopter/936/)
   organization: Leave a Nest Co. and Appliances Company, Panasonic Co.
   organization_url: https://r.lne.st/2020/09/01/50th_panasonic/
   title: Research Grant (JPY 500,000)
