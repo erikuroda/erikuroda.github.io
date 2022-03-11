@@ -28,7 +28,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2022-03-03"
-  description: 　
+  description: 　[News](https://www.ocha.ac.jp/news/d010391.html)
   organization: 情報処理学会第84回全国大会
   organization_url: https://www.ipsj.or.jp/event/taikai/84/index.html
   title: 学生奨励賞
