@@ -18,6 +18,9 @@ view: 2
   <div id="collapse2021" class="collapse" aria-labelledby="heading2021" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+      <h3>16th Dec.</h3>
+        I gave an online presentation at <a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)</a>.
+      <br><br>
       <h3>27th Oct.</h3>
       Our paper was accepted for <a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)</a>.
       <br><br>

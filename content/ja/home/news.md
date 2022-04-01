@@ -66,6 +66,11 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2022-04-01
+[日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/index.html)として採用されました。
+
+<br>
+
 ### 2022-03-03
 オンラインにて開催された[情報処理学会第84回全国大会](https://www.ipsj.or.jp/event/taikai/84/index.html)で口頭発表を行い、[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)を受賞しました。
 
@@ -73,11 +78,6 @@ subtitle = "最近のお知らせ"
 
 ### 2022-02-15
 2021年12月に開催された[The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）](http://isis2021.org)で、ベストセッション賞を受賞しました。
-
-<br>
-
-### 2021-12-16
-オンラインにて開催された[The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）](http://isis2021.org)で、口頭発表を行いました。
 
 <br>
 

@@ -4,10 +4,13 @@ authors:
 bio:
 education:
   courses:
-  - course: Master Course (Department of Information Sciences in Science)
+  - course: PhD Candidate (Department of Information Sciences in Science)
     institution: Ochanomizu University
-    year: 2020–Present
-  - course: B.Sc. (Department of Information Sciences in Science)
+    year: 2022–Present
+  - course: M.Sc. (Information Sciences)
+    institution: Ochanomizu University
+    year: 2022
+  - course: B.Sc. (Information Sciences)
     institution: Ochanomizu University
     year: 2020
 interests:
@@ -19,9 +22,11 @@ interests:
 organizations:
 - name: Ochanomizu University
   url: "https://www.ocha.ac.jp/index.html"
+- name: JSPS Research Fellow (DC1)
+  ulr: ""
 - name: Ichiro Kobayashi Lab.
   url: ""  
-role: Master 2nd
+role:
 social:
 - icon: envelope
   icon_pack: fas

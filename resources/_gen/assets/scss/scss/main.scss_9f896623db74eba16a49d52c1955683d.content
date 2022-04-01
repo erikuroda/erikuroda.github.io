@@ -9419,7 +9419,8 @@ a:hover h4.card-title.exp-title.text-muted {
   padding-top: 0.5rem; }
 
 .experience .card-body {
-  padding-bottom: 0.8rem; }
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem; }
 
 .dropdown-menu, .dropdown-item {
   background-color: white !important;
@@ -9510,9 +9511,6 @@ h1 {
 h3 {
   margin-top: 0rem;
   text-decoration: none; }
-
-.card {
-  background-color: white; }
 
 .card-simple {
   border: 1px solid rgba(0, 0, 0, 0.11);

@@ -18,6 +18,9 @@ view: 2
   <div id="collapse2021" class="collapse" aria-labelledby="heading2021" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>12月16日</h3>
+        オンラインにて開催された<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）</a>で、口頭発表を行いました。
+        <br><br>
         <h3>10月27日</h3>
         ヒト脳内予測を模倣したモデルに関する論文が<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）</a>に採択されました。
         <br><br>

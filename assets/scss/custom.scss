@@ -173,8 +173,8 @@ a:hover h4.card-title.exp-title.text-muted {
 }
 
 .experience .card-body {
-  //padding: 1.0rem;
-  padding-bottom: 0.8rem;
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
 }
 
 .dropdown-menu, .dropdown-item {
@@ -294,10 +294,6 @@ h1 {
 h3 {
   margin-top: 0rem;
   text-decoration: none;
-}
-
-.card {
-  background-color: rgb(255, 255, 255);
 }
 
 .card-simple {
