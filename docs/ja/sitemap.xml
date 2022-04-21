@@ -3,176 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://erikuroda.github.io/authors/</loc>
-    <lastmod>2022-03-03T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/</loc>
-    <lastmod>2022-03-03T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/talk/</loc>
-    <lastmod>2022-03-03T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/%E5%B0%8F%E6%9E%97%E4%B8%80%E9%83%8E/</loc>
-    <lastmod>2022-03-03T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/talk/ipsj84/</loc>
-    <lastmod>2022-03-03T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/ipsj84/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/ipsj84/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/%E9%BB%92%E7%94%B0%E5%BD%97%E8%8E%89/</loc>
-    <lastmod>2022-03-03T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/talk/isis2021/</loc>
-    <lastmod>2021-12-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/isis2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/isis2021/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/eri-kuroda/</loc>
-    <lastmod>2021-12-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/eri-kuroda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/eri-kuroda/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/ichiro-kobayashi/</loc>
-    <lastmod>2021-12-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/ichiro-kobayashi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/ichiro-kobayashi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/satoshi-nishida/</loc>
-    <lastmod>2021-12-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/satoshi-nishida/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/satoshi-nishida/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/shinji-nishimoto/</loc>
-    <lastmod>2021-12-15T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/author/shinji-nishimoto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/author/shinji-nishimoto/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/talk/ipsj83/</loc>
-    <lastmod>2021-03-18T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/ipsj83/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/ipsj83/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/%E8%A5%BF%E6%9C%AC%E4%BC%B8%E5%BF%97/</loc>
-    <lastmod>2021-03-18T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/author/%E8%A5%BF%E7%94%B0%E7%9F%A5%E5%8F%B2/</loc>
-    <lastmod>2021-03-18T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://erikuroda.github.io/categories/</loc>
     <lastmod>2020-12-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -184,6 +14,21 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://erikuroda.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://erikuroda.github.io/</loc>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erikuroda.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://erikuroda.github.io/"
                 />
   </url>
   
@@ -248,76 +93,16 @@
   </url>
   
   <url>
-    <loc>https://erikuroda.github.io/talk/ibis2020/</loc>
-    <lastmod>2020-11-23T13:00:00+00:00</lastmod>
+    <loc>https://erikuroda.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://erikuroda.github.io/en/talk/ibis2020/"
+                href="https://erikuroda.github.io/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://erikuroda.github.io/talk/ibis2020/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/talk/jsai34/</loc>
-    <lastmod>2020-06-09T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/jsai34/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/jsai34/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/talk/ipsj82/</loc>
-    <lastmod>2020-03-05T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/ipsj82/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/ipsj82/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/talk/time200202/</loc>
-    <lastmod>2020-02-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/talk/time200202/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/talk/time200202/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://erikuroda.github.io/publication/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erikuroda.github.io/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://erikuroda.github.io/publication/"
+                href="https://erikuroda.github.io/authors/"
                 />
   </url>
   
@@ -333,6 +118,14 @@
                 hreflang="ja"
                 href="https://erikuroda.github.io/publication_types/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://erikuroda.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://erikuroda.github.io/talk/</loc>
   </url>
   
   <url>

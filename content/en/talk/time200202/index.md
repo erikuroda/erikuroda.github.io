@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract:
 address:
 all_day: true
 authors: [Eri Kuroda, Ichiro Kobayashi]
@@ -17,7 +17,7 @@ math: true
 projects:
 - internal-project
 publishDate:
-slides: 
+slides:
 summary: Chronogenesis -How the Mind Generates Time-
 tags: []
 title: A Study on Building a Deep Generative Model for Prediction in the Human Brain

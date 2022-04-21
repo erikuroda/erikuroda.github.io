@@ -18,7 +18,7 @@ math: true
 projects:
 - internal-project
 publishDate: "2020-06-08T00:00:00Z"
-slides: 
+slides:
 summary: The 34th Annual Conference of the Japanese Society for Artificial Intelligence, 2020 (JSAI2020)
 tags: []
 title: A Study on Building a Deep Generative Model for Prediction in the Human Brain

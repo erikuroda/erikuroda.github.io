@@ -17,7 +17,7 @@ math: true
 projects:
 - internal-project
 publishDate: "2020-11-24T00:00:00Z"
-slides: 
+slides:
 summary: The 23rd Information-Based Induction Sciences Workshop (IBIS2020)
 tags: []
 title: A Deep Generative Model Imitating Predictive Coding
