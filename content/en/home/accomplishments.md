@@ -31,7 +31,7 @@ item:
   description: 
   organization: Japan Society for the Promotion of Science
   organization_url: https://www.jsps.go.jp/index.html
-  title: Grant-in-Aid for JSPS Research Fellows (DC1)
+  title: Grant-in-Aid for JSPS Research Fellows (DC1｜JPY 2,500,000)
   url: ""
 
 - certificate_url:

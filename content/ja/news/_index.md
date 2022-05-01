@@ -7,6 +7,25 @@ view: 2
 ---
 <div class="footerFixed" id="newspage">
 <div class="acordion" id="accordionTalks">
+
+<div class="card">
+  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2022" aria-expanded="false" aria-controls="collapse2022">
+    <div class="card-header" id="heading2022">
+      <h1 class="mb-0">
+        2022
+      </h1>
+    </div>
+  </button>  
+  <div id="collapse2022" class="collapse" aria-labelledby="heading2022" data-parent="#accordionTalks">
+    <div class="card-body">
+      <ol>
+        <h3>2月15日</h3>
+        2021年12月に開催された<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）</a>で、ベストセッション賞を受賞しました。
+      </ol>
+    </div>
+  </div>
+</div>
+
 <div class="card">
   <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2021" aria-expanded="false" aria-controls="collapse2021">
     <div class="card-header" id="heading2021">

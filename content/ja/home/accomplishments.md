@@ -31,7 +31,7 @@ item:
   description: 
   organization: 日本学術振興会
   organization_url: https://www.jsps.go.jp/index.html
-  title: 特別研究員奨励費（DC1）
+  title: 特別研究員奨励費（DC1｜2,500,000円）
   url: ""
 
 - certificate_url:

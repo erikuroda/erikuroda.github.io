@@ -66,13 +66,22 @@ subtitle = "Journal・MISC"
  # CSS class.
  css_class = ""
 +++
-## 学術論文
-
+## Journal
+### 2022
+- __Eri Kuroda__・Yuko Sakurai・Masanori Takano・Hiroshi Sakuma・Yoji Kiyota
+<br>"AI System Papers -Challenges and Possibilities for Collaboration among Different Communities-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.323-328．[__DOI__](https://doi.org/10.11517/jjsai.37.3_323)
+<br>
+<br>
+- __Eri Kuroda__・Hiroshi Yamakawa・Fujio Toriumi・Hiroshi Sakuma・Yoji Kiyota
+<br>"Concept Papers -To Facilitate Dissemination of High-Impact Papers-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.329-333．[__DOI__](https://doi.org/10.11517/jjsai.37.3_329)
+<br>
 <br>
 
 ## MISC
 ### 2022
-- Maiko Onishi・__Eri Kuroda__・Hiroshi Sakuma「人工知能学会 学生フォーラム〔第110回〕玉城絵美先生インタビュー：固有感覚を活用した『体験共有』の未来」，人工知能，Vol.37，No.2，pp.237-239．[__DOI__](https://doi.org/10.11517/jjsai.37.2_237)
+- Maiko Onishi・__Eri Kuroda__・Hiroshi Sakuma
+<br>Student Forum（110） Interview with Prof. Emi Tamaki "The Future of "Body Sharing Technology" Based on Deep Sensation"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.2，pp.237-239．[__DOI__](https://doi.org/10.11517/jjsai.37.2_237)
 <br>
 ### 2021
-- __Eri Kuroda__「第50回リバネス研究費 [採択者インタビュー記事](https://r.lne.st/adopter/936/)」
+- __Eri Kuroda__
+<br>[Interview Articles](https://r.lne.st/adopter/936/) about Leave a Nest Research Grant.

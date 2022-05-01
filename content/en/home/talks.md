@@ -68,7 +68,7 @@ subtitle = "Conference・Workshop"
 +++
 ## International
 ### 2021
-- __Eri Kuroda__・Ichiro Kobayashi．「A Deep Generative Model imitating Predictive Coding in the Human Brain」[The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org/)，Online，March 18th-20th, 2021 (Oral) ([Best Session Award](https://www.ocha.ac.jp/news/20220217_1.html))．
+- __Eri Kuroda__・Ichiro Kobayashi. A Deep Generative Model imitating Predictive Coding in the Human Brain. [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org/), Online, March 18th-20th, 2021 (Oral) ([Best Session Award](https://www.ocha.ac.jp/news/20220217_1.html)).
 <br>
 <br>
 

@@ -68,27 +68,27 @@ subtitle = "学会・シンポジウム"
 +++
 ## International
 ### 2021
-- __Eri Kuroda__・Ichiro Kobayashi．「A Deep Generative Model imitating Predictive Coding in the Human Brain」[The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org/)，Online，Mar 18th-20th, 2021 (Oral) ([ベストセッション賞](https://www.ocha.ac.jp/news/20220217_1.html))．
+- __Eri Kuroda__・Ichiro Kobayashi. A Deep Generative Model imitating Predictive Coding in the Human Brain. [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org/), Online, Mar 18th-20th, 2021 (Oral) ([ベストセッション賞](https://www.ocha.ac.jp/news/20220217_1.html)).
 <br>
 <br>
 
 ## Domestic
 ### 2022
-- __黒田彗莉__・小林一郎「物理環境における変化点抽出の取り組み」[第84回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/84/)，オンライン，2022年3月3日-5日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)受賞）．
+- __黒田彗莉__・小林一郎「物理環境における変化点抽出の取り組み」，[第84回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/84/)，オンライン，2022年3月3日-5日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)受賞）．
 <br>
 ### 2021
-- __黒田彗莉__・西本伸志・西田知史・小林一郎「予測符号化を模倣する深層生成学習モデル構築に向けた基礎的検討」[第83回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/83/)，オンライン，2021年3月18日-20日．
+- __黒田彗莉__・西本伸志・西田知史・小林一郎「予測符号化を模倣する深層生成学習モデル構築に向けた基礎的検討」，[第83回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/83/)，オンライン，2021年3月18日-20日．
 <br>
 ### 2020
-- __黒田彗莉__・西本伸志・西田知史・小林一郎「予測符号化を模倣する深層生成学習モデル構築に向けた取り組み」[第23回情報論的学習理論ワークショップ](https://ibisml.org/ibis2020/)，オンライン，2020年11月23日-26日．
+- __黒田彗莉__・西本伸志・西田知史・小林一郎「予測符号化を模倣する深層生成学習モデル構築に向けた取り組み」，[第23回情報論的学習理論ワークショップ](https://ibisml.org/ibis2020/)，オンライン，2020年11月23日-26日．
 <br>
 <br>
-- __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」[人工知能学会全国大会（第34回）](https://www.ai-gakkai.or.jp/jsai2020/)，オンライン，2020年6月8日-11日．
+- __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，[人工知能学会全国大会（第34回）](https://www.ai-gakkai.or.jp/jsai2020/)，オンライン，2020年6月8日-11日．
 <br>
 <br>
-- __黒田彗莉__・小林一郎「予測を対象とするモデルを用いた実世界理解への取り組み」
+- __黒田彗莉__・小林一郎「予測を対象とするモデルを用いた実世界理解への取り組み」，
 [第82回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/82/)，金沢工業大学(オンライン)，2020年3月5日-7日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)・[大会優秀賞](https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1)受賞）．
 <br>
 <br>
-- __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」
+- __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，
 [新学術領域「時間生成学」](https://www.chronogenesis.org)，千里阪急ホテル・大阪，2020年2月1日-2日．
