@@ -9371,6 +9371,9 @@ a:hover {
   color: #f59869;
   text-decoration: none; }
 
+.fa-link {
+  color: black; }
+
 .icon-feedly:hover, .icon-feedly-o:hover, .icon-feedly, .icon-feedly-o {
   color: #89c04e;
   font-size: 99% !important; }

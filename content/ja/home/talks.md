@@ -87,7 +87,7 @@ subtitle = "学会・シンポジウム"
 <br>
 <br>
 - __黒田彗莉__・小林一郎「予測を対象とするモデルを用いた実世界理解への取り組み」，
-[第82回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/82/)，金沢工業大学(オンライン)，2020年3月5日-7日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)・[大会優秀賞](https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1)受賞）．
+[第82回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/82/)，金沢工業大学(オンライン)，2020年3月5日-7日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)・[大会優秀賞](https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1)受賞）．<a class="far fa-solid fa-file-pdf" href="https://www.ipsj.or.jp/award/9faeag0000004emc-att/6R-01.pdf"></a>
 <br>
 <br>
 - __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，
