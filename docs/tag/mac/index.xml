@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac | Eri KURODA｜黒田 彗莉</title>
-    <link>https://erikuroda.github.io/tag/mac/</link>
-      <atom:link href="https://erikuroda.github.io/tag/mac/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eri-kuroda.com/tag/mac/</link>
+      <atom:link href="https://eri-kuroda.com/tag/mac/index.xml" rel="self" type="application/rss+xml" />
     <description>Mac</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-jp</language><copyright>© Eri Kuroda, 2022.</copyright><lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eri-kuroda.com/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
       <title>Mac</title>
-      <link>https://erikuroda.github.io/tag/mac/</link>
+      <link>https://eri-kuroda.com/tag/mac/</link>
     </image>
     
     <item>
       <title>Mac&#43;OBSでタイマーをキャプチャする</title>
-      <link>https://erikuroda.github.io/post/mac-obs/</link>
+      <link>https://eri-kuroda.com/post/mac-obs/</link>
       <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://erikuroda.github.io/post/mac-obs/</guid>
+      <guid>https://eri-kuroda.com/post/mac-obs/</guid>
       <description>&lt;h1 id=&#34;はじめに&#34;&gt;はじめに&lt;/h1&gt;
 &lt;p&gt;最近は学会や発表会が軒並みオンラインで行われています。&lt;/p&gt;
 &lt;p&gt;そのとき多くの場合問題になっているのが、&lt;b&gt;&lt;span style=&#34;color: #dc143c; &#34;&gt;タイムをどうやって管理するか&lt;/span&gt;&lt;/b&gt;

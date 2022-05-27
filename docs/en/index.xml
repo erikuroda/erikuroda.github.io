@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eri KURODA｜黒田 彗莉</title>
-    <link>https://erikuroda.github.io/en/</link>
-      <atom:link href="https://erikuroda.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eri-kuroda.com/en/</link>
+      <atom:link href="https://eri-kuroda.com/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Eri KURODA｜黒田 彗莉</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Eri Kuroda, 2022.</copyright>
     <image>
-      <url>https://erikuroda.github.io/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eri-kuroda.com/images/icon_hu392b541a5b5b947afd2c52fbb2246387_20248_512x512_fill_lanczos_center_2.png</url>
       <title>Eri KURODA｜黒田 彗莉</title>
-      <link>https://erikuroda.github.io/en/</link>
+      <link>https://eri-kuroda.com/en/</link>
     </image>
     
   </channel>
