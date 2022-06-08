@@ -20,12 +20,10 @@ interests:
 - Physical Reasoning
 - Prediction
 organizations:
-- name: Ochanomizu University
-  url: "https://www.ocha.ac.jp/index.html"
+- name: Ochanomizu University Kobayashi Lab.
+  url: "https://www.koba.is.ocha.ac.jp/kobalab/index.php/en"
 - name: JSPS Research Fellow (DC1)
   ulr: ""
-- name: Ichiro Kobayashi Lab.
-  url: ""  
 role:
 social:
 - icon: envelope
