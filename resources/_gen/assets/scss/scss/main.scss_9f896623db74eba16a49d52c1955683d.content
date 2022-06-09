@@ -9372,7 +9372,17 @@ a:hover {
   text-decoration: none; }
 
 .fa-link {
-  color: black; }
+  color: #f59869; }
+
+.fa-link:hover {
+  transform: scale(1.2, 1.2); }
+
+.fa-file-pdf {
+  color: #B20000; }
+
+.fa-file-pdf:hover {
+  transform: scale(1.2, 1.2);
+  color: #B20000; }
 
 .icon-feedly:hover, .icon-feedly-o:hover, .icon-feedly, .icon-feedly-o {
   color: #89c04e;
@@ -9594,3 +9604,11 @@ footer {
 
 .page-footer a, .page-footer a:hover {
   color: white !important; }
+
+.rounded-corner {
+  background-color: #333333;
+  width: 150px;
+  height: 50px;
+  color: #ffffff;
+  font-size: 24px;
+  border-radius: 10px; }
