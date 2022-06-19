@@ -19,8 +19,11 @@ view: 2
   <div id="collapse2022" class="collapse" aria-labelledby="heading2022" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>3rd Mar.</h3>
+        I gave an online presentation at <a href="https://www.ipsj.or.jp/event/taikai/84/index.html">The 84th National Convention of IPSJ</a> and won <a href="http://www.ipsj.or.jp/award/taikaigakusei.html">Student Encouragement Award of IPSJ National Convention</a>.
+        <br><br>
         <h3>15th Feb.</h3>
-        I won the Best Session Award at <a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)</a> held in December 2021.
+        I won the Best Session Award at <a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021) </a> held in December 2021.
       </ol>
     </div>
   </div>
@@ -38,10 +41,10 @@ view: 2
     <div class="card-body">
       <ol>
       <h3>16th Dec.</h3>
-        I gave an online presentation at <a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)</a>.
+        I gave an online presentation at <a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021) </a>.
       <br><br>
       <h3>27th Oct.</h3>
-      Our paper was accepted for <a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021)</a>.
+      Our paper was accepted for <a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems (ISIS2021) </a>.
       <br><br>
       <h3>31th May.</h3>
       My interview was posted on the <a href="https://r.lne.st/2021/50-kuroda/">website</a>.
@@ -74,7 +77,7 @@ view: 2
       Renewal of the website.
       <br><br>
       <h3>24th Nov.</h3>
-      I gave an online presentation at <a href="https://ibisml.org/ibis2020/">The 23rd Information-Based Induction Sciences Workshop (IBIS2020)</a>.
+      I gave an online presentation at <a href="https://ibisml.org/ibis2020/">The 23rd Information-Based Induction Sciences Workshop</a>.
       <br><br>
       <h3>9th Jun.</h3>
       I gave an online presentation at <a href="https://www.ai-gakkai.or.jp/jsai2020/">The 34th Annual Conference of the JSAI2020</a>.

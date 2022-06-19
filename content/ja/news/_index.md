@@ -19,8 +19,11 @@ view: 2
   <div id="collapse2022" class="collapse" aria-labelledby="heading2022" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>3月3日</h3>
+        オンラインにて開催された<a href="https://www.ipsj.or.jp/event/taikai/84/index.html">情報処理学会第84回全国大会</a>で口頭発表を行い、<a href="http://www.ipsj.or.jp/award/taikaigakusei.html">学生奨励賞</a>を受賞しました。
+        <br><br>
         <h3>2月15日</h3>
-        2021年12月に開催された<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）</a>で、ベストセッション賞を受賞しました。
+        2021年12月に開催された<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021） </a>で、ベストセッション賞を受賞しました。
       </ol>
     </div>
   </div>
@@ -38,10 +41,10 @@ view: 2
     <div class="card-body">
       <ol>
         <h3>12月16日</h3>
-        オンラインにて開催された<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）</a>で、口頭発表を行いました。
+        オンラインにて開催された<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems（ISIS2021）</a>で、口頭発表を行いました。
         <br><br>
         <h3>10月27日</h3>
-        ヒト脳内予測を模倣したモデルに関する論文が<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems （ISIS2021）</a>に採択されました。
+        ヒト脳内予測を模倣したモデルに関する論文が<a href="http://isis2021.org">The 22nd International Symposium on Advanced Intelligent Systems（ISIS2021）</a>に採択されました。
         <br><br>
         <h3>5月31日</h3>
         第50回リバネス研究費パナソニックアプライアンス社賞採択に関するインタビューが、<a href="https://r.lne.st/2021/50-kuroda/">採択者インタビュー記事</a>・<a href="https://lne.st/business/publishing/kenkyu/">研究応援Vol.22</a>に掲載されました。
@@ -74,10 +77,10 @@ view: 2
         ホームページをリニューアルしました。
         <br><br>
         <h3>11月24日</h3>
-        オンラインにて開催された<a href="https://ibisml.org/ibis2020/">第23回情報論的学習理論ワークショップ (IBIS2020)</a>で、口頭発表を行いました。
+        オンラインにて開催された<a href="https://ibisml.org/ibis2020/">第23回情報論的学習理論ワークショップ</a>で、口頭発表を行いました。
         <br><br>
         <h3>6月9日</h3>
-        オンラインにて開催された<a href="https://www.ai-gakkai.or.jp/jsai2020/">人工知能学会全国大会(第34回) (JSAI2020)</a>で、口頭発表を行いました。
+        オンラインにて開催された<a href="https://www.ai-gakkai.or.jp/jsai2020/">人工知能学会全国大会(第34回)</a>で、口頭発表を行いました。
         <br><br>
         <h3>5月28日</h3>
         2020年3月に開催された<a href="https://www.ipsj.or.jp/event/taikai/82/index.html">情報処理学会第82回全国大会</a>で，<a href="http://www.ipsj.or.jp/award/taikaiyusyu.html">大会優秀賞</a>を受賞しました。

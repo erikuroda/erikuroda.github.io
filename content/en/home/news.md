@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2022-06-15
+I gave an oral presentation at [The 36th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2022/en).
+
+<br>
+
 ### 2022-05-01
 Two papers were published in a Special Issue of "Thinking about the Future of Transactions of the Japanese Society for Artificial Intelligence" ([AI System Papers](https://doi.org/10.11517/jjsai.37.3_323)・[Concept Papers](https://doi.org/10.11517/jjsai.37.3_329)) in Journal of the Japanese Society for Artificial Intelligence.
 
@@ -73,11 +78,6 @@ Two papers were published in a Special Issue of "Thinking about the Future of Tr
 
 ### 2022-04-01
 I was awarded [Grant-in-Aid for JSPS Fellows (DC1)](https://www.jsps.go.jp/index.html) by Japan Society for the Promotion of Science.
-
-<br>
-
-### 2022-03-03
-I gave an online presentation at [The 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/index.html) and won [Student Encouragement Award of IPSJ National Convention](http://www.ipsj.or.jp/award/taikaigakusei.html).
 
 <br>
 

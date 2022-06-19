@@ -83,4 +83,4 @@ subtitle = "学術論文・MISC"
 <br>
 ### 2021
 - __黒田彗莉__
-<br>「第50回リバネス研究費 [採択者インタビュー記事](https://r.lne.st/adopter/936/)」
+<br>「第50回リバネス研究費 採択者インタビュー記事」<a class="fas fa-link" href="https://r.lne.st/adopter/936/"></a>

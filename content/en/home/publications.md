@@ -84,4 +84,4 @@ subtitle = "Journal・MISC"
 <br>
 ### 2021
 - __Eri Kuroda__
-<br>[Interview Articles](https://r.lne.st/adopter/936/) about Leave a Nest Research Grant.
+<br>Interview Articles about Leave a Nest Research Grant. <a class="fas fa-link" href="https://r.lne.st/adopter/936/"></a>
