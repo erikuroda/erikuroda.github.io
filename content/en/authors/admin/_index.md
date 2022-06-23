@@ -29,15 +29,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "#contact"
-- icon: linkedin
+- icon: orcid
   icon_pack: fab
-  link: https://www.linkedin.com/in/erikuroda
-- icon: github-alt
-  icon_pack: fab
-  link: https://github.com/erikuroda
+  link: https://orcid.org/0000-0001-6248-5056
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl
 - icon: cv
   icon_pack: ai
-  link: https://erikuroda.com/docs/cv220619_erikuroda.pdf
+  link: https://eri-kuroda.com/docs/cv220619_erikuroda.pdf
 superuser: true
 title: Eri Kuroda
 ---

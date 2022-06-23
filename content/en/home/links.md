@@ -68,10 +68,13 @@ subtitle = ""
 +++
 ### Institutions
 - [Department of Information Science, Ochanomizu University](https://www.sci.ocha.ac.jp/ug/is/index.html)
+- [Ichiro Kobayashi Lab. Ochanomizu University](https://www.koba.is.ocha.ac.jp/kobalab/index.php/en)
 - [Information Processing Society of Japan ](https://www.ipsj.or.jp)
 - [The Japanese Society for Artificial Intelligence ](https://www.ai-gakkai.or.jp)
 
 <br>
 
 ### Others
-- [researchmap (Eri Kuroda)](https://researchmap.jp/erikuroda?lang=en)
+- [researchmap](https://researchmap.jp/erikuroda?lang=en)
+- [ORCiD](https://orcid.org/0000-0001-6248-5056)
+- [Google scholar](https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl)

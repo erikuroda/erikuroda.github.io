@@ -69,18 +69,18 @@ subtitle = "Journal・MISC"
 ## Journal
 ### 2022
 - __Eri Kuroda__・Yuko Sakurai・Masanori Takano・Hiroshi Sakuma・Yoji Kiyota
-<br>"AI System Papers -Challenges and Possibilities for Collaboration among Different Communities-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.323-328．<a class="fas fa-link" href="https://doi.org/10.11517/jjsai.37.3_323"></a>
+<br>"AI System Papers -Challenges and Possibilities for Collaboration among Different Communities-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.323-328．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_323"></a>
 <br>
 <br>
 - __Eri Kuroda__・Hiroshi Yamakawa・Fujio Toriumi・Hiroshi Sakuma・Yoji Kiyota
-<br>"Concept Papers -To Facilitate Dissemination of High-Impact Papers-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.329-333．<a class="fas fa-link" href="https://doi.org/10.11517/jjsai.37.3_329"></a>
+<br>"Concept Papers -To Facilitate Dissemination of High-Impact Papers-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.329-333．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_329"></a>
 <br>
 <br>
 
 ## MISC
 ### 2022
 - Maiko Onishi・__Eri Kuroda__・Hiroshi Sakuma
-<br>Student Forum（110） Interview with Prof. Emi Tamaki "The Future of "Body Sharing Technology" Based on Deep Sensation"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.2，pp.237-239．<a class="fas fa-link" href="https://doi.org/10.11517/jjsai.37.2_237"></a>
+<br>Student Forum（110） Interview with Prof. Emi Tamaki "The Future of "Body Sharing Technology" Based on Deep Sensation"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.2，pp.237-239．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.2_237"></a>
 <br>
 ### 2021
 - __Eri Kuroda__

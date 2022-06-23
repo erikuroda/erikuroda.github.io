@@ -69,10 +69,13 @@ subtitle = "リンク"
 +++
 ### 所属
 - [お茶の水女子大学 理学部情報科学科](https://www.sci.ocha.ac.jp/ug/is/index.html)
+- [お茶の水女子大学 小林一郎研究室](https://www.koba.is.ocha.ac.jp/kobalab/)
 - [情報処理学会](https://www.ipsj.or.jp)
 - [人工知能学会](https://www.ai-gakkai.or.jp)
 
 <br>
 
 ### その他
-- [researchmap（黒田彗莉）](https://researchmap.jp/erikuroda?lang=ja)
+- [researchmap](https://researchmap.jp/erikuroda?lang=ja)
+- [ORCiD](https://orcid.org/0000-0001-6248-5056)
+- [Google scholar](https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl=ja)

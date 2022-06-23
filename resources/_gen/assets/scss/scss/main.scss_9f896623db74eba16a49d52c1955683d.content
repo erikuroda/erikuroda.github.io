@@ -9384,6 +9384,9 @@ a:hover {
   transform: scale(1.2, 1.2);
   color: #B20000; }
 
+.ai-doi:hover {
+  transform: scale(1.2, 1.2); }
+
 .icon-feedly:hover, .icon-feedly-o:hover, .icon-feedly, .icon-feedly-o {
   color: #89c04e;
   font-size: 99% !important; }
