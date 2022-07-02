@@ -79,8 +79,12 @@ subtitle = "Journal・MISC"
 
 ## MISC
 ### 2022
+- __Eri Kuroda__・Saya Kashiwakura・Ayari Matsui 
+<br>Student Forum (112) Interview with Prof. Akiko Aizawa "limb Your Own Mountain, Even If Itʼs Small at First"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.4，pp.533-536．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.4_533"></a>
+<br>
+<br>
 - Maiko Onishi・__Eri Kuroda__・Hiroshi Sakuma
-<br>Student Forum（110） Interview with Prof. Emi Tamaki "The Future of "Body Sharing Technology" Based on Deep Sensation"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.2，pp.237-239．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.2_237"></a>
+<br>Student Forum (110) Interview with Prof. Emi Tamaki "The Future of "Body Sharing Technology" Based on Deep Sensation"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.2，pp.237-239．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.2_237"></a>
 <br>
 ### 2021
 - __Eri Kuroda__

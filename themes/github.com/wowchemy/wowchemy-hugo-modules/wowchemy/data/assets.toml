@@ -80,9 +80,13 @@
 
 # CSS
 
+#[css.fontAwesome]
+#  version = "5.14.0"
+#  sri = "sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc="
+#  url = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/%s/css/all.min.css"
 [css.fontAwesome]
-  version = "5.14.0"
-  sri = "sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc="
+  version = "6.1.1"
+  sri = ""
   url = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/%s/css/all.min.css"
 [css.academicons]
   version = "1.9.0"

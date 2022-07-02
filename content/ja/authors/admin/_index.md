@@ -28,6 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "#contact"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/erikuroda
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-6248-5056
