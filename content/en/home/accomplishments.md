@@ -32,7 +32,7 @@ item:
   organization: Japan Society for the Promotion of Science
   organization_url: https://www.jsps.go.jp/j-pd/
   title: Grant-in-Aid for JSPS Research Fellows (DC1｜JPY 2,500,000)
-  url: "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J21786/"
+  url: "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22J21786/"
 
 - certificate_url:
   date_end: ""

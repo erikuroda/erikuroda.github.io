@@ -77,7 +77,7 @@ Two papers were published in a Special Issue of "Thinking about the Future of Tr
 <br>
 
 ### 2022-04-01
-I was awarded [Grant-in-Aid for JSPS Fellows (DC1)](https://www.jsps.go.jp/index.html) by Japan Society for the Promotion of Science.
+I was awarded [Grant-in-Aid for JSPS Fellows (DC1)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22J21786/) by Japan Society for the Promotion of Science.
 
 <br>
 

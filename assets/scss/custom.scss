@@ -9,7 +9,7 @@ a {
 
 a:hover {
   transition: color 0.0s ease;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .fa-file-pdf {
@@ -110,10 +110,16 @@ a:hover {
 }
 
 .fa-link {
-  color: #f59869;
+  color: #800000;
 }
 
 .fa-link:hover {
+  transform:scale(1.2,1.2);
+  color: #800000;
+  text-decoration: none;
+}
+
+.fa-up-right-from-square:hover {
   transform:scale(1.2,1.2);
 }
 
@@ -124,10 +130,17 @@ a:hover {
 .fa-file-pdf:hover {
   transform:scale(1.2,1.2);
   color: #B20000;
+  text-decoration: none;
+}
+
+.ai-doi {
+  color: #800000;
 }
 
 .ai-doi:hover {
   transform:scale(1.2,1.2);
+  color: #800000;
+  text-decoration: none;
 }
 
 

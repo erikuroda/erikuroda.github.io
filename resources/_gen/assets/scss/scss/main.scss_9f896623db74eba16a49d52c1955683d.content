@@ -9296,7 +9296,7 @@ a {
 
 a:hover {
   transition: color 0.0s ease;
-  text-decoration: none; }
+  text-decoration: underline; }
 
 .fa-file-pdf {
   color: #b10a0f; }
@@ -9372,9 +9372,14 @@ a:hover {
   text-decoration: none; }
 
 .fa-link {
-  color: #f59869; }
+  color: #800000; }
 
 .fa-link:hover {
+  transform: scale(1.2, 1.2);
+  color: #800000;
+  text-decoration: none; }
+
+.fa-up-right-from-square:hover {
   transform: scale(1.2, 1.2); }
 
 .fa-file-pdf {
@@ -9382,10 +9387,16 @@ a:hover {
 
 .fa-file-pdf:hover {
   transform: scale(1.2, 1.2);
-  color: #B20000; }
+  color: #B20000;
+  text-decoration: none; }
+
+.ai-doi {
+  color: #800000; }
 
 .ai-doi:hover {
-  transform: scale(1.2, 1.2); }
+  transform: scale(1.2, 1.2);
+  color: #800000;
+  text-decoration: none; }
 
 .icon-feedly:hover, .icon-feedly-o:hover, .icon-feedly, .icon-feedly-o {
   color: #89c04e;

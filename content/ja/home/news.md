@@ -77,7 +77,7 @@ subtitle = "最近のお知らせ"
 <br>
 
 ### 2022-04-01
-[日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/index.html)として採用されました。
+[日本学術振興会特別研究員（DC1）](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J21786/)として採用されました。
 
 <br>
 
