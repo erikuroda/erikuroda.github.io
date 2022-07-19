@@ -36,6 +36,15 @@ item:
 
 - certificate_url:
   date_end: ""
+  date_start: "2022-04-01"
+  description: 
+  organization: 日本学生支援機構
+  organization_url: https://www.jasso.go.jp/
+  title: 特に優れた業績による返還免除（第一種奨学金）
+  url: 
+
+- certificate_url:
+  date_end: ""
   date_start: "2022-03-03"
   description: 　[News](https://www.ocha.ac.jp/news/d010391.html)
   organization: 情報処理学会第84回全国大会

@@ -9298,12 +9298,6 @@ a:hover {
   transition: color 0.0s ease;
   text-decoration: underline; }
 
-.fa-file-pdf {
-  color: #b10a0f; }
-
-.fa-file {
-  color: cornflowerblue; }
-
 .ai-cv {
   color: teal; }
 
@@ -9379,6 +9373,12 @@ a:hover {
   color: #800000;
   text-decoration: none; }
 
+.fa-link:avtive {
+  color: #800000; }
+
+.fa-link:visited {
+  color: #800000; }
+
 .fa-up-right-from-square:hover {
   transform: scale(1.2, 1.2); }
 
@@ -9390,6 +9390,12 @@ a:hover {
   color: #B20000;
   text-decoration: none; }
 
+.fa-file-pdf:avtive {
+  color: #B20000; }
+
+.fa-file-pdf:visited {
+  color: #B20000; }
+
 .ai-doi {
   color: #800000; }
 
@@ -9397,6 +9403,12 @@ a:hover {
   transform: scale(1.2, 1.2);
   color: #800000;
   text-decoration: none; }
+
+.ai-doi:active {
+  color: #800000; }
+
+.ai-doi:visited {
+  color: #800000; }
 
 .icon-feedly:hover, .icon-feedly-o:hover, .icon-feedly, .icon-feedly-o {
   color: #89c04e;

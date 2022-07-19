@@ -33,6 +33,15 @@ item:
   organization_url: https://www.jsps.go.jp/j-pd/
   title: Grant-in-Aid for JSPS Research Fellows (DC1｜JPY 2,500,000)
   url: "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22J21786/"
+  
+- certificate_url:
+  date_end: ""
+  date_start: "2022-04-01"
+  description: 
+  organization: Japan Student Services Organization
+  organization_url: https://www.jasso.go.jp/en/
+  title: Repayment Exemption of JASSO Scholarship (Category 1)
+  url: 
 
 - certificate_url:
   date_end: ""

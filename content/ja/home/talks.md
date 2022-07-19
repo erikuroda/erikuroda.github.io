@@ -68,29 +68,29 @@ subtitle = "学会・シンポジウム"
 +++
 ## International
 ### 2021
-- __Eri Kuroda__・Shinji Nishimoto・Satoshi Nishida・Ichiro Kobayashi <br>"A Deep Generative Model imitating Predictive Coding in the Human Brain", [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org/), Oral, Online, Mar 18th-20th, 2021 ([ベストセッション賞](https://www.ocha.ac.jp/news/20220217_1.html)受賞).
+- __Eri Kuroda__・Shinji Nishimoto・Satoshi Nishida・Ichiro Kobayashi <br>"A Deep Generative Model imitating Predictive Coding in the Human Brain", [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org), Oral, Online, Mar 18th-20th, 2021 ([ベストセッション賞](https://www.ocha.ac.jp/news/20220217_1.html)受賞). <a class="fas fa-file-pdf" href="https://drive.google.com/file/d/1KYmiGkCv4-WRG_nzSF-yp1TX3DqtHs4L/view?usp=sharing" target="_blank"></a>
 <br>
 <br>
 
 ## Domestic
 ### 2022
-- __黒田彗莉__・小林一郎「画像内の物体に着目した動きの変化点抽出への取り組み」，[人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)，口頭，国立京都国際会館・京都，2022年6月14日-17日．
+- __黒田彗莉__・小林一郎「画像内の物体に着目した動きの変化点抽出への取り組み」，[人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)，口頭，国立京都国際会館・京都，2022年6月14日-17日．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2M1OS19a02/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2022.0_2M1OS19a02" target="_blank"></a>
 <br>
 <br>
 - __黒田彗莉__・小林一郎「物理環境における変化点抽出の取り組み」，[第84回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/84/)，口頭，オンライン，2022年3月3日−5日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)受賞）．
 <br>
 ### 2021
-- __黒田彗莉__・西本伸志・西田知史・小林一郎「予測符号化を模倣する深層生成学習モデル構築に向けた基礎的検討」，[第83回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/83/)，口頭，オンライン，2021年3月18日−20日．<a class="fas fa-file-pdf" href="https://drive.google.com/file/d/1ALvcxCe55ybMJA8LlwZat8SpeX1rr8zW/view?usp=sharing"></a> <a class="ai ai-doi" href="http://id.nii.ac.jp/1001/00214918/"></a>
+- __黒田彗莉__・西本伸志・西田知史・小林一郎「予測符号化を模倣する深層生成学習モデル構築に向けた基礎的検討」，[第83回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/83/)，口頭，オンライン，2021年3月18日−20日．<a class="fas fa-file-pdf" href="https://drive.google.com/file/d/1ALvcxCe55ybMJA8LlwZat8SpeX1rr8zW/view?usp=sharing" target="_blank"></a> <a class="ai ai-doi" href="http://id.nii.ac.jp/1001/00214918/" target="_blank"></a>
 <br>
 ### 2020
 - __黒田彗莉__・西本伸志・西田知史・小林一郎「予測符号化を模倣する深層生成学習モデル構築に向けた取り組み」，[第23回情報論的学習理論ワークショップ](https://ibisml.org/ibis2020/)，口頭，オンライン，2020年11月23日−26日．
 <br>
 <br>
-- __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，[人工知能学会全国大会（第34回）](https://www.ai-gakkai.or.jp/jsai2020/)，口頭，オンライン，2020年6月8日−11日．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1O3GS801/_pdf/-char/ja"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2020.0_1O3GS801"></a>
+- __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，[人工知能学会全国大会（第34回）](https://www.ai-gakkai.or.jp/jsai2020/)，口頭，オンライン，2020年6月8日−11日．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1O3GS801/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2020.0_1O3GS801" target="_blank"></a>
 <br>
 <br>
 - __黒田彗莉__・小林一郎「予測を対象とするモデルを用いた実世界理解への取り組み」，
-[第82回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/82/)，口頭，金沢工業大学(オンライン)，2020年3月5日−7日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)・[大会優秀賞](https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1)受賞）．<a class="fas fa-file-pdf" href="https://www.ipsj.or.jp/award/9faeag0000004emc-att/6R-01.pdf"></a> </a> <a class="ai ai-doi" href="http://id.nii.ac.jp/1001/00205169/"></a>
+[第82回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/82/)，口頭，金沢工業大学(オンライン)，2020年3月5日−7日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)・[大会優秀賞](https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1)受賞）．<a class="fas fa-file-pdf" href="https://www.ipsj.or.jp/award/9faeag0000004emc-att/6R-01.pdf" target="_blank"></a> </a> <a class="ai ai-doi" href="http://id.nii.ac.jp/1001/00205169/" target="_blank"></a>
 <br>
 <br>
 - __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，

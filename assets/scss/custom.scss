@@ -12,14 +12,6 @@ a:hover {
   text-decoration: underline;
 }
 
-.fa-file-pdf {
-  color: rgb(177, 10, 15);
-}
-
-.fa-file {
-  color: rgb(100, 149, 237);
-}
-
 .ai-cv {
   color: rgb(0, 128, 128);
 }
@@ -119,6 +111,14 @@ a:hover {
   text-decoration: none;
 }
 
+.fa-link:avtive {
+  color: #800000;
+}
+
+.fa-link:visited {
+  color: #800000;
+}
+
 .fa-up-right-from-square:hover {
   transform:scale(1.2,1.2);
 }
@@ -133,6 +133,14 @@ a:hover {
   text-decoration: none;
 }
 
+.fa-file-pdf:avtive {
+  color: #B20000;
+}
+
+.fa-file-pdf:visited {
+color: #B20000;
+}
+
 .ai-doi {
   color: #800000;
 }
@@ -141,6 +149,14 @@ a:hover {
   transform:scale(1.2,1.2);
   color: #800000;
   text-decoration: none;
+}
+
+.ai-doi:active {
+  color: #800000;
+}
+
+.ai-doi:visited {
+  color: #800000;
 }
 
 

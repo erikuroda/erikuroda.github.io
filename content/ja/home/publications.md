@@ -69,22 +69,22 @@ subtitle = "学術論文・MISC"
 ## 学術論文
 ### 2022
 - __黒田彗莉__・櫻井祐子・高野雅典・佐久間洋司・清田 陽司
-<br>「実践AIシステム論文 −異分野コミュニティ間の連携の課題と可能性−」，人工知能，Vol.37，No.3，pp.323-328．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_323"></a>
+<br>「実践AIシステム論文 −異分野コミュニティ間の連携の課題と可能性−」，人工知能，Vol.37，No.3，pp.323-328．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_323" target="_blank"></a>
 <br>
 <br>
 - __黒田彗莉__・山川宏・鳥海不二夫・佐久間洋司・清田 陽司
-<br>「コンセプト論文 −インパクトのある論文の発信を促進するために−」，人工知能，Vol.37，No.3，pp.329-333．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_329"></a>
+<br>「コンセプト論文 −インパクトのある論文の発信を促進するために−」，人工知能，Vol.37，No.3，pp.329-333．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_329" target="_blank"></a>
 <br>
 <br>
 ## MISC
 ### 2022
 - __黒田彗莉__・柏倉沙耶・松井彩里
-<br>学生フォーラム〔第112回〕相澤彰子先生インタビュー「はじめは小さくてもいいから，自分の山を登れ」，人工知能，Vol.37，No.4，pp.533-536．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.4_533"></a>
+<br>学生フォーラム〔第112回〕相澤彰子先生インタビュー「はじめは小さくてもいいから，自分の山を登れ」，人工知能，Vol.37，No.4，pp.533-536．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/37/4/37_533/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.4_533" target="_blank"></a>
 <br>
 <br>
 - 大西舞子・__黒田彗莉__・佐久間洋司
-<br>学生フォーラム〔第110回〕玉城絵美先生インタビュー「固有感覚を活用した『体験共有』の未来」，人工知能，Vol.37，No.2，pp.237-239．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.2_237"></a>
+<br>学生フォーラム〔第110回〕玉城絵美先生インタビュー「固有感覚を活用した『体験共有』の未来」，人工知能，Vol.37，No.2，pp.237-239．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/37/2/37_237/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.2_237" target="_blank"></a>
 <br>
 ### 2021
 - __黒田彗莉__
-<br>「第50回リバネス研究費 採択者インタビュー記事」<a class="fas fa-link" href="https://r.lne.st/adopter/936/"></a>
+<br>「第50回リバネス研究費 採択者インタビュー記事」<a class="fas fa-link" href="https://r.lne.st/adopter/936/" target="_blank"></a>
