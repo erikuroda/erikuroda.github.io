@@ -4,7 +4,7 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD Candidate (Department of Information Sciences in Science)
+  - course: PhD Candidate (Division of Information Sciences in Science)
     institution: Ochanomizu University
     year: 2022–Present
   - course: M.Sc. (Information Sciences)
