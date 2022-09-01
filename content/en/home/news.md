@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2022-09-01
+Our paper (["The World Students See Through Research"](https://doi.org/10.11517/jjsai.37.5_640)) was published in Journal of the Japanese Society for Artificial Intelligence.
+
+<br>
+
 ### 2022-06-15
 I gave an oral presentation at [The 36th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2022/en).
 
@@ -73,11 +78,6 @@ I gave an oral presentation at [The 36th Annual Conference of the Japanese Socie
 
 ### 2022-05-01
 Two papers were published in a Special Issue of "Thinking about the Future of Transactions of the Japanese Society for Artificial Intelligence" ([AI System Papers](https://doi.org/10.11517/jjsai.37.3_323)・[Concept Papers](https://doi.org/10.11517/jjsai.37.3_329)) in Journal of the Japanese Society for Artificial Intelligence.
-
-<br>
-
-### 2022-04-01
-I was awarded [Grant-in-Aid for JSPS Fellows (DC1)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22J21786/) by Japan Society for the Promotion of Science.
 
 <br>
 
