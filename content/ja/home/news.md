@@ -66,8 +66,14 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2022-09-01
+人工知能学会の会誌「人工知能」に論文「[研究を通して学生が見る世界
+](https://doi.org/10.11517/jjsai.37.5_640)」が掲載されました。
+
+<br>
+
 ### 2022-06-15
-京都・国立京都国際会館にて開催された<a href="https://www.ai-gakkai.or.jp/jsai2022/">人工知能学会全国大会（第36回）</a>で、口頭発表を行いました。
+京都・国立京都国際会館にて開催された[人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)で、口頭発表を行いました。
 
 <br>
 
@@ -76,9 +82,5 @@ subtitle = "最近のお知らせ"
 
 <br>
 
-### 2022-04-01
-[日本学術振興会特別研究員（DC1）](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J21786/)として採用されました。
-
-<br>
 
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>

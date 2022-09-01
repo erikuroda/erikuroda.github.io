@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2022" class="collapse" aria-labelledby="heading2022" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>4月1日</h3>
+        <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J21786/">日本学術振興会特別研究員（DC1）</a>として採用されました。
+        <br><br>
         <h3>3月3日</h3>
         オンラインにて開催された<a href="https://www.ipsj.or.jp/event/taikai/84/index.html">情報処理学会第84回全国大会</a>で口頭発表を行い、<a href="http://www.ipsj.or.jp/award/taikaigakusei.html">学生奨励賞</a>を受賞しました。
         <br><br>

@@ -68,6 +68,10 @@ subtitle = "Journal・MISC"
 +++
 ## Journal
 ### 2022
+- __Eri Kuroda__・Tomoko Ohkuma・Masanori Takano・Chie Morita・Yuko Sakurai・Yoji Kiyota
+<br>"The World Students See Through Research"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.5，pp.640-648．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.5_640" target="_blank"></a>
+<br>
+<br>
 - __Eri Kuroda__・Yuko Sakurai・Masanori Takano・Hiroshi Sakuma・Yoji Kiyota
 <br>"AI System Papers -Challenges and Possibilities for Collaboration among Different Communities-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.323-328．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_323" target="_blank"></a>
 <br>
