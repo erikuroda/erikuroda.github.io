@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2022-10-06
+As an internship student, I stay at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web) from October 6th to December 31st.
+
+<br>
+
 ### 2022-09-01
 Our paper (["The World Students See Through Research"](https://doi.org/10.11517/jjsai.37.5_640)) was published in Journal of the Japanese Society for Artificial Intelligence.
 
@@ -73,12 +78,5 @@ Our paper (["The World Students See Through Research"](https://doi.org/10.11517/
 
 ### 2022-06-15
 I gave an oral presentation at [The 36th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2022/en).
-
-<br>
-
-### 2022-05-01
-Two papers were published in a Special Issue of "Thinking about the Future of Transactions of the Japanese Society for Artificial Intelligence" ([AI System Papers](https://doi.org/10.11517/jjsai.37.3_323)・[Concept Papers](https://doi.org/10.11517/jjsai.37.3_329)) in Journal of the Japanese Society for Artificial Intelligence.
-
-<br>
 
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

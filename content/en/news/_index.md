@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2022" class="collapse" aria-labelledby="heading2022" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>1st May.</h3>
+        Two papers were published in a Special Issue of "Thinking about the Future of Transactions of the Japanese Society for Artificial Intelligence" (<a href="https://doi.org/10.11517/jjsai.37.3_323">AI System Papers</a>・<a href="https://doi.org/10.11517/jjsai.37.3_329">Concept Papers</a>) in Journal of the Japanese Society for Artificial Intelligence.
+        <br><br>
         <h3>1st Apr.</h3>
         I was awarded <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22J21786/">Grant-in-Aid for JSPS Fellows (DC1)</a> by Japan Society for the Promotion of Science.
         <br><br>
