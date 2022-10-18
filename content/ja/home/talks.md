@@ -68,7 +68,7 @@ subtitle = "学会・シンポジウム"
 +++
 ## International
 ### 2021
-- __Eri Kuroda__・Shinji Nishimoto・Satoshi Nishida・Ichiro Kobayashi <br>"A Deep Generative Model imitating Predictive Coding in the Human Brain", [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org), Oral, Online, Mar 18th-20th, 2021 ([ベストセッション賞](https://www.ocha.ac.jp/news/20220217_1.html)受賞). <a class="fas fa-file-pdf" href="https://drive.google.com/file/d/1KYmiGkCv4-WRG_nzSF-yp1TX3DqtHs4L/view?usp=sharing" target="_blank"></a>
+- __Eri Kuroda__・Shinji Nishimoto・Satoshi Nishida・Ichiro Kobayashi <br>"A Deep Generative Model imitating Predictive Coding in the Human Brain", [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org), Oral, Online, Dec 15th-18th, 2021 ([ベストセッション賞](https://www.ocha.ac.jp/news/20220217_1.html)受賞). <a class="fas fa-file-pdf" href="https://drive.google.com/file/d/1KYmiGkCv4-WRG_nzSF-yp1TX3DqtHs4L/view?usp=sharing" target="_blank"></a>
 <br>
 <br>
 
