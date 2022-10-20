@@ -93,6 +93,8 @@ subtitle = "Conference・Workshop"
 <br>
 <br>
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Building a Deep Generative Model for Prediction in the Human Brain", [Chronogenesis](https://www.chronogenesis.org), Poster, Toyonaka・Osaka, Feb 1st-2nd, 2020.
+<br>
+<br>
 
 ## Invited
 ### 2022
