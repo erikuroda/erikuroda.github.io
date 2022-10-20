@@ -93,3 +93,9 @@ subtitle = "Conference・Workshop"
 <br>
 <br>
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Building a Deep Generative Model for Prediction in the Human Brain", [Chronogenesis](https://www.chronogenesis.org), Poster, Toyonaka・Osaka, Feb 1st-2nd, 2020.
+
+## Invited
+### 2022
+- __Eri Kuroda__
+<br>
+[Online seminars for female students](https://aip.riken.jp/event-list/surijohoai-female-students-seminar/), RIKEN Center for Advanced Intelligence Project (AIP), Online, Oct 20th, 2022.

@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2022-10-20
+I gave an invited talk at an [Online Seminar for female student](https://aip.riken.jp/event-list/surijohoai-female-students-seminar/) hosted by RIKEN AIP.
+
+<br>
+
 ### 2022-10-06
 As an internship student, I stay at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web) from October 6th to December 31st.
 
@@ -73,10 +78,5 @@ As an internship student, I stay at [German Research Center for Artificial Intel
 
 ### 2022-09-01
 Our paper (["The World Students See Through Research"](https://doi.org/10.11517/jjsai.37.5_640)) was published in Journal of the Japanese Society for Artificial Intelligence.
-
-<br>
-
-### 2022-06-15
-I gave an oral presentation at [The 36th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2022/en).
 
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

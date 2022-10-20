@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2022" class="collapse" aria-labelledby="heading2022" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>15th June.</h3>
+        I gave an oral presentation at <a  href="https://www.ai-gakkai.or.jp/jsai2022/en">The 36th Annual Conference of the Japanese Society for Artificial Intelligence</a>.
+        <br><br>
         <h3>1st May.</h3>
         Two papers were published in a Special Issue of "Thinking about the Future of Transactions of the Japanese Society for Artificial Intelligence" (<a href="https://doi.org/10.11517/jjsai.37.3_323">AI System Papers</a>・<a href="https://doi.org/10.11517/jjsai.37.3_329">Concept Papers</a>) in Journal of the Japanese Society for Artificial Intelligence.
         <br><br>

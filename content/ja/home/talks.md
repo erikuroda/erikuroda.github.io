@@ -95,3 +95,9 @@ subtitle = "学会・シンポジウム"
 <br>
 - __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，
 [新学術領域「時間生成学」](https://www.chronogenesis.org)，ポスター，千里阪急ホテル・大阪，2020年2月1日−2日．
+
+## Invited
+### 2022
+- __黒田彗莉__
+<br>
+[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/event-list/surijohoai-female-students-seminar/)，オンライン，理研AIP，2022年10月20日．

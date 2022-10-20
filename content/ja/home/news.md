@@ -66,6 +66,11 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2022-10-20
+理研AIP主催[「集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回」](https://aip.riken.jp/event-list/surijohoai-female-students-seminar/)にて招待講演を行いました。
+
+<br>
+
 ### 2022-10-06
 10月6日から12月31日まで[ドイツ人工知能研究センター](https://www.dfki.de/en/web)にインターンシップ生として滞在します。
 
@@ -74,11 +79,5 @@ subtitle = "最近のお知らせ"
 ### 2022-09-01
 人工知能学会の会誌「人工知能」に論文「[研究を通して学生が見る世界
 ](https://doi.org/10.11517/jjsai.37.5_640)」が掲載されました。
-
-<br>
-
-### 2022-06-15
-京都・国立京都国際会館にて開催された[人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)で、口頭発表を行いました。
-
 
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>
