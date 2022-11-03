@@ -26,6 +26,24 @@ date_format: "2006/1"
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
 - company: Japan Society for the Promotion of Science
+  company_url: "https://www.ai-gakkai.or.jp/"
+  company_logo: "jsai"
+  date_end: ""
+  date_start: "2022-11-01"
+  description: 
+  location: Tokyo
+  title: Industry Collaboration Committee Member
+  
+- company: German Research Centre for Artificial Intelligence
+  company_url: "https://www.dfki.de/web"
+  company_logo: "dfki"
+  date_end: "2022-12-31"
+  date_start: "2022-10-06"
+  description: 
+  location: Saarbrücken
+  title: Internship student
+  
+- company: Japan Society for the Promotion of Science
   company_url: "https://www.jsps.go.jp/index.html"
   company_logo: "jsps"
   date_end: ""
@@ -35,7 +53,7 @@ experience:
   title: JSPS Research Fellows (DC1)
 
 - company: The Japanese Society for Artificial Intelligence
-  company_url: "https://www.ai-gakkai.or.jp/resource/student_forum/"
+  company_url: "https://www.ai-gakkai.or.jp/"
   company_logo: "jsai"
   date_end: ""
   date_start: "2021-06-01"
