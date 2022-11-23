@@ -30,7 +30,7 @@ experience:
   company_logo: "jsai"
   date_end: ""
   date_start: "2022-11-01"
-  description: 
+  description: 　[__HP__](https://www.ai-gakkai.or.jp/siai/)
   location: Tokyo
   title: Industry Collaboration Committee Member
   
@@ -57,7 +57,7 @@ experience:
   company_logo: "jsai"
   date_end: ""
   date_start: "2021-06-01"
-  description: 
+  description: 　[__HP__](https://www.ai-gakkai.or.jp/resource/student_forum/)
   location: Tokyo
   title: Student Editor
 

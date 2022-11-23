@@ -30,9 +30,9 @@ experience:
   company_logo: "jsai"
   date_end: ""
   date_start: "2022-11-01"
-  description: 
+  description: 　[__HP__](https://www.ai-gakkai.or.jp/siai/)
   location: 東京
-  title: 産業界連携委員
+  title: 　産業界連携委員
   
 - company: ドイツ人工知能研究センター
   company_url: "https://www.dfki.de/web"
@@ -57,7 +57,7 @@ experience:
   company_logo: "jsai"
   date_end: ""
   date_start: "2021-06-01"
-  description: 
+  description: 　[__HP__](https://www.ai-gakkai.or.jp/resource/student_forum/)
   location: 東京
   title: 学生編集委員
 

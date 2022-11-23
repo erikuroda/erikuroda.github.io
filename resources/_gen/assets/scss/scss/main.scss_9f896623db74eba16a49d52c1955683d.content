@@ -9396,6 +9396,14 @@ a:hover {
 .fa-file-pdf:visited {
   color: #B20000; }
 
+.fa-youtube {
+  color: #DA1725; }
+
+.fa-youtube:hover {
+  transform: scale(1.2, 1.2);
+  color: #DA1725;
+  text-decoration: none; }
+
 .ai-doi {
   color: #800000; }
 
