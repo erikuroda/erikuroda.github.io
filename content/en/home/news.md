@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 ### 2022-10-20
-I gave an invited talk at an [Online Seminar for female student](https://aip.riken.jp/event-list/surijohoai-female-students-seminar/) hosted by RIKEN AIP. <a class="fa-brands fa-youtube" href="https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja"></a>
+I gave an invited talk at an [Online Seminar for female student](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja) hosted by RIKEN AIP. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
 
 <br>
 

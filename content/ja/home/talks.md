@@ -102,4 +102,4 @@ subtitle = "学会・シンポジウム"
 ### 2022
 - __黒田彗莉__
 <br>
-[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/event-list/surijohoai-female-students-seminar/)，オンライン，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja"></a>
+[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，オンライン，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>

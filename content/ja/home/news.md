@@ -67,7 +67,7 @@ subtitle = "最近のお知らせ"
  css_class = ""
 +++
 ### 2022-10-20
-理研AIP主催[「集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回」](https://aip.riken.jp/event-list/surijohoai-female-students-seminar/)にて招待講演を行いました。<a class="fa-brands fa-youtube" href="https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja"></a>
+理研AIP主催[「集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回」](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)にて招待講演を行いました。<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
 
 <br>
 

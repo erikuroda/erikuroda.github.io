@@ -100,4 +100,4 @@ subtitle = "Conference・Workshop"
 ### 2022
 - __Eri Kuroda__
 <br>
-[Online seminars for female students](https://aip.riken.jp/event-list/surijohoai-female-students-seminar/), RIKEN Center for Advanced Intelligence Project (AIP), Online, Oct 20th, 2022. <a class="fa-brands fa-youtube" href="https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja"></a>
+[Online seminars for female students](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja), RIKEN Center for Advanced Intelligence Project (AIP), Online, Oct 20th, 2022. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
