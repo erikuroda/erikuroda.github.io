@@ -76,7 +76,6 @@ subtitle = "Conference・Workshop"
 ### 2022
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Extraction of Motion Inflection Points Focusing on Objects in an Image", [The 36th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2022/en), Oral, Kyoto International Conference Center・Kyoto, Jun 14th-17th, 2022. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2M1OS19a02/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2022.0_2M1OS19a02" target="_blank"></a>
 <br>
-<br>
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Extracting the Inflection Point in the Physical Environment", [The 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/), Oral, Online, Mar 3rd-5th, 2022 ([Student Encouragement Award of IPSJ National Convention](http://www.ipsj.or.jp/award/taikaigakusei.html)).
 <br>
 ### 2021
@@ -85,12 +84,9 @@ subtitle = "Conference・Workshop"
 ### 2020
 - __Eri Kuroda__・Shinji Nishimoto・Satoshi Nishida・Ichiro Kobayashi <br>"A Deep Generative Model Imitating Predictive Coding", [The 23rd Information-Based Induction Sciences Workshop](https://ibisml.org/ibis2020/), Oral, Online, Nov 23rd-26th, 2020.
 <br>
-<br>
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Building a Deep Generative Model for Prediction in the Human Brain", [The 34th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2020/en), Oral, Online, Jun 8th-11th, 2020. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1O3GS801/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2020.0_1O3GS801" target="_blank"></a>
 <br>
-<br>
-- __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Predicting the Real World using Deep Generative Models", [The 82nd National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/82/index.html), Oral, Online, Mar 5th-7th, 2020 ([Student Encouragement Award of IPSJ National Convention](http://www.ipsj.or.jp/award/taikaigakusei.html), [Best Paper Award of IPSJ National Conven](https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1)). <a class="fas fa-file-pdf" href="https://www.ipsj.or.jp/award/9faeag0000004emc-att/6R-01.pdf" target="_blank"></a> </a> <a class="ai ai-doi" href="http://id.nii.ac.jp/1001/00205169/" target="_blank"></a>
-<br>
+- __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Predicting the Real World using Deep Generative Models", [The 82nd National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/82/index.html), Oral, Online, Mar 5th-7th, 2020 ([Student Encouragement Award of IPSJ National Convention](http://www.ipsj.or.jp/award/taikaigakusei.html), [Best Paper Award of IPSJ National Convention](https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1)). <a class="fas fa-file-pdf" href="https://www.ipsj.or.jp/award/9faeag0000004emc-att/6R-01.pdf" target="_blank"></a> </a> <a class="ai ai-doi" href="http://id.nii.ac.jp/1001/00205169/" target="_blank"></a>
 <br>
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Building a Deep Generative Model for Prediction in the Human Brain", [Chronogenesis](https://www.chronogenesis.org), Poster, Toyonaka・Osaka, Feb 1st-2nd, 2020.
 <br>
@@ -101,3 +97,11 @@ subtitle = "Conference・Workshop"
 - __Eri Kuroda__
 <br>
 [Online seminars for female students](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja), RIKEN Center for Advanced Intelligence Project (AIP), Online, Oct 20th, 2022. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
+<br>
+<br>
+
+## Others
+### 2022
+- __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 
+<br>
+- __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Jan Alexandersson team, Nov 30th, 2022. 

@@ -34,6 +34,15 @@ experience:
   location: 東京
   title: 　産業界連携委員
   
+- company: ザールラント大学
+  company_url: "https://www.uni-saarland.de/en/home.html"
+  company_logo: "saarland"
+  date_end: "2022-12-31"
+  date_start: "2022-11-01"
+  description: 　
+  location: ザールブリュッケン
+  title: 日本語教育ティーチングアシスタント
+  
 - company: ドイツ人工知能研究センター
   company_url: "https://www.dfki.de/web"
   company_logo: "dfki"

@@ -34,6 +34,15 @@ experience:
   location: Tokyo
   title: Industry Collaboration Committee Member
   
+- company: Saarland University
+  company_url: "https://www.uni-saarland.de/en/home.html"
+  company_logo: "saarland"
+  date_end: "2022-12-31"
+  date_start: "2022-11-01"
+  description: 　
+  location: Saarbrücken
+  title: Teaching Assistant for Japanese Language Education
+  
 - company: German Research Centre for Artificial Intelligence
   company_url: "https://www.dfki.de/web"
   company_logo: "dfki"

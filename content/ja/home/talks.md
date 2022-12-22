@@ -76,7 +76,6 @@ subtitle = "学会・シンポジウム"
 ### 2022
 - __黒田彗莉__・小林一郎「画像内の物体に着目した動きの変化点抽出への取り組み」，[人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)，口頭，国立京都国際会館・京都，2022年6月14日-17日．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2M1OS19a02/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2022.0_2M1OS19a02" target="_blank"></a>
 <br>
-<br>
 - __黒田彗莉__・小林一郎「物理環境における変化点抽出の取り組み」，[第84回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/84/)，口頭，オンライン，2022年3月3日−5日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)受賞）．
 <br>
 ### 2021
@@ -85,13 +84,10 @@ subtitle = "学会・シンポジウム"
 ### 2020
 - __黒田彗莉__・西本伸志・西田知史・小林一郎「予測符号化を模倣する深層生成学習モデル構築に向けた取り組み」，[第23回情報論的学習理論ワークショップ](https://ibisml.org/ibis2020/)，口頭，オンライン，2020年11月23日−26日．
 <br>
-<br>
 - __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，[人工知能学会全国大会（第34回）](https://www.ai-gakkai.or.jp/jsai2020/)，口頭，オンライン，2020年6月8日−11日．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1O3GS801/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2020.0_1O3GS801" target="_blank"></a>
-<br>
 <br>
 - __黒田彗莉__・小林一郎「予測を対象とするモデルを用いた実世界理解への取り組み」，
 [第82回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/82/)，口頭，金沢工業大学(オンライン)，2020年3月5日−7日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)・[大会優秀賞](https://www.ipsj.or.jp/award/taikaiyusyu.html#anc1)受賞）．<a class="fas fa-file-pdf" href="https://www.ipsj.or.jp/award/9faeag0000004emc-att/6R-01.pdf" target="_blank"></a> </a> <a class="ai ai-doi" href="http://id.nii.ac.jp/1001/00205169/" target="_blank"></a>
-<br>
 <br>
 - __黒田彗莉__・小林一郎「ヒト脳内での予測を対象とする深層生成学習モデル構築への取り組み」，
 [新学術領域「時間生成学」](https://www.chronogenesis.org)，ポスター，千里阪急ホテル・大阪，2020年2月1日−2日．
@@ -100,6 +96,12 @@ subtitle = "学会・シンポジウム"
 
 ## Invited
 ### 2022
-- __黒田彗莉__
+- __黒田彗莉__<br>[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，オンライン，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
 <br>
-[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，オンライン，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
+<br>
+
+## Others
+### 2022
+- __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 
+<br>
+- __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Jan Alexandersson team, Nov 30th, 2022. 
