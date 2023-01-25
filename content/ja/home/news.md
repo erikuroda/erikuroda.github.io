@@ -66,6 +66,12 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2023-1-24
+お茶の水女子大学 IGL研究所主催 大学院共通科目R4年度集中講義 [「アカデミック女性リーダーへの道（実践編）」](https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html)にて招待講演を行いました。
+
+<br>
+
+
 ### 2022-10-20
 理研AIP主催[「集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回」](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)にて招待講演を行いました。<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
 
@@ -73,11 +79,5 @@ subtitle = "最近のお知らせ"
 
 ### 2022-10-06
 10月6日から12月31日まで[ドイツ人工知能研究センター](https://www.dfki.de/en/web)にインターンシップ生として滞在します。
-
-<br>
-
-### 2022-09-01
-人工知能学会の会誌「人工知能」に論文「[研究を通して学生が見る世界
-](https://doi.org/10.11517/jjsai.37.5_640)」が掲載されました。
 
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>

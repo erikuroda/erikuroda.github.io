@@ -95,8 +95,11 @@ subtitle = "学会・シンポジウム"
 <br>
 
 ## Invited
+### 2023
+- __黒田彗莉__<br>[お茶の水女子大学 アカデミック女性リーダーへの道（実践編）](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，お茶の水女子大学，グローバルリーダーシップ研究所，2023年1月24日．<a class="fa-solid fa-link" href="https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html" target="new"></a>
+<br>
 ### 2022
-- __黒田彗莉__<br>[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，オンライン，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
+- __黒田彗莉__<br>[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，オンライン，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>
 <br>
 <br>
 

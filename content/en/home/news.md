@@ -66,6 +66,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2023-1-24
+I gave an invited talk at an [Education Program for Female Leaders : Training Course](https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html) hosted by Ochanomizu University. 
+
+<br>
+
+
 ### 2022-10-20
 I gave an invited talk at an [Online Seminar for female student](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja) hosted by RIKEN AIP. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
 
@@ -73,10 +79,5 @@ I gave an invited talk at an [Online Seminar for female student](https://aip.rik
 
 ### 2022-10-06
 As an internship student, I stay at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web) from October 6th to December 31st.
-
-<br>
-
-### 2022-09-01
-Our paper (["The World Students See Through Research"](https://doi.org/10.11517/jjsai.37.5_640)) was published in Journal of the Japanese Society for Artificial Intelligence.
 
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>
