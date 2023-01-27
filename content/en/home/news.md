@@ -71,13 +71,12 @@ I gave an invited talk at an [Education Program for Female Leaders : Training Co
 
 <br>
 
-
-### 2022-10-20
-I gave an invited talk at an [Online Seminar for female student](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja) hosted by RIKEN AIP. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
+### 2023-1-15
+Two papers were published in the Journal of the Robotics Society of Japan ([1](https://doi.org/10.7210/jrsj.41.44)・[2](https://doi.org/10.7210/jrsj.41.46)).
 
 <br>
 
-### 2022-10-06
-As an internship student, I stay at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web) from October 6th to December 31st.
+### 2022-10-20
+I gave an invited talk at an [Online Seminar for female student](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja) hosted by RIKEN AIP. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>
 
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

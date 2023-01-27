@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2022" class="collapse" aria-labelledby="heading2022" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3><br>6th Oct.</h3>
+        As an internship student, I stay at <a href="https://www.dfki.de/en/web">German Research Center for Artificial Intelligence (DFKI)</a> from October 6th to December 31st.
+        <br><br>
         <h3>1st Sep.</h3>
         Our paper <a href="https://doi.org/10.11517/jjsai.37.5_640">"The World Students See Through Research"</a>was published in Journal of the Japanese Society for Artificial Intelligence.
         <br><br>

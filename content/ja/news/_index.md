@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2022" class="collapse" aria-labelledby="heading2022" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>10月6日</h3>
+        10月6日から12月31日まで<a href="https://www.dfki.de/en/web">ドイツ人工知能研究センター</a>にインターンシップ生として滞在します。
+        <br><br>
         <h3>9月1日</h3>
         人工知能学会の会誌「人工知能」に論文<a href="https://doi.org/10.11517/jjsai.37.5_640">「研究を通して学生が見る世界
 」</a>が掲載されました。
@@ -27,7 +30,7 @@ view: 2
         京都・国立京都国際会館にて開催された<a href="https://www.ai-gakkai.or.jp/jsai2022/">人工知能学会全国大会（第36回）</a>で、口頭発表を行いました。
         <br><br>
         <h3>5月1日</h3>
-        人工知能学会の会誌「人工知能」の特集記事「論文誌のこれからを考える」に2本の論文（<a href="https://doi.org/10.11517/jjsai.37.3_323">AI実践論文</a>・<ahref="https://doi.org/10.11517/jjsai.37.3_329">コンセプト論文</a>）が掲載されました。
+        人工知能学会の会誌「人工知能」の特集記事「論文誌のこれからを考える」に2本の論文（<a href="https://doi.org/10.11517/jjsai.37.3_323">AI実践論文</a>・<a href="https://doi.org/10.11517/jjsai.37.3_329">コンセプト論文</a>）が掲載されました。
         <br><br>
         <h3>4月1日</h3>
         <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J21786/">日本学術振興会特別研究員（DC1）</a>として採用されました。

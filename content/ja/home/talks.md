@@ -73,6 +73,9 @@ subtitle = "学会・シンポジウム"
 <br>
 
 ## Domestic
+### 2023
+- __黒田彗莉__・小林一郎「物理環境におけるヒト脳内での予測符号化を模倣した変化点予測モデル構築への取り組み」，[第85回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/85/)，口頭，電気通信大学，2023年3月2日−4日．
+<br>
 ### 2022
 - __黒田彗莉__・小林一郎「画像内の物体に着目した動きの変化点抽出への取り組み」，[人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)，口頭，国立京都国際会館・京都，2022年6月14日-17日．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2M1OS19a02/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2022.0_2M1OS19a02" target="_blank"></a>
 <br>
@@ -105,6 +108,6 @@ subtitle = "学会・シンポジウム"
 
 ## Others
 ### 2022
-- __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 
-<br>
 - __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Jan Alexandersson team, Nov 30th, 2022. 
+<br>
+- __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 

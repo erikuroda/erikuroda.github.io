@@ -71,13 +71,14 @@ subtitle = "最近のお知らせ"
 
 <br>
 
-
-### 2022-10-20
-理研AIP主催[「集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回」](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)にて招待講演を行いました。<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>
+### 2023-1-15
+日本ロボット学会の学会誌「ロボ學」に2本の解説記事「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート」（[1本目](https://doi.org/10.7210/jrsj.41.44)・[2本目](https://doi.org/10.7210/jrsj.41.46)）が掲載されました。
 
 <br>
 
-### 2022-10-06
-10月6日から12月31日まで[ドイツ人工知能研究センター](https://www.dfki.de/en/web)にインターンシップ生として滞在します。
+
+### 2022-10-20
+理研AIP主催[「集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回」](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)にて招待講演を行いました。<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>
+
 
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>

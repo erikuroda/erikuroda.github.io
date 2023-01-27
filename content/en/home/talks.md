@@ -73,6 +73,9 @@ subtitle = "Conference・Workshop"
 <br>
 
 ## Domestic
+### 2023
+- __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on the Construction of an Inflection Point Prediction Model Imitating Predictive Coding in the Human Brain Under Physical Environments", [The 85th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/85/), Oral, The University of Electro-Communications, Mar 2nd-4th, 2023.
+<br>
 ### 2022
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Extraction of Motion Inflection Points Focusing on Objects in an Image", [The 36th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2022/en), Oral, Kyoto International Conference Center・Kyoto, Jun 14th-17th, 2022. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2M1OS19a02/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2022.0_2M1OS19a02" target="_blank"></a>
 <br>
@@ -105,6 +108,6 @@ subtitle = "Conference・Workshop"
 
 ## Others
 ### 2022
-- __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 
-<br>
 - __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Jan Alexandersson team, Nov 30th, 2022. 
+<br>
+- __Eri Kuroda__ <br>"Research Introduction", DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 
