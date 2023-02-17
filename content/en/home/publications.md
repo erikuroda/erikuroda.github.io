@@ -67,6 +67,7 @@ subtitle = "Journal・MISC"
  css_class = ""
 +++
 ## Journal
+## MISC
 ### 2023
 - __Eri Kuroda__
 <br>"Project on Student Editorial Committee: Report on the 40th Annual Conference of the Robotics Society of Japan (Probabilistic Robotics and Data Engineering Robotics 〜Recognition, Behavioral Learning, and Symbolic Emergence〜 (1/4))"，Journal of the Robotics Society of Japan，Vol.41，No.1，pp.44-45．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.44" target="_blank"></a>
@@ -78,18 +79,14 @@ subtitle = "Journal・MISC"
 - __Eri Kuroda__・Tomoko Ohkuma・Masanori Takano・Chie Morita・Yuko Sakurai・Yoji Kiyota
 <br>"The World Students See Through Research"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.5，pp.640-648．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.5_640" target="_blank"></a>
 <br>
+- __Eri Kuroda__・Saya Kashiwakura・Ayari Matsui 
+<br>Student Forum (112) Interview with Prof. Akiko Aizawa "limb Your Own Mountain, Even If Itʼs Small at First"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.4，pp.533-536．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/37/4/37_533/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.4_533" target="_blank"></a>
+<br>
 - __Eri Kuroda__・Yuko Sakurai・Masanori Takano・Hiroshi Sakuma・Yoji Kiyota
 <br>"AI System Papers -Challenges and Possibilities for Collaboration among Different Communities-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.323-328．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_323" target="_blank"></a>
 <br>
 - __Eri Kuroda__・Hiroshi Yamakawa・Fujio Toriumi・Hiroshi Sakuma・Yoji Kiyota
 <br>"Concept Papers -To Facilitate Dissemination of High-Impact Papers-"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.3，pp.329-333．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_329" target="_blank"></a>
-<br>
-<br>
-
-## MISC
-### 2022
-- __Eri Kuroda__・Saya Kashiwakura・Ayari Matsui 
-<br>Student Forum (112) Interview with Prof. Akiko Aizawa "limb Your Own Mountain, Even If Itʼs Small at First"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.4，pp.533-536．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/37/4/37_533/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.4_533" target="_blank"></a>
 <br>
 - Maiko Onishi・__Eri Kuroda__・Hiroshi Sakuma
 <br>Student Forum (110) Interview with Prof. Emi Tamaki "The Future of "Body Sharing Technology" Based on Deep Sensation"，Journal of the Japanese Society for Artificial Intelligence，Vol.37，No.2，pp.237-239．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/37/2/37_237/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.2_237" target="_blank"></a>
