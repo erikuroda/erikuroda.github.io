@@ -9,6 +9,28 @@ view: 2
 <div class="acordion" id="accordionTalks">
 
 <div class="card">
+  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2023" aria-expanded="false" aria-controls="collapse2023">
+    <div class="card-header" id="heading2023">
+      <h1 class="mb-0">
+        2023
+      </h1>
+    </div>
+  </button>  
+  <div id="collapse2023" class="collapse" aria-labelledby="heading2023" data-parent="#accordionTalks">
+    <div class="card-body">
+      <ol>
+        <h3>1月24日</h3>
+        お茶の水女子大学 IGL研究所主催 大学院共通科目R4年度集中講義<a href="https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html">「アカデミック女性リーダーへの道（実践編）」</a>にて招待講演を行いました。
+        <br><br>
+        <h3>1月15日</h3>
+        日本ロボット学会の学会誌「ロボ學」に2本の解説記事「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート」（<a href="https://doi.org/10.7210/jrsj.41.44">1本目</a>・<a href="https://doi.org/10.7210/jrsj.41.46">2本目</a>）が掲載されました。
+        <br><br>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<div class="card">
   <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2022" aria-expanded="false" aria-controls="collapse2022">
     <div class="card-header" id="heading2022">
       <h1 class="mb-0">

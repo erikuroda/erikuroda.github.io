@@ -70,10 +70,13 @@ subtitle = "Journal・MISC"
 ## MISC
 ### 2023
 - __Eri Kuroda__
-<br>"Project on Student Editorial Committee: Report on the 40th Annual Conference of the Robotics Society of Japan (Probabilistic Robotics and Data Engineering Robotics 〜Recognition, Behavioral Learning, and Symbolic Emergence〜 (1/4))"，Journal of the Robotics Society of Japan，Vol.41，No.1，pp.44-45．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.44" target="_blank"></a>
+<br>"Project on Student Editorial Committee: Report on the 40th Annual Conference of the Robotics Society of Japan (Probabilistic Robotics and Data Engineering Robotics 〜Recognition, Behavioral Learning, and Symbolic Emergence〜 (4/4))"，Journal of the Robotics Society of Japan，Vol.41，No.2，pp.149-150．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.149" target="_blank"></a>
 <br>
 - __Eri Kuroda__
 <br>"Project on Student Editorial Committee: Report on the 40th Annual Conference of the Robotics Society of Japan (Probabilistic Robotics and Data Engineering Robotics 〜Recognition, Behavioral Learning, and Symbolic Emergence〜 (3/4))"，Journal of the Robotics Society of Japan，Vol.41，No.1，pp.46-47．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.46" target="_blank"></a>
+<br>
+- __Eri Kuroda__
+<br>"Project on Student Editorial Committee: Report on the 40th Annual Conference of the Robotics Society of Japan (Probabilistic Robotics and Data Engineering Robotics 〜Recognition, Behavioral Learning, and Symbolic Emergence〜 (1/4))"，Journal of the Robotics Society of Japan，Vol.41，No.1，pp.44-45．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.44" target="_blank"></a>
 <br>
 ### 2022
 - __Eri Kuroda__・Tomoko Ohkuma・Masanori Takano・Chie Morita・Yuko Sakurai・Yoji Kiyota

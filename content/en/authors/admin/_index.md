@@ -4,7 +4,7 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD Candidate (Division of Information Sciences in Science)
+  - course: Ph.D Candidate (Division of Information Sciences in Science)
     institution: Ochanomizu University
     year: 2022–Present
   - course: M.Sc. (Information Sciences)
@@ -40,7 +40,7 @@ social:
   link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl
 - icon: cv
   icon_pack: ai
-  link: https://eri-kuroda.com/docs/cv230303_erikuroda.pdf
+  link: https://eri-kuroda.com/docs/cv230403_erikuroda.pdf
 superuser: true
 title: Eri Kuroda
 ---

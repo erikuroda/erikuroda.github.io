@@ -66,17 +66,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2023-4-1
+I was selected for [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html).
+
+<br>
+
+### 2023-3-28
+[One paper](https://doi.org/10.7210/jrsj.41.149) were published in the Journal of the Robotics Society of Japan.
+
+<br>
+
 ### 2023-3-2
 I gave an oral presentation at <a href="https://www.ipsj.or.jp/event/taikai/85/index.html">The 85th National Convention of IPSJ</a>.
-
-<br>
-
-### 2023-1-24
-I gave an invited talk at an [Education Program for Female Leaders : Training Course](https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html) hosted by Ochanomizu University. 
-
-<br>
-
-### 2023-1-15
-Two papers were published in the Journal of the Robotics Society of Japan ([1](https://doi.org/10.7210/jrsj.41.44)・[2](https://doi.org/10.7210/jrsj.41.46)).
 
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

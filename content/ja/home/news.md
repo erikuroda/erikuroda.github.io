@@ -66,18 +66,17 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2023-4-1
+[令和5年度若手研究者海外挑戦プログラム（日本学術振興会）](https://www.jsps.go.jp/j-abc/)に採択されました。
+
+<br>
+
+### 2023-3-28
+日本ロボット学会の学会誌「ロボ學」に解説記事[「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート」](https://doi.org/10.7210/jrsj.41.149)が掲載されました。
+
+<br>
+
 ### 2023-3-2
 電気通信大学にて開催された<a href="https://www.ipsj.or.jp/event/taikai/85/index.html">情報処理学会第85回全国大会</a>で口頭発表を行いました。
-
-<br>
-
-### 2023-1-24
-お茶の水女子大学 IGL研究所主催 大学院共通科目R4年度集中講義 [「アカデミック女性リーダーへの道（実践編）」](https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html)にて招待講演を行いました。
-
-<br>
-
-### 2023-1-15
-日本ロボット学会の学会誌「ロボ學」に2本の解説記事「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート」（[1本目](https://doi.org/10.7210/jrsj.41.44)・[2本目](https://doi.org/10.7210/jrsj.41.46)）が掲載されました。
-
 
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>
