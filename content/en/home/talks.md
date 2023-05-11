@@ -67,6 +67,9 @@ subtitle = "Conference・Workshop"
  css_class = ""
 +++
 ## International
+### 2023
+- __Eri Kuroda__・Ichiro Kobayashi <br>"Extraction of Motion Change Points based on the Physical Characteristics of Objects", [2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)](http://www.prml.org/index.html), Oral, Xinjiang University, Aug 4th-6th, 2023.
+<br>
 ### 2021
 - __Eri Kuroda__・Shinji Nishimoto・Satoshi Nishida・Ichiro Kobayashi <br>"A Deep Generative Model imitating Predictive Coding in the Human Brain", [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org/), Oral, Online, December 15th-18th, 2021 ([Best Session Award](https://www.ocha.ac.jp/news/20220217_1.html)). <a class="fas fa-file-pdf" href="https://drive.google.com/file/d/1KYmiGkCv4-WRG_nzSF-yp1TX3DqtHs4L/view?usp=sharing" target="_blank"></a>
 <br>

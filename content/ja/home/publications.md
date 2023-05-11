@@ -71,6 +71,8 @@ subtitle = "学術論文・MISC"
 ## MISC
 ### 2023
 - __黒田彗莉__
+<br>学生フォーラム〔第117回〕五十嵐悠紀先生インタビュー「現場の声とコミュニケーション」，人工知能，Vol.38，No.3，pp.429-434．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/38/3/38_429/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.38.3_429" target="_blank"></a>
+- __黒田彗莉__
 <br>「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート（オーガナイズドセッション：確率ロボティクスとデータ工学ロボティクス～認識・行動学習・記号創発～（4/4））」<br>日本ロボット学会学会誌，Vol.41，No.2，pp.149-150．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.149" target="_blank"></a>
 <br>
 - __黒田彗莉__

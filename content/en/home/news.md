@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2023-5-10
+Our paper was accepted for [2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)](http://www.prml.org/index.html).
+
+<br>
+
 ### 2023-4-1
 I was selected for [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html).
 
@@ -73,10 +78,5 @@ I was selected for [JSPS Overseas Challenge Program for Young Researchers](https
 
 ### 2023-3-28
 [One paper](https://doi.org/10.7210/jrsj.41.149) were published in the Journal of the Robotics Society of Japan.
-
-<br>
-
-### 2023-3-2
-I gave an oral presentation at <a href="https://www.ipsj.or.jp/event/taikai/85/index.html">The 85th National Convention of IPSJ</a>.
 
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2023" class="collapse" aria-labelledby="heading2023" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>3月2日</h3>
+        電気通信大学にて開催された<a href="https://www.ipsj.or.jp/event/taikai/85/index.html">情報処理学会第85回全国大会</a>で口頭発表を行いました。
+        <br><br>
         <h3>1月24日</h3>
         お茶の水女子大学 IGL研究所主催 大学院共通科目R4年度集中講義<a href="https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html">「アカデミック女性リーダーへの道（実践編）」</a>にて招待講演を行いました。
         <br><br>

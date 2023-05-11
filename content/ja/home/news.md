@@ -66,6 +66,11 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2023-5-10
+物理特性にもとづく実世界の変化点抽出についての論文が [2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)](http://www.prml.org/index.html)に採択されました。
+
+<br>
+
 ### 2023-4-1
 [令和5年度若手研究者海外挑戦プログラム（日本学術振興会）](https://www.jsps.go.jp/j-abc/)に採択されました。
 
@@ -73,10 +78,5 @@ subtitle = "最近のお知らせ"
 
 ### 2023-3-28
 日本ロボット学会の学会誌「ロボ學」に解説記事[「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート」](https://doi.org/10.7210/jrsj.41.149)が掲載されました。
-
-<br>
-
-### 2023-3-2
-電気通信大学にて開催された<a href="https://www.ipsj.or.jp/event/taikai/85/index.html">情報処理学会第85回全国大会</a>で口頭発表を行いました。
 
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>
