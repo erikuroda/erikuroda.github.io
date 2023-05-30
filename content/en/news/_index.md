@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2023" class="collapse" aria-labelledby="heading2023" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+      <h3>28th Mar.</h3>
+      One paper was published in the Journal of the Robotics Society of Japan (<a href="https://doi.org/10.7210/jrsj.41.149">paper</a>).
+      <br><br>
       <h3>2nd Mar.</h3>
       I gave an oral presentation at <a href="https://www.ipsj.or.jp/event/taikai/85/index.html">The 85th National Convention of IPSJ</a>.
       <br><br>

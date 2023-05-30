@@ -66,17 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2023-5-30
+I gave a Plenary Talk at [the Artificial Intelligence Research Center (AIRC)](https://www.airc.aist.go.jp/en) of [the National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html).<a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/230530-airc-eri-kuroda" target="new"></a>
+<br><br>
 ### 2023-5-10
 Our paper was accepted for [2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)](http://www.prml.org/index.html).
-
-<br>
-
+<br><br>
 ### 2023-4-1
 I was selected for [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html).
-
 <br>
-
-### 2023-3-28
-[One paper](https://doi.org/10.7210/jrsj.41.149) were published in the Journal of the Robotics Society of Japan.
-
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

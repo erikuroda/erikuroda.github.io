@@ -66,17 +66,13 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2023-5-30
+[国立研究開発法人産業技術総合研究所（AIST）](https://www.aist.go.jp/)の[人工知能研究センター（AIRC）](https://www.airc.aist.go.jp/)にてPlenary Talkをしました。<a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/230530-airc-eri-kuroda" target="new"></a>
+<br><br>
 ### 2023-5-10
 物理特性にもとづく実世界の変化点抽出についての論文が [2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)](http://www.prml.org/index.html)に採択されました。
-
-<br>
-
+<br><br>
 ### 2023-4-1
 [令和5年度若手研究者海外挑戦プログラム（日本学術振興会）](https://www.jsps.go.jp/j-abc/)に採択されました。
-
 <br>
-
-### 2023-3-28
-日本ロボット学会の学会誌「ロボ學」に解説記事[「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート」](https://doi.org/10.7210/jrsj.41.149)が掲載されました。
-
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>

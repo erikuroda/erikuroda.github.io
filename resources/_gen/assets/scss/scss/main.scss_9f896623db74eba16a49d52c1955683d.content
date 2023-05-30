@@ -9412,6 +9412,15 @@ a:hover {
   color: #800000;
   text-decoration: none; }
 
+.fa-file-powerpoint {
+  color: #800000;
+  text-decoration: none; }
+
+.fa-file-powerpoint:hover {
+  transform: scale(1.2, 1.2);
+  color: #800000;
+  text-decoration: none; }
+
 .ai-doi {
   color: #800000; }
 

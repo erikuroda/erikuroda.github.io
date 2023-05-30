@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2023" class="collapse" aria-labelledby="heading2023" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>3月28日</h3>
+        日本ロボット学会の学会誌「ロボ學」に解説記事<a href="https://doi.org/10.7210/jrsj.41.149">「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート</a>が掲載されました。
+        <br><br>
         <h3>3月2日</h3>
         電気通信大学にて開催された<a href="https://www.ipsj.or.jp/event/taikai/85/index.html">情報処理学会第85回全国大会</a>で口頭発表を行いました。
         <br><br>
