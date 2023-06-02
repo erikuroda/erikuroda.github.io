@@ -74,5 +74,5 @@ subtitle = "最近のお知らせ"
 <br><br>
 ### 2023-4-1
 [令和5年度若手研究者海外挑戦プログラム（日本学術振興会）](https://www.jsps.go.jp/j-abc/)に採択されました。
-<br>
+<br><br>
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>

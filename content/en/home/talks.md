@@ -74,7 +74,8 @@ subtitle = "Conference・Workshop"
 
 ## Domestic
 ### 2023
-- __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on the Construction of an Inflection Point Prediction Model Imitating Predictive Coding in the Human Brain Under Physical Environments", [The 85th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/85/), Oral, The University of Electro-Communications, Mar 2nd-4th, 2023.
+- __Eri Kuroda__・Ichiro Kobayashi <br>"Predictive Inference Model of the Physical Environment that mimics Predictive Coding", [The 37th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2023/en), Oral, Kumamoto-jo Hall・Kumamoto, Jun 5th-9th, 2023.
+- __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on the Construction of an Inflection Point Prediction Model Imitating Predictive Coding in the Human Brain Under Physical Environments", [The 85th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/85/), Oral, The University of Electro-Communications・Tokyo, Mar 2nd-4th, 2023.
 ### 2022
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Extraction of Motion Inflection Points Focusing on Objects in an Image", [The 36th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2022/en), Oral, Kyoto International Conference Center・Kyoto, Jun 14th-17th, 2022. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2M1OS19a02/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2022.0_2M1OS19a02" target="_blank"></a>
 - __Eri Kuroda__・Ichiro Kobayashi <br>"A Study on Extracting the Inflection Point in the Physical Environment", [The 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/), Oral, Online, Mar 3rd-5th, 2022 ([Student Encouragement Award of IPSJ National Convention](http://www.ipsj.or.jp/award/taikaigakusei.html)).
@@ -88,9 +89,9 @@ subtitle = "Conference・Workshop"
 
 ## Invited
 ### 2023
-- __Eri Kuroda__<br>Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), May 30th. <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/230530-airc-eri-kuroda" target="new"></a>
+- __Eri Kuroda__<br>Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), May 30th, 2023. <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/230530-airc-eri-kuroda" target="new"></a>
 - __Eri Kuroda__<br>[Education Program for Female Leaders : Training Course](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja), Ochanomizu University, Institute for Global Leadership, Jan 24th, 2023. <a class="fa-solid fa-link" href="https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html" target="new"></a>
 ### 2022
 - __Eri Kuroda__<br>Research Introduction, DFKI Cognitive Assistants Dr.-Ing. Jan Alexandersson team, Nov 30th, 2022. 
 - __Eri Kuroda__<br>Research Introduction, DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 
-- __Eri Kuroda__<br>[Online seminars for female students](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja), Online, RIKEN Center for Advanced Intelligence Project (AIP), Oct 20th, 2022. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>
+- __Eri Kuroda__<br>[Online seminars for female students](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja), RIKEN Center for Advanced Intelligence Project (AIP), Oct 20th, 2022. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>

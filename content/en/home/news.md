@@ -74,5 +74,5 @@ Our paper was accepted for [2023 IEEE the 4th International Conference on Patter
 <br><br>
 ### 2023-4-1
 I was selected for [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html).
-<br>
+<br><br>
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

@@ -73,26 +73,26 @@ subtitle = "学術論文・MISC"
 - __黒田彗莉__
 <br>学生フォーラム〔第117回〕五十嵐悠紀先生インタビュー「現場の声とコミュニケーション」，人工知能，Vol.38，No.3，pp.429-434．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/38/3/38_429/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.38.3_429" target="_blank"></a>
 - __黒田彗莉__
-<br>「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート（オーガナイズドセッション：確率ロボティクスとデータ工学ロボティクス～認識・行動学習・記号創発～（4/4））」<br>日本ロボット学会学会誌，Vol.41，No.2，pp.149-150．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.149" target="_blank"></a>
+<br>「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート（オーガナイズドセッション：確率ロボティクスとデータ工学ロボティクス～認識・行動学習・記号創発～（4/4））」，日本ロボット学会学会誌，Vol.41，No.2，pp.149-150．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.149" target="_blank"></a>
 <br>
 - __黒田彗莉__
-<br>「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート（オーガナイズドセッション：確率ロボティクスとデータ工学ロボティクス～認識・行動学習・記号創発～（3/4））」<br>日本ロボット学会学会誌，Vol.41，No.1，pp.46-47．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.46" target="_blank"></a>
+<br>「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート（オーガナイズドセッション：確率ロボティクスとデータ工学ロボティクス～認識・行動学習・記号創発～（3/4））」，日本ロボット学会学会誌，Vol.41，No.1，pp.46-47．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.46" target="_blank"></a>
 <br>
 - __黒田彗莉__
-<br>「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート（オーガナイズドセッション：確率ロボティクスとデータ工学ロボティクス～認識・行動学習・記号創発～（1/4））」<br>日本ロボット学会学会誌，Vol.41，No.1，pp.44-45．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.44" target="_blank"></a>
+<br>「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート（オーガナイズドセッション：確率ロボティクスとデータ工学ロボティクス～認識・行動学習・記号創発～（1/4））」，日本ロボット学会学会誌，Vol.41，No.1，pp.44-45．<a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.44" target="_blank"></a>
 <br>
 ### 2022
 - __黒田彗莉__・大熊 智子・高野 雅典・森田 千絵・櫻井 祐子・清田 陽司
-<br>「研究を通して学生が見る世界」<br>人工知能，Vol.37，No.5，pp.640-648．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.5_640" target="_blank"></a>
+<br>「研究を通して学生が見る世界」，人工知能，Vol.37，No.5，pp.640-648．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.5_640" target="_blank"></a>
 <br>
 - __黒田彗莉__・柏倉沙耶・松井彩里
 <br>学生フォーラム〔第112回〕相澤彰子先生インタビュー「はじめは小さくてもいいから，自分の山を登れ」，人工知能，Vol.37，No.4，pp.533-536．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/37/4/37_533/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.4_533" target="_blank"></a>
 <br>
 - __黒田彗莉__・櫻井祐子・高野雅典・佐久間洋司・清田 陽司
-<br>「実践AIシステム論文 −異分野コミュニティ間の連携の課題と可能性−」<br>人工知能，Vol.37，No.3，pp.323-328．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_323" target="_blank"></a>
+<br>「実践AIシステム論文 −異分野コミュニティ間の連携の課題と可能性−」，人工知能，Vol.37，No.3，pp.323-328．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_323" target="_blank"></a>
 <br>
 - __黒田彗莉__・山川宏・鳥海不二夫・佐久間洋司・清田 陽司
-<br>「コンセプト論文 −インパクトのある論文の発信を促進するために−」<br>人工知能，Vol.37，No.3，pp.329-333．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_329" target="_blank"></a>
+<br>「コンセプト論文 −インパクトのある論文の発信を促進するために−」，人工知能，Vol.37，No.3，pp.329-333．<a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.3_329" target="_blank"></a>
 <br>
 - 大西舞子・__黒田彗莉__・佐久間洋司
 <br>学生フォーラム〔第110回〕玉城絵美先生インタビュー「固有感覚を活用した『体験共有』の未来」，人工知能，Vol.37，No.2，pp.237-239．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/37/2/37_237/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.37.2_237" target="_blank"></a>

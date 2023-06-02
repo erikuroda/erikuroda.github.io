@@ -74,7 +74,8 @@ subtitle = "学会・シンポジウム"
 
 ## Domestic
 ### 2023
-- __黒田彗莉__・小林一郎「物理環境におけるヒト脳内での予測符号化を模倣した変化点予測モデル構築への取り組み」，[第85回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/85/)，口頭，電気通信大学，2023年3月2日−4日．
+- __黒田彗莉__・小林一郎「予測符号化を模した物理環境の予測推論モデル」，[人工知能学会全国大会（第37回）](https://www.ai-gakkai.or.jp/jsai2023/)，口頭，熊本城ホール・熊本，2023年6月6日-9日．
+- __黒田彗莉__・小林一郎「物理環境におけるヒト脳内での予測符号化を模倣した変化点予測モデル構築への取り組み」，[第85回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/85/)，口頭，電気通信大学・東京，2023年3月2日−4日．
 ### 2022
 - __黒田彗莉__・小林一郎「画像内の物体に着目した動きの変化点抽出への取り組み」，[人工知能学会全国大会（第36回）](https://www.ai-gakkai.or.jp/jsai2022/)，口頭，国立京都国際会館・京都，2022年6月14日-17日．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2M1OS19a02/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2022.0_2M1OS19a02" target="_blank"></a>
 - __黒田彗莉__・小林一郎「物理環境における変化点抽出の取り組み」，[第84回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/84/)，口頭，オンライン，2022年3月3日−5日（[学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)受賞）．
@@ -90,9 +91,9 @@ subtitle = "学会・シンポジウム"
 
 ## Invited
 ### 2023
-- __Eri Kuroda__<br>Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), May 30th. <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/230530-airc-eri-kuroda" target="new"></a>
+- __Eri Kuroda__<br>Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), May 30th, 2023. <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/230530-airc-eri-kuroda" target="new"></a>
 - __黒田彗莉__<br>[お茶の水女子大学 アカデミック女性リーダーへの道（実践編）](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，お茶の水女子大学，グローバルリーダーシップ研究所，2023年1月24日．<a class="fa-solid fa-link" href="https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html" target="new"></a>
 ### 2022
 - __Eri Kuroda__ <br>Research Introduction, DFKI Cognitive Assistants Dr.-Ing. Jan Alexandersson team, Nov 30th, 2022. 
 - __Eri Kuroda__ <br>Research Introduction, DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 
-- __黒田彗莉__<br>[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，オンライン，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>
+- __黒田彗莉__<br>[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>
