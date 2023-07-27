@@ -66,13 +66,13 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2023-7-26
+物理特性にもとづく実世界の言語生成についての論文が [26th International Conference on Discovery Science (DS2023)](https://ds2023.inesctec.pt/)に採択されました。
+<br><br>
 ### 2023-6-6
 熊本・熊本城ホールにて開催された[人工知能学会全国大会（第37回）](https://www.ai-gakkai.or.jp/jsai2023/)で、口頭発表を行いました。
 <br><br>
 ### 2023-5-30
 [国立研究開発法人産業技術総合研究所（AIST）](https://www.aist.go.jp/)の[人工知能研究センター（AIRC）](https://www.airc.aist.go.jp/)にてPlenary Talkをしました。
-<br><br>
-### 2023-5-10
-物理特性にもとづく実世界の変化点抽出についての論文が [2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)](http://www.prml.org/index.html)に採択されました。
 <br><br>
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>
