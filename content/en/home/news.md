@@ -66,13 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### 2023-7-26
+### 06.08.2023
+I gave an online oral presentation at [PRML2023](http://www.prml.org/index.html) held at Xinjiang University, China.
+<br><br>
+### 26.07.2023
 Our paper was accepted for [26th International Conference on Discovery Science (DS2023)](https://ds2023.inesctec.pt/).
 <br><br>
-### 2023-6-6
+### 06.06.2023
 I gave an oral presentation at [The 37th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2023/en).
-<br><br>
-### 2023-5-30
-I gave a Plenary Talk at [the Artificial Intelligence Research Center (AIRC)](https://www.airc.aist.go.jp/en) of [the National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html).
 <br><br>
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

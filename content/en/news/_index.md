@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2023" class="collapse" aria-labelledby="heading2023" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+      <h3>30th May.</h3>
+      I gave a Plenary Talk at <a href="https://www.airc.aist.go.jp/en">the Artificial Intelligence Research Center (AIRC)</a> of <a href="https://www.aist.go.jp/index_en.html">the National Institute of Advanced Industrial Science and Technology (AIST)</a>.
+<br><br>
       <h3>10th May.</h3>
       Our paper was accepted for <a href="http://www.prml.org/index.html">2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)</a>.
       <br><br>
