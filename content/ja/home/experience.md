@@ -39,7 +39,7 @@ experience:
   company_logo: "saarland"
   date_end: "2022-12-31"
   date_start: "2022-11-01"
-  description: 　
+  description: 
   location: ザールブリュッケン
   title: 日本語教育ティーチングアシスタント
   
