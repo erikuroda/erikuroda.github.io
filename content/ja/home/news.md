@@ -66,13 +66,14 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2023-10-10
+ポルトガル・ポルトにて開催された<a href="https://ds2023.inesctec.pt/">DS2023</a>で口頭発表を行いました。
+<br><br>
+
+### 2023-10-4
+2023年10月4日から2024年3月28日まで<a href="https://www.dfki.de/en/web">ドイツ人工知能研究センター</a>に客員研究員として滞在します。
+<br><br>
 ### 2023-8-6
 中国・新疆大学にて開催された<a href="http://www.prml.org/index.html">PRML2023</a>でオンラインによる口頭発表を行いました。
-<br><br>
-### 2023-7-26
-物理特性にもとづく実世界の言語生成についての論文が [26th International Conference on Discovery Science (DS2023)](https://ds2023.inesctec.pt/)に採択されました。
-<br><br>
-### 2023-6-6
-熊本・熊本城ホールにて開催された[人工知能学会全国大会（第37回）](https://www.ai-gakkai.or.jp/jsai2023/)で、口頭発表を行いました。
 <br><br>
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>
