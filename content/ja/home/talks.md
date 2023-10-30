@@ -90,9 +90,10 @@ subtitle = "学会・シンポジウム"
 
 ## Invited
 ### 2023
+- __Eri Kuroda__. Research Introduction, Universität des Saarlandes : Prof.Dr. Vera Demberg team, Oct 30th, 2023. <a class="fa-solid fa-file-powerpoint" href="<https://speakerdeck.com/erikuroda/2023dfki-uds-talk" target="new"></a>
 - __Eri Kuroda__. Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), May 30th, 2023. <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/230530-airc-eri-kuroda" target="new"></a>
 - __黒田彗莉__．[お茶の水女子大学 アカデミック女性リーダーへの道（実践編）](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，お茶の水女子大学，グローバルリーダーシップ研究所，2023年1月24日．<a class="fa-solid fa-link" href="https://www.cf.ocha.ac.jp/igl/j/menu/leadership/groupingmenu/lecture/acajojissen2022.html" target="new"></a>
 ### 2022
-- __Eri Kuroda__. Research Introduction, DFKI Cognitive Assistants Dr.-Ing. Jan Alexandersson team, Nov 30th, 2022. 
-- __Eri Kuroda__. Research Introduction, DFKI Cognitive Assistants Dr.-Ing. Boris Brandherm team, Oct 25th, 2022. 
+- __Eri Kuroda__. Research Introduction, DFKI Cognitive Assistants : Dr.-Ing. Jan Alexandersson team, Nov 30th, 2022.
+- __Eri Kuroda__. Research Introduction, DFKI Cognitive Assistants : Dr.-Ing. Boris Brandherm team, Oct 25th, 2022.
 - __黒田彗莉__．[集まれ！数理・情報・AI系をめざす女子中高生 女子中高生向けオンラインセミナーシリーズ 第1回](https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja)，理研AIP，2022年10月20日．<a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>
