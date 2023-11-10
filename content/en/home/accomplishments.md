@@ -25,6 +25,15 @@ date_format: "2006/1"
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
+- certificate_url: 
+  date_end: ""
+  date_start: "2023-11-10"
+  description: Individuals who are engaged in research related to the natural sciences and have an outstanding record of achievement.
+  organization: Ochanomizu University
+  organization_url: https://www.ocha.ac.jp/index.html
+  title: Yasui-Kuroda Scholarship (JPY 30,000)
+  url: ""
+
 - certificate_url:
   date_end: "2024-03-31"
   date_start: "2023-10-01"

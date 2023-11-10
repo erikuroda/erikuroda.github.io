@@ -66,13 +66,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 10.11.2023
+I received the [Yasui-Kuroda Scholarship](https://www.ocha.ac.jp/campuslife/scholarship/list.html) from Ochanomizu University.
+<br><br>
+
 ### 10.10.2023
 I gave an oral presentation at [DS2023](https://ds2023.inesctec.pt/) held at Porto, Portugal.
 <br><br>
+
 ### 04.10.2023
-As a Guest Researcher, I stay at <a href="https://www.dfki.de/en/web">German Research Center for Artificial Intelligence (DFKI)</a> from October 4th to March 28th.
-<br><br>
-### 06.08.2023
-I gave an online oral presentation at [PRML2023](http://www.prml.org/index.html) held at Xinjiang University, China.
+As a Guest Researcher, I stay at [Saarland University](https://www.uni-saarland.de/en/home.html) from October 4th to March 28th.
 <br><br>
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

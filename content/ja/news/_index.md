@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2023" class="collapse" aria-labelledby="heading2023" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>8月6日</h3>
+        中国・新疆大学にて開催された<a href="http://www.prml.org/index.html">PRML2023</a>でオンラインによる口頭発表を行いました。
+        <br><br>
         <h3>7月26日</h3>
         物理特性にもとづく実世界の言語生成についての論文が<a href="https://ds2023.inesctec.pt/">26th International Conference on Discovery Science (DS2023)</a>に採択されました。
         <br><br>

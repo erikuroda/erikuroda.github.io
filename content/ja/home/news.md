@@ -66,14 +66,15 @@ subtitle = "最近のお知らせ"
  # CSS class.
  css_class = ""
 +++
+### 2023-11-10
+お茶の水女子大学より自然科学関係の研究に従事し，その成績顕著な者に与えられる<br>[保井・黒田奨学基金](https://www.ocha.ac.jp/campuslife/scholarship/list.html)をいただきました。
+<br><br>
+
 ### 2023-10-10
-ポルトガル・ポルトにて開催された<a href="https://ds2023.inesctec.pt/">DS2023</a>で口頭発表を行いました。
+ポルトガル・ポルトにて開催された[DS2023](https://ds2023.inesctec.pt/)で口頭発表を行いました。
 <br><br>
 
 ### 2023-10-4
-2023年10月4日から2024年3月28日まで<a href="https://www.dfki.de/en/web">ドイツ人工知能研究センター</a>に客員研究員として滞在します。
-<br><br>
-### 2023-8-6
-中国・新疆大学にて開催された<a href="http://www.prml.org/index.html">PRML2023</a>でオンラインによる口頭発表を行いました。
+2023年10月4日から2024年3月28日まで[ザールラント大学](https://www.uni-saarland.de/en/home.html)に客員研究員として滞在します。
 <br><br>
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>
