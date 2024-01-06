@@ -69,6 +69,9 @@ subtitle = "学術論文・MISC"
 ## Journal
 
 ## MISC
+### 2024
+- __黒田彗莉__
+<br>特集：編集委員 今年の抱負2024「身についたことは振り返ってみないとわからない」，人工知能，Vol.39，No.1，pp.46-47．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/39/1/39_46/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.39.1_46" target="_blank"></a>
 ### 2023
 - __黒田彗莉__
 <br>学生フォーラム〔第117回〕五十嵐悠紀先生インタビュー「現場の声とコミュニケーション」，人工知能，Vol.38，No.3，pp.429-434．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/38/3/38_429/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.38.3_429" target="_blank"></a>
