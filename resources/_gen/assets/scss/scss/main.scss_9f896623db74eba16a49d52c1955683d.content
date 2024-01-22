@@ -9644,7 +9644,7 @@ h3 {
 .btn-link:hover {
   text-decoration: none; }
   .btn-link:hover h1 {
-    color: #f59869;
+    color: #800000;
     transition: 0.3s; }
 
 .btn-link:focus {

@@ -260,10 +260,12 @@ color: #B20000;
   padding-left: 2.9rem;
   a {
     color: #f59869;
+    //color: #5C3927;
     font-size: 0.65rem;
   }
   a:hover {
     color: #f59869;
+    //color: #5C3927;
     text-decoration: underline;
   }
 }
@@ -329,6 +331,7 @@ color: #B20000;
 .dropdown-menu, .dropdown-item:hover {
   font-weight: normal !important;
   color: #f59869 !important;
+  //color: #5C3927 !important;
 }
 
 .navbar .dropdown-item.active, .navbar .dropdown-item-active {
@@ -469,7 +472,8 @@ h3 {
 .btn-link:hover {
   text-decoration: none;
   h1 {
-    color: #f59869;
+    //color: #f59869;
+    color: #800000;
     transition: 0.3s ;
   }
 }
