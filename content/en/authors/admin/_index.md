@@ -24,6 +24,8 @@ organizations:
   url: "https://www.koba.is.ocha.ac.jp/kobalab/index.php/en"
 - name: JSPS Research Fellow (DC1)
   ulr: ""
+- name: Guset Researcher, Saarland University
+  ulr: ""
 role:
 social:
 - icon: envelope

@@ -75,6 +75,9 @@ subtitle = "Conference・Workshop"
 - __Eri Kuroda__, Shinji Nishimoto, Satoshi Nishida & Ichiro Kobayashi. A Deep Generative Model imitating Predictive Coding in the Human Brain. [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org/), Long Paper, Oral, Online, December 15th-18th, 2021 ([Best Session Award](https://www.ocha.ac.jp/news/20220217_1.html)). <a class="fas fa-file-pdf" href="https://drive.google.com/file/d/1KYmiGkCv4-WRG_nzSF-yp1TX3DqtHs4L/view?usp=sharing" target="_blank"></a>
 
 ## Domestic <span style="font-size: 50%;">(in Japanese)</span>
+
+### 2023
+- __Eri Kuroda__ & Ichiro Kobayashi. Verbal Description Focusing on Physical Properties of Real-world Environments. [The 38th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2024/en), Oral, ACT CITY Hamamatsu・Shizuoka, May 28th-31st, 2024.
 ### 2023
 - __Eri Kuroda__ & Ichiro Kobayashi. Predictive Inference Model of the Physical Environment that mimics Predictive Coding. [The 37th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2023/en), Oral, Kumamoto-jo Hall・Kumamoto, Jun 5th-9th, 2023. <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/jsai2023-erikuroda" target="new"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2023.0_1G4OS21a05" target="_blank"></a>
 - __Eri Kuroda__ & Ichiro Kobayashi. A Study on the Construction of an Inflection Point Prediction Model Imitating Predictive Coding in the Human Brain Under Physical Environments. [The 85th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/85/), Oral, The University of Electro-Communications・Tokyo, Mar 2nd-4th, 2023.

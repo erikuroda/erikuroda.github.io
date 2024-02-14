@@ -75,6 +75,8 @@ subtitle = "学会・シンポジウム"
 - __Eri Kuroda__, Shinji Nishimoto, Satoshi Nishida & Ichiro Kobayashi. A Deep Generative Model imitating Predictive Coding in the Human Brain. [The 22nd International Symposium on Advances Intelligent Systems](http://isis2021.org), Oral, Long Paper, Online, Dec 15th-18th, 2021 ([ベストセッション賞](https://www.ocha.ac.jp/news/20220217_1.html)受賞). <a class="fas fa-file-pdf" href="https://drive.google.com/file/d/1KYmiGkCv4-WRG_nzSF-yp1TX3DqtHs4L/view?usp=sharing" target="_blank"></a>
 
 ## Domestic <span style="font-size: 50%;">(in Japanese)</span>
+### 2024
+- __黒田彗莉__，小林一郎．実世界環境の物理特性に着目した言語記述．[人工知能学会全国大会（第38回）](https://www.ai-gakkai.or.jp/jsai2024/)，口頭，アクトシティ浜松・静岡，2024年5月28日-31日．
 ### 2023
 - __黒田彗莉__，小林一郎．予測符号化を模した物理環境の予測推論モデル．[人工知能学会全国大会（第37回）](https://www.ai-gakkai.or.jp/jsai2023/)，口頭，熊本城ホール・熊本，2023年6月6日-9日．<a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/jsai2023-erikuroda" target="new"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2023.0_1G4OS21a05" target="_blank"></a>
 - __黒田彗莉__，小林一郎．物理環境におけるヒト脳内での予測符号化を模倣した変化点予測モデル構築への取り組み．[第85回情報処理学会全国大会](https://www.ipsj.or.jp/event/taikai/85/)，口頭，電気通信大学・東京，2023年3月2日−4日．
