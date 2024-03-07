@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Contact
-subtitle: 連絡先
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?

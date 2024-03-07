@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Papers"
-subtitle = "学術論文・MISC"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,8 +67,9 @@ subtitle = "学術論文・MISC"
  css_class = ""
 +++
 ## Journal
+### 2024
 
-## MISC
+## Others
 ### 2024
 - __黒田彗莉__
 <br>特集：編集委員 今年の抱負2024「身についたことは振り返ってみないとわからない」，人工知能，Vol.39，No.1，pp.46-47．<a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/39/1/39_46/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.39.1_46" target="_blank"></a>

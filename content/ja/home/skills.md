@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "ほも"
+title = "Skills"
 subtitle = "最近の出来事"
 
 [[feature]]

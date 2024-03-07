@@ -13,7 +13,7 @@ headless: true
 weight: 40
 
 title: Accomplish&shy;ments
-subtitle: 受賞・研究費 
+subtitle:  
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

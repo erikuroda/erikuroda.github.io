@@ -13,7 +13,7 @@ headless: true
 weight: 40
 
 title: Accomplish&shy;ment
-subtitle: Award<br>Scholarship<br>Grants<br>
+subtitle: 
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

@@ -13,7 +13,7 @@ headless: true
 weight: 50
 
 title: Career
-subtitle: 職歴
+subtitle: 
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

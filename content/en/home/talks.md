@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Talks"
-subtitle = "Conference・Workshop"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,6 +67,8 @@ subtitle = "Conference・Workshop"
  css_class = ""
 +++
 ## International
+### 2024
+
 ### 2023
 - __Eri Kuroda__ & Ichiro Kobayashi. Predictive Inference Model of the Physical Environment that emulates Predictive Coding. [26th International Conference on Discovery Science (DS2023)](https://ds2023.inesctec.pt/), Long Paper, Oral, Porto, Portugal, Oct 9th-11th, 2023 (Acceptance rate 35.3%). <a class="ai ai-doi" href="https://doi.org/10.1007/978-3-031-45275-8_29" target="_blank"></a> <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/ds2023-erikuroda" target="new"></a>
 - __Eri Kuroda__ & Ichiro Kobayashi. Extraction of Motion Change Points based on the Physical Characteristics of Objects. [2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)](http://www.prml.org/index.html), Long Paper, Oral, Xinjiang University, China, Aug 4th-6th, 2023. <a class="ai ai-doi" href="https://doi.org/10.1109/PRML59573.2023.10348369" target="_blank"></a> <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/prml2023-s9-5-erikuroda" target="new"></a>

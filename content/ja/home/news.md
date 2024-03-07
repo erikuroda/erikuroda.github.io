@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "News"
-subtitle = "最近のお知らせ"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
