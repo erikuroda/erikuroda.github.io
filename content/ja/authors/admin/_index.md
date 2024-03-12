@@ -41,7 +41,7 @@ social:
   link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl=ja
 - icon: cv
   icon_pack: ai
-  link: docs/cv240307_erikuroda.pdf
+  link: docs/cv240312_erikuroda.pdf
   
 superuser: true
 title: 黒田 彗莉

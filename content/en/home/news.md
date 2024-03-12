@@ -68,13 +68,13 @@ subtitle = ""
 +++
 ### 10.11.2023
 I received the [Yasui-Kuroda Scholarship](https://www.ocha.ac.jp/campuslife/scholarship/list.html) from Ochanomizu University.
-<br><br>
+<br>
 
 ### 10.10.2023
 I gave an oral presentation at [DS2023](https://ds2023.inesctec.pt/) held at Porto, Portugal.
-<br><br>
+<br>
 
 ### 04.10.2023
 As a Guest Researcher, I stay at [Saarland University](https://www.uni-saarland.de/en/home.html) from October 4th to March 28th.
-<br><br>
+<br>
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

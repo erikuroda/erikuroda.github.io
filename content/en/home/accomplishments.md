@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Accomplish&shy;ment
+title: Awards & Funds
 subtitle: 
 
 # Date format

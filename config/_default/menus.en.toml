@@ -13,18 +13,18 @@
   url = "#news"
   weight =15
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 20
+#[[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 20
 
 [[main]]
-  name = "Papers"
+  name = "Publications"
   url = "#publications"
   weight = 30
 
 [[main]]
-  name = "Accomplishments"
+  name = "Awards"
   url = "#accomplishments"
   weight = 40
 

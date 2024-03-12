@@ -68,11 +68,11 @@ subtitle = ""
 +++
 ### 2023-11-10
 お茶の水女子大学より自然科学関係の研究に従事し，その成績顕著な者に与えられる<br>[保井・黒田奨学基金](https://www.ocha.ac.jp/campuslife/scholarship/list.html)をいただきました。
-<br><br>
+<br>
 
 ### 2023-10-10
 ポルトガル・ポルトにて開催された[DS2023](https://ds2023.inesctec.pt/)で口頭発表を行いました。
-<br><br>
+<br>
 
 ### 2023-10-4
 2023年10月4日から2024年3月28日まで[ザールラント大学](https://www.uni-saarland.de/en/home.html)に客員研究員として滞在します。
