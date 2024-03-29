@@ -23,8 +23,6 @@ organizations:
   url: "https://www.koba.is.ocha.ac.jp/kobalab/"
 - name: 日本学術振興会特別研究員（DC1）
   ulr: ""
-- name: ザールラント大学 客員研究員
-  ulr: ""
 role:
 social: 
 - icon: envelope

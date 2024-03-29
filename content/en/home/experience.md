@@ -28,7 +28,7 @@ experience:
 - company: Saarland University
   company_url: "https://www.uni-saarland.de/en/home.html"
   company_logo: "saarland"
-  date_end: ""
+  date_end: "2024-03-28"
   date_start: "2023-10-04"
   description: 
   location: Saarbrücken
