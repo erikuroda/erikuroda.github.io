@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2023" class="collapse" aria-labelledby="heading2023" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+        <h3>10月4日</h3>
+        2023年10月4日から2024年3月28日まで<a href="https://www.uni-saarland.de/en/home.html">ザールラント大学</a>に客員研究員として滞在します。
+        <br><br>
         <h3>8月6日</h3>
         中国・新疆大学にて開催された<a href="http://www.prml.org/index.html">PRML2023</a>でオンラインによる口頭発表を行いました。
         <br><br>

@@ -25,6 +25,15 @@ date_format: "2006/1"
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
+- certificate_url:
+  date_end: "2025-03-31"
+  date_start: "2024-04-01"
+  description: 
+  organization: Tateisi Science and Technology Foundation
+  organization_url: https://www.tateisi-f.org/
+  title: Research Grant (C)（JPY 500,000）
+  url: ""
+
 - certificate_url: 
   date_end: ""
   date_start: "2023-11-10"

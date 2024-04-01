@@ -66,15 +66,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2024-04-01
+[公益財団法人立石科学技術振興財団](https://www.tateisi-f.org/) 研究助成(C)に採択されました。
+<br>
+
 ### 2023-11-10
 お茶の水女子大学より自然科学関係の研究に従事し，その成績顕著な者に与えられる<br>[保井・黒田奨学基金](https://www.ocha.ac.jp/campuslife/scholarship/list.html)をいただきました。
 <br>
 
 ### 2023-10-10
 ポルトガル・ポルトにて開催された[DS2023](https://ds2023.inesctec.pt/)で口頭発表を行いました。
-<br>
-
-### 2023-10-4
-2023年10月4日から2024年3月28日まで[ザールラント大学](https://www.uni-saarland.de/en/home.html)に客員研究員として滞在します。
 <br><br>
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>

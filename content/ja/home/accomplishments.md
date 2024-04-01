@@ -26,6 +26,15 @@ date_format: "2006年1月"
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
 - certificate_url:
+  date_end: "2025-03-31"
+  date_start: "2024-04-01"
+  description: 
+  organization: 立石科学技術振興財団
+  organization_url: https://www.tateisi-f.org/
+  title: 研究助成(C)（500,000円）
+  url: ""
+
+- certificate_url:
   date_end: ""
   date_start: "2023-11-10"
   description: 自然科学関係の研究に従事し、その成績顕著な者
