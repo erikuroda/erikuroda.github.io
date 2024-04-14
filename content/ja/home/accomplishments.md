@@ -59,7 +59,7 @@ item:
   organization: 日本学術振興会
   organization_url: https://www.jsps.go.jp/j-pd/
   title: 特別研究員奨励費（DC1｜2,500,000円）
-  url: "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J21786/"
+  url: "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ1355/"
 
 - certificate_url:
   date_end: ""
