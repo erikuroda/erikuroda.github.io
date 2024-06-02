@@ -20,7 +20,7 @@ interests:
 - 予測
 organizations:
 - name: お茶の水女子大学 小林一郎研究室
-  url: "https://www.koba.is.ocha.ac.jp/kobalab/"
+  url: "https://www.koba.is.ocha.ac.jp/kobalab/index.php/ja/home-ja/"
 - name: 日本学術振興会特別研究員（DC1）
   ulr: ""
 role:

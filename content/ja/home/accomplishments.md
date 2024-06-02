@@ -28,7 +28,7 @@ item:
 - certificate_url:
   date_end: "2025-03-31"
   date_start: "2024-04-01"
-  description: 
+  description: 　<a href="https://www.tateisi-f.org/news/2024-04-24" target="_blank">News</a>
   organization: 立石科学技術振興財団
   organization_url: https://www.tateisi-f.org/
   title: 研究助成(C)（500,000円）
@@ -73,7 +73,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2022-03-03"
-  description: 　[News](https://www.ocha.ac.jp/news/d010391.html)
+  description: 　<a href="https://www.ocha.ac.jp/news/d010391.html" target="_blank">News</a>
   organization: 情報処理学会第84回全国大会
   organization_url: https://www.ipsj.or.jp/event/taikai/84/index.html
   title: 学生奨励賞
@@ -82,7 +82,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2022-02-15"
-  description: 　[News](https://www.ocha.ac.jp/news/20220217_1.html)
+  description: 　<a href="https://www.ocha.ac.jp/news/20220217_1.html" target="_blank">News</a>
   organization: "The 22nd International Symposium on Advanced Intelligent Systems"
   organization_url: http://isis2021.org/
   title: ベストセッション賞
@@ -91,7 +91,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2021-03-22"
-  description: 　[News](https://lne.st/2021/03/31/ceremony_panasonicap/)　[Interview](https://r.lne.st/adopter/936/)
+  description: 　<a href="https://lne.st/2021/03/31/ceremony_panasonicap/" target="_blank">News</a>　<a href="https://r.lne.st/adopter/936/" target="_blank">Interview</a>
   organization: "(株)リバネス・(株)パナソニックアプライアンス"
   organization_url: https://r.lne.st/2020/09/01/50th_panasonic/
   title: 第50回リバネス研究費 パナソニックアプライアンス社賞 (500,000円)
@@ -110,7 +110,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-05-01"
-  description: 発表件数1000件以上のうち9件<br>[News1](https://www.ocha.ac.jp/news/20200529.html)　[News2](https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html)
+  description: 発表件数1000件以上のうち9件<br><a href="https://www.ocha.ac.jp/news/20200529.html" target="_blank">News1</a>　<a href="https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html" target="_blank">News2</a>
   organization: "情報処理学会第82回全国大会"
   organization_url: https://www.ipsj.or.jp/event/taikai/82/index.html
   title: 大会優秀賞
@@ -119,7 +119,7 @@ item:
 - certificate_url: 
   date_end: "2022-03-30"
   date_start: "2020-04-01"
-  description: 令和2年度 1名採用<br>[News](https://www.ocha.ac.jp/news/202103016_4.html)
+  description: 令和2年度 1名採用<br><a href="https://www.ocha.ac.jp/news/202103016_4.html" target="_blank">News</a>
   organization: お茶の水女子大学・(株)KSP-SP
   organization_url: https://www.ocha.ac.jp/campuslife/scholarship/kspsp.html
   title: KSP-SP奨学金 (500,000円)
@@ -128,7 +128,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2020-03-01"
-  description: 　[News](https://www.ocha.ac.jp/news/20200316.html)
+  description: 　<a href="https://www.ocha.ac.jp/news/20200316.html" target="_blank">News</a>
   organization: 情報処理学会第82回全国大会
   organization_url: https://www.ipsj.or.jp/event/taikai/82/index.html
   title: 学生奨励賞

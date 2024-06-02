@@ -37,9 +37,9 @@ experience:
 - company: 人工知能学会
   company_url: "https://www.ai-gakkai.or.jp/"
   company_logo: "jsai"
-  date_end: ""
+  date_end: "2024-06-01"
   date_start: "2022-11-01"
-  description: 　[__HP__](https://www.ai-gakkai.or.jp/siai/)
+  description: 　<a href="https://www.ai-gakkai.or.jp/siai/" target="_blank"><b>HP</b></a>
   location: 東京
   title: 　産業界連携委員
   
@@ -75,7 +75,7 @@ experience:
   company_logo: "jsai"
   date_end: ""
   date_start: "2021-06-01"
-  description: 　[__HP__](https://www.ai-gakkai.or.jp/resource/student_forum/)
+  description: 　<a href="https://www.ai-gakkai.or.jp/resource/student_forum/" target="_blank"><b>HP</b></a>
   location: 東京
   title: 学生編集委員
 

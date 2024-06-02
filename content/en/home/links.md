@@ -67,14 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 ### Institutions
-- [Department of Information Science, Ochanomizu University](https://www.sci.ocha.ac.jp/ug/is/index.html)
-- [Ichiro Kobayashi Lab. Ochanomizu University](https://www.koba.is.ocha.ac.jp/kobalab/index.php/en)
-- [Information Processing Society of Japan ](https://www.ipsj.or.jp)
-- [The Japanese Society for Artificial Intelligence ](https://www.ai-gakkai.or.jp)
+- <a href="https://www.sci.ocha.ac.jp/ug/is/index.html" target="_blank">Department of Information Science, Ochanomizu University</a>
+- <a href="https://www.koba.is.ocha.ac.jp/kobalab" target="_blank">Ichiro Kobayashi Lab. Ochanomizu University</a>
+- <a href="https://www.ipsj.or.jp" target="_blank">Information Processing Society of Japan</a>
+- <a href="https://www.ai-gakkai.or.jp" target="_blank">The Japanese Society for Artificial Intelligence</a>
 
 <br>
 
 ### Others
-- [researchmap](https://researchmap.jp/erikuroda?lang=en)
-- [ORCiD](https://orcid.org/0000-0001-6248-5056)
-- [Google scholar](https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl)
+- <a href="https://researchmap.jp/erikuroda?lang=en" target="_blank">researchmap</a>
+- <a href="https://orcid.org/0000-0001-6248-5056" target="_blank">ORCiD</a>
+- <a href="https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl=ja" target="_blank">Google scholar</a>

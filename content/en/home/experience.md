@@ -37,9 +37,9 @@ experience:
 - company: Japan Society for the Promotion of Science
   company_url: "https://www.ai-gakkai.or.jp/"
   company_logo: "jsai"
-  date_end: ""
+  date_end: "2024-06-01"
   date_start: "2022-11-01"
-  description: 　[__HP__](https://www.ai-gakkai.or.jp/siai/)
+  description: 　<a href="https://www.ai-gakkai.or.jp/siai/" target="_blank"><b>HP</b></a>
   location: Tokyo
   title: Industry Collaboration Committee Member
   
@@ -75,7 +75,7 @@ experience:
   company_logo: "jsai"
   date_end: ""
   date_start: "2021-06-01"
-  description: 　[__HP__](https://www.ai-gakkai.or.jp/resource/student_forum/)
+  description: 　<a href="https://www.ai-gakkai.or.jp/resource/student_forum/" target="_blank"><b>HP</b></a>
   location: Tokyo
   title: Student Editor
 

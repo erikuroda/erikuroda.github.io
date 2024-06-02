@@ -66,14 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 31.05.2024
+I gave an oral presentation at <a href="https://www.ai-gakkai.or.jp/jsai2024/en" target="_blank">The 38th Annual Conference of the Japanese Society for Artificial Intelligence</a>.
+
 ### 01.04.2024
-I was selected for Research Grant (C) from [Tateisi Science and Technology Foundation](https://www.tateisi-f.org/).
+I was selected for Research Grant (C) from <a href="https://www.tateisi-f.org/" target="_blank">Tateisi Science and Technology Foundation.
 
 ### 10.11.2023
-I received the [Yasui-Kuroda Scholarship](https://www.ocha.ac.jp/campuslife/scholarship/list.html) from Ochanomizu University.
-<br>
-
-### 10.10.2023
-I gave an oral presentation at [DS2023](https://ds2023.inesctec.pt/) held at Porto, Portugal.
+I received the <a href="https://www.ocha.ac.jp/campuslife/scholarship/list.html">Yasui-Kuroda Scholarship</a> from Ochanomizu University.
 <br><br>
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

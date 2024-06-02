@@ -66,15 +66,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2024-05-31
+静岡・アクトシティ浜松にて開催された<a href="https://www.ai-gakkai.or.jp/jsai2024" target="_blank">人工知能学会全国大会（第38回）</a>で、口頭発表を行いました。
+<br>
+
 ### 2024-04-01
-[公益財団法人立石科学技術振興財団](https://www.tateisi-f.org/) 研究助成(C)に採択されました。
+<a href="https://www.tateisi-f.org/" target="_blank">公益財団法人立石科学技術振興財団</a> 研究助成(C)に採択されました。
 <br>
 
 ### 2023-11-10
-お茶の水女子大学より自然科学関係の研究に従事し，その成績顕著な者に与えられる<br>[保井・黒田奨学基金](https://www.ocha.ac.jp/campuslife/scholarship/list.html)をいただきました。
-<br>
-
-### 2023-10-10
-ポルトガル・ポルトにて開催された[DS2023](https://ds2023.inesctec.pt/)で口頭発表を行いました。
+お茶の水女子大学より自然科学関係の研究に従事し，その成績顕著な者に与えられる<a href="https://www.ocha.ac.jp/campuslife/scholarship/list.html" target="_blank">保井・黒田奨学基金</a>をいただきました。
 <br><br>
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>

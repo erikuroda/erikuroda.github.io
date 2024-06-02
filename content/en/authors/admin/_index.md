@@ -21,7 +21,7 @@ interests:
 - Prediction
 organizations:
 - name: Ochanomizu University Kobayashi Lab.
-  url: "https://www.koba.is.ocha.ac.jp/kobalab/index.php/en"
+  url: "https://www.koba.is.ocha.ac.jp/kobalab/"
 - name: JSPS Research Fellow (DC1)
   ulr: ""
 role:

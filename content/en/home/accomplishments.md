@@ -28,7 +28,7 @@ item:
 - certificate_url:
   date_end: "2025-03-31"
   date_start: "2024-04-01"
-  description: 
+  description: 　<a href="https://www.tateisi-f.org/news/2024-04-24" target="_blank">News</a>
   organization: Tateisi Science and Technology Foundation
   organization_url: https://www.tateisi-f.org/
   title: Research Grant (C)（JPY 500,000）
@@ -73,7 +73,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2022-03-03"
-  description: 　[News](https://www.ocha.ac.jp/news/d010391.html)
+  description: 　<a href="https://www.ocha.ac.jp/news/d010391.html" target="_blank">News</a>
   organization: The 84th National Convention of IPSJ
   organization_url: https://www.ipsj.or.jp/event/taikai/84/index.html
   title: Student Encouragement Award of IPSJ National Convention
@@ -82,7 +82,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2022-02-15"
-  description: 　[News](https://www.ocha.ac.jp/news/20220217_1.html)
+  description: 　<a href="https://www.ocha.ac.jp/news/20220217_1.html" target="_blank">News</a>
   organization: "The 22nd International Symposium on Advanced Intelligent Systems"
   organization_url: http://isis2021.org/
   title: Best Session Award
@@ -91,7 +91,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2021-03-26"
-  description:  　[News](https://lne.st/2021/03/31/ceremony_panasonicap/)　[Interview](https://r.lne.st/adopter/936/)
+  description: 　<a href="https://lne.st/2021/03/31/ceremony_panasonicap/" target="_blank">News</a>　<a href="https://r.lne.st/adopter/936/" target="_blank">Interview</a>
   organization: Leave a Nest Co. and Appliances Company, Panasonic Co.
   organization_url: https://r.lne.st/2020/09/01/50th_panasonic/
   title: Research Grant (JPY 500,000)
@@ -109,7 +109,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-05-01"
-  description: 9 out of more than 1000 presentations. <br>[News1](https://www.ocha.ac.jp/news/20200529.html)　[News2](https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html)
+  description: 9 out of more than 1000 presentations. <br><a href="https://www.ocha.ac.jp/news/20200529.html" target="_blank">News1</a>　<a href="https://www.chronogenesis.org/ja/news/2020-03-kobayashi.html" target="_blank">News2</a>
   organization: The 82nd National Convention of IPSJ
   organization_url: https://www.ipsj.or.jp/event/taikai/82/index.html
   title: Best Paper Award of IPSJ National Convention
@@ -118,7 +118,7 @@ item:
 - certificate_url: 
   date_end: "2022-03-30"
   date_start: "2020-04-01"
-  description: FY2020, just one person.<br>[News](https://www.ocha.ac.jp/news/202103016_4.html)
+  description: FY2020, just one person.<br><a href="https://www.ocha.ac.jp/news/202103016_4.html" target="_blank">News</a>
   organization: Ochanomizu University and Inc. KSP-SP
   organization_url: https://www.ocha.ac.jp/campuslife/scholarship/kspsp.html
   title: Scholarship (JPY 500,000)
@@ -127,7 +127,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2020-03-01"
-  description: 　[News](https://www.ocha.ac.jp/news/20200316.html)
+  description: 　<a href="https://www.ocha.ac.jp/news/20200316.html" target="_blank">News</a>
   organization: The 82nd National Convention of IPSJ
   organization_url: https://www.ipsj.or.jp/event/taikai/82/index.html
   title: Student Encouragement Award of IPSJ National Convention
