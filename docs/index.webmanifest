@@ -2,14 +2,14 @@
   "name": "Eri KURODA｜黒田 彗莉",
   "short_name": "Eri KURODA｜黒田 彗莉",
   "lang": "ja-jp",
-  "theme_color": "#f59869",
-  "background_color": "#f59869",
+  "theme_color": "#cd5c5c",
+  "background_color": "#cd5c5c",
   "icons": [{
-    "src": "/images/icon_hu794199f1fe7549db81f82e1c0843ec8b_17141_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hud2ed2ac9387027339db8c9418a2cacee_12677_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu794199f1fe7549db81f82e1c0843ec8b_17141_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hud2ed2ac9387027339db8c9418a2cacee_12677_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

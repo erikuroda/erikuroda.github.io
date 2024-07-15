@@ -5,11 +5,13 @@ html {
 
 a {
   transition: color 0.0s ease;
+  color: #cd5c5c;
 }
 
 a:hover {
   transition: color 0.0s ease;
   text-decoration: underline;
+  color: #cd5c5c;
 }
 
 .ai-cv {
@@ -82,7 +84,7 @@ a:hover {
 }
 
 .fa-rss-square {
-  color: rgb(246, 139, 30);
+  color: rgb(205, 92, 92);
 }
 
 .fa-envelope {
@@ -97,26 +99,26 @@ a:hover {
 
 .fa-angle-right {
   font-weight: bold;
-  color: #f59869;
+  color: #cd5c5c;
   text-decoration: none;
 }
 
 .fa-link {
-  color: #800000;
+  color: #cd5c5c;
 }
 
 .fa-link:hover {
   transform:scale(1.2,1.2);
-  color: #800000;
+  color: #cd5c5c;
   text-decoration: none;
 }
 
 .fa-link:avtive {
-  color: #800000;
+  color: #cd5c5c;
 }
 
 .fa-link:visited {
-  color: #800000;
+  color: #cd5c5c;
 }
 
 .fa-up-right-from-square:hover {
@@ -152,42 +154,42 @@ color: #B20000;
 }
 
 .fa-book-open {
-  color: #800000;
+  color: #cd5c5c;
 }
 
 .fa-book-open:hover {
   transform:scale(1.2,1.2);
-  color: #800000;
+  color: #cd5c5c;
   text-decoration: none;
 }
 
 .fa-file-powerpoint {
-  color: #800000;
+  color: #cd5c5c;
   text-decoration: none;
 }
 
 .fa-file-powerpoint:hover {
   transform:scale(1.2,1.2);
-  color: #800000;
+  color: #cd5c5c;
   text-decoration: none;
 }
 
 .ai-doi {
-  color: #800000;
+  color: #cd5c5c;
 }
 
 .ai-doi:hover {
   transform:scale(1.2,1.2);
-  color: #800000;
+  color: #cd5c5c;
   text-decoration: none;
 }
 
 .ai-doi:active {
-  color: #800000;
+  color: #cd5c5c;
 }
 
 .ai-doi:visited {
-  color: #800000;
+  color: #cd5c5c;
 }
 
 .icon-feedly:hover, .icon-feedly-o:hover, .icon-feedly, .icon-feedly-o {
@@ -219,7 +221,7 @@ color: #B20000;
 }
 
 .card-subtitle a:hover {
-  color: #f59869;
+  color: #cd5c5c;
   border-bottom: none;
   text-decoration: none;
 }
@@ -240,18 +242,19 @@ color: #B20000;
   font-size: 0.65rem !important;
   padding-left: 2.5rem;
   a {
-    color: #f59869;
+    color: #cd5c5c;
     font-size: 0.65rem;
+    //text-decoration: underline;
   }
   a:hover {
-    color: #f59869;
-    text-decoration: underline;
+    color: #cd5c5c;
+    //text-decoration: underline;
   }
 }
 
 #accomplishments .card-body { 
-  padding-bottom: 0.8rem;
-  padding-top: 1rem;
+  padding-bottom: 0.7rem;
+  padding-top: 0.8rem;
 }
 
 #experience .card-text {
@@ -259,20 +262,20 @@ color: #B20000;
   font-size: 0.65rem !important;
   padding-left: 2.9rem;
   a {
-    color: #f59869;
+    color: #cd5c5c;
     //color: #5C3927;
     font-size: 0.65rem;
   }
   a:hover {
-    color: #f59869;
+    color: #cd5c5c;
     //color: #5C3927;
-    text-decoration: underline;
+    //text-decoration: underline;
   }
 }
 
 #experience .card-body {
-  padding-bottom: 0.8rem;
-  padding-top: 1rem;
+  padding-bottom: 0.7rem;
+  padding-top: 0.8rem;
 }
 
 .text-muted{
@@ -330,13 +333,13 @@ color: #B20000;
 
 .dropdown-menu, .dropdown-item:hover {
   font-weight: normal !important;
-  color: #f59869 !important;
+  color: #cd5c5c !important;
   //color: #5C3927 !important;
 }
 
 .navbar .dropdown-item.active, .navbar .dropdown-item-active {
   font-weight: bold !important;
-  color: #f59869 !important;
+  color: #cd5c5c !important;
 }
 
 h3.article-title a {
@@ -352,7 +355,7 @@ h3.article-title a:hover{
 }
 
 .navbar {
-  background: #f59869;
+  background: #cd5c5c;
   //background: #faf0e6;
 }
 
@@ -365,7 +368,7 @@ h3.article-title a:hover{
   font-weight: 600;
   color: #fbfbfb !important;
   &:hover {
-    color: #5C3927 !important;
+    color: #444444 !important;
   }
 }
 
@@ -376,13 +379,13 @@ h3.article-title a:hover{
 }
 
 #navbar-main .main-menu-item ul li .nav-link:hover{
-  color: #5C3927;
+  color: #cd5c5c;
   //font-weight: bold !important;
 }
 
 .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
   font-weight: normal !important;
-  color: #5C3927 !important;
+  color: #444444 !important;
   i {
     color: #fbfbfb !important;
   }
@@ -393,7 +396,7 @@ h3.article-title a:hover{
 }
 
 .navbar .navbar-nav .nav-link.active:hover {
-  color: #333333 !important;
+  color: #444444 !important;
 }
 
 button.navbar-toggler i, .navbar-light .navbar-nav .nav-link, #navbar-main .main-menu-item ul li .nav-link {
@@ -423,7 +426,7 @@ h1 {
 }
 
 .btn:hover {
-  color: #f59869 !important;
+  color: #cd5c5c !important;
   font-weight: bold;
   background: #ffffff;
   text-decoration: none;
@@ -450,7 +453,7 @@ h3 {
 
 .portrait-title h2 {
   font-weight: 600;
-  color: #333333;
+  color: #444444;
 }
 
 .portrait-title h3 {
@@ -473,7 +476,7 @@ h3 {
   text-decoration: none;
   h1 {
     //color: #f59869;
-    color: #800000;
+    color: #cd5c5c;
     transition: 0.3s ;
   }
 }
@@ -497,14 +500,14 @@ h3 {
 ////
 
 footer {
-  margin-top: 35px;
-  bottom: 0;
+  margin-top: 20px;
+  bottom: 20px;
   width: 100%;
   height: 100px;
 }
 
 .page-footer {
-  background: #5C3927;
+  background: #cd5c5c;
 }
 
 .site-footer {
@@ -516,7 +519,7 @@ footer {
 }
 
 .rounded-corner {
-  background-color: #333333;
+  background-color: #444444;
   width: 150px;
   height: 50px;
   color: #ffffff;

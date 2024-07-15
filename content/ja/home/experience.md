@@ -39,7 +39,7 @@ experience:
   company_logo: "jsai"
   date_end: "2024-06-01"
   date_start: "2022-11-01"
-  description: 　<a href="https://www.ai-gakkai.or.jp/siai/" target="_blank"><b>HP</b></a>
+  description: 　<a href="https://www.ai-gakkai.or.jp/siai/" target="_blank">HP</a>
   location: 東京
   title: 　産業界連携委員
   
@@ -75,7 +75,7 @@ experience:
   company_logo: "jsai"
   date_end: ""
   date_start: "2021-06-01"
-  description: 　<a href="https://www.ai-gakkai.or.jp/resource/student_forum/" target="_blank"><b>HP</b></a>
+  description: 　<a href="https://www.ai-gakkai.or.jp/resource/student_forum/" target="_blank">HP</a>
   location: 東京
   title: 学生編集委員
 

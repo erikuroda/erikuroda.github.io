@@ -75,7 +75,7 @@ subtitle = ""
 
 ## Domestic Conference <span style="font-size: 50%;">(in Japanese)</span>
 
-- __黒田彗莉__, 小林一郎. 実世界環境の物理特性に着目した言語記述. <a href="https://www.ai-gakkai.or.jp/jsai2024/" target="_blank">人工知能学会全国大会（第38回）</a>, 口頭, アクトシティ浜松, 静岡, 2024年5月28日-31日.
+- __黒田彗莉__, 小林一郎. 実世界環境の物理特性に着目した言語記述. <a href="https://www.ai-gakkai.or.jp/jsai2024/" target="_blank">人工知能学会全国大会（第38回）</a>, 口頭, アクトシティ浜松, 静岡, 2024年5月28日-31日. <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2024.0_4O1OS16d04" target="_blank"></a> <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/jsai2024-erikuroda" target="new"></a>
 - __黒田彗莉__, 小林一郎. 予測符号化を模した物理環境の予測推論モデル. <a href="https://www.ai-gakkai.or.jp/jsai2023/" target="_blank">人工知能学会全国大会（第37回）</a>, 口頭, 熊本城ホール, 熊本, 2023年6月6日-9日. <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2023.0_1G4OS21a05" target="_blank"></a> <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/jsai2023-erikuroda" target="new"></a>
 - __黒田彗莉__, 小林一郎. 物理環境におけるヒト脳内での予測符号化を模倣した変化点予測モデル構築への取り組み. <a href="https://www.ipsj.or.jp/event/taikai/85/" target="_blank">第85回情報処理学会全国大会</a>, 口頭, 電気通信大学, 東京, 2023年3月2日−4日. <a class="fa-solid fa-link" href="<http://id.nii.ac.jp/1001/00229739/>" target="_blank"></a>
 - __黒田彗莉__, 小林一郎. 画像内の物体に着目した動きの変化点抽出への取り組み. <a href="https://www.ai-gakkai.or.jp/jsai2022/" target="_blank">人工知能学会全国大会（第36回）</a>, 口頭, 国立京都国際会館, 京都, 2022年6月14日-17日. <a class="ai ai-doi" href="https://doi.org/10.11517/pjsai.JSAI2022.0_2M1OS19a02" target="_blank"></a>
