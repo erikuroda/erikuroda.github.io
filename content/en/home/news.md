@@ -66,13 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 04.09.2024
+I gave an oral presentation at <a href="https://soft-cr.org/fss/2024/" target="_blank">The 40th Fuzzy System Symposium</a>.
+
+### 23.08.2024
+Our paper was accepted for <a href="https://soft-cr.org/scis/2024/index.html" target="_blank">2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS2024)</a>.
+
 ### 31.05.2024
 I gave an oral presentation at <a href="https://www.ai-gakkai.or.jp/jsai2024/en" target="_blank">The 38th Annual Conference of the Japanese Society for Artificial Intelligence</a>.
-
-### 01.04.2024
-I was selected for Research Grant (C) from <a href="https://www.tateisi-f.org/" target="_blank">Tateisi Science and Technology Foundation.
-
-### 10.11.2023
-I received the <a href="https://www.ocha.ac.jp/campuslife/scholarship/list.html">Yasui-Kuroda Scholarship</a> from Ochanomizu University.
 <br><br>
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

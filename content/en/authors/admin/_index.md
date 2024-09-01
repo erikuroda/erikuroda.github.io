@@ -40,7 +40,7 @@ social:
   link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl
 - icon: cv
   icon_pack: ai
-  link: https://eri-kuroda.com/docs/cv240715_erikuroda.pdf
+  link: https://eri-kuroda.com/docs/cv240901_erikuroda.pdf
 superuser: true
 title: Eri Kuroda
 ---

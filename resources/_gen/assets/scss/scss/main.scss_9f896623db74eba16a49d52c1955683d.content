@@ -9530,6 +9530,10 @@ a:hover {
   font-size: 0.8rem;
   padding-bottom: 0.1rem; }
 
+#publications ol li {
+  font-size: 0.8rem;
+  padding-bottom: 0.1rem; }
+
 .dropdown-menu, .dropdown-item {
   background-color: white !important;
   color: #333333 !important;

@@ -18,7 +18,13 @@ view: 2
   </button>  
   <div id="collapse2024" class="collapse" aria-labelledby="heading2024" data-parent="#accordionTalks">
     <div class="card-body">
-      <ol>  
+      <ol>
+        <h3>9月4日</h3>
+        愛知・椙山女学園大学にて開催された<a href="https://soft-cr.org/fss/2024/" target="_blank">第40回ファジィシステムシンポジウム/FSS2024</a>で、口頭発表を行いました。
+        <br><br>
+        <h3>8月23日</h3>
+        物理的常識をふまえた言語表現についての論文が <a href="https://soft-cr.org/scis/2024/index.html" target="_blank">2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS2024)</a>に採択されました。
+        <br><br>  
         <h3>5月31日</h3>
         静岡・アクトシティ浜松にて開催された<a href="https://www.ai-gakkai.or.jp/jsai2024" target="_blank">人工知能学会全国大会（第38回）</a>で、口頭発表を行いました。
         <br><br>
