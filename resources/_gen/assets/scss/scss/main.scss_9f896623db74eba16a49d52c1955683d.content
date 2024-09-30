@@ -9357,6 +9357,9 @@ a:hover {
 .fa-envelope {
   color: #333333; }
 
+.fa-x-twitter {
+  color: black; }
+
 .fa-caret-square-right {
   font-weight: bold;
   color: #9baabe;

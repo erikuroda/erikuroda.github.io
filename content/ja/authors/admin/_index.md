@@ -31,6 +31,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/erikuroda
+- icon: x-twitter
+  icon_pack: fab
+  link: https://x.com/erikuroda23
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-6248-5056
@@ -39,7 +42,7 @@ social:
   link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl=ja
 - icon: cv
   icon_pack: ai
-  link: docs/cv240901_erikuroda.pdf
+  link: docs/cv241001_erikuroda.pdf
   
 superuser: true
 title: 黒田 彗莉

@@ -19,6 +19,9 @@ view: 2
   <div id="collapse2024" class="collapse" aria-labelledby="heading2024" data-parent="#accordionTalks">
     <div class="card-body">
       <ol>
+      <h3>30th Sep.</h3>
+      Our paper was accepted for <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>.
+      <br><br>
       <h3>4th Sep.</h3>
       I gave an oral presentation at <a href="https://soft-cr.org/fss/2024/" target="_blank">The 40th Fuzzy System Symposium</a>.
       <br><br>
