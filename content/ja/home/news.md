@@ -66,13 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2024-11-12
+兵庫・アクリエ姫路にて開催された<a href="https://soft-cr.org/scis/2024/index.html" target="_blank">2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS-ISIS2024)</a>で、口頭発表を行いました。
+
 ### 2024-09-30
 実世界における物理的常識をふまえた言語表現における論文が <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>に採択されました。
 
 ### 2024-09-04
 愛知・椙山女学園大学にて開催された<a href="https://soft-cr.org/fss/2024/" target="_blank">第40回ファジィシステムシンポジウム/FSS2024</a>で、口頭発表を行いました。
-
-### 2024-08-23
-物理的常識をふまえた言語説明手法における論文が <a href="https://soft-cr.org/scis/2024/index.html" target="_blank">2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS2024)</a>に採択されました。
 <br><br>
 [過去のお知らせ ](news)<i class="fas fa-angle-right"></i>
