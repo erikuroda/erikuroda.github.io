@@ -67,9 +67,11 @@ subtitle = ""
  css_class = ""
 +++
 ## Journal
+1. __Kuroda,E.__, Kobayashi, I. Predictive Inference Models for Real-world Physical Environments. Journal of Advanced Computational Intelligence and Intelligent Informatics, Fuji publisher, 2025, in press.
+
 
 ## International Conference
-1. __Eri Kuroda__ & Ichiro Kobayashi. Verbal Representation of Object Collision Prediction Based on Physical CommonSense Knowledge. <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>, Long Paper, Oral, Guangzhou, China, Feb 14th-17th, 2025.
+1. __Eri Kuroda__, & Ichiro Kobayashi. Verbal Representation of Object Collision Prediction Based on Physical CommonSense Knowledge. <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>, Long Paper, Oral, Guangzhou, China, Feb 14th-17th, 2025.
 1. __Eri Kuroda__, Yuki Taya & Ichiro Kobayashi. Verbal Description Focusing on Physical Properties of Real-World Environments. <a href="https://soft-cr.org/scis/2024/index.html" target="_blank">2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS2024)</a>, Long Paper, Oral, Hyogo, Japan, Nov 9th-12th, 2024.
 1. __Eri Kuroda__ & Ichiro Kobayashi. Predictive Inference Model of the Physical Environment that emulates Predictive Coding. <a href="https://ds2023.inesctec.pt/" target="_blank">26th International Conference on Discovery Science (DS2023)</a>, Long Paper, Oral, Porto, Portugal, Oct 9th-11th, 2023 (Acceptance rate 35.3%). <a class="ai ai-doi" href="https://doi.org/10.1007/978-3-031-45275-8_29" target="_blank"></a> <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/ds2023-erikuroda" target="new"></a>
 1. __Eri Kuroda__ & Ichiro Kobayashi. Extraction of Motion Change Points based on the Physical Characteristics of Objects. <a href="http://www.prml.org/index.html" target="_blank">2023 IEEE the 4th International Conference on Pattern Recognition and Machine Learning (PRML2023)</a>, Long Paper, Oral, Xinjiang University, China, Aug 4th-6th, 2023. <a class="ai ai-doi" href="https://doi.org/10.1109/PRML59573.2023.10348369" target="_blank"></a> <a class="fa-solid fa-file-powerpoint" href="https://speakerdeck.com/erikuroda/prml2023-s9-5-erikuroda" target="new"></a>
@@ -99,6 +101,7 @@ subtitle = ""
 
 ## Others
 
+1. __黒田彗莉__, 村上 綾菜. 学生フォーラム〔第126回〕西原陽子先生インタビュー「できることよりも，心の底からやりたいことをキャッチする」, 人工知能, Vol.40, No.1, pp.1092-1096. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/40/1/40_1092/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.40.1_1092" target="_blank"></a>
 1. __黒田彗莉__. 特集：編集委員 今年の抱負2024「身についたことは振り返ってみないとわからない」, 人工知能, Vol.39, No.1, pp.46-47. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/39/1/39_46/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.39.1_46" target="_blank"></a>
 1. __黒田彗莉__. 学生フォーラム〔第117回〕五十嵐悠紀先生インタビュー「現場の声とコミュニケーション」, 人工知能, Vol.38, No.3, pp.429-434. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/38/3/38_429/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.38.3_429" target="_blank"></a>
 1. __黒田彗莉__. 「学生編集委員会企画：第40回日本ロボット学会学術講演会レポート（オーガナイズドセッション：確率ロボティクスとデータ工学ロボティクス～認識・行動学習・記号創発～（4/4））」, 日本ロボット学会学会誌, Vol.41, No.2, pp.149-150. <a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.149" target="_blank"></a>
