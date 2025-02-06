@@ -67,6 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 ## Journal
+1. __Kuroda,E.__, Kobayashi, I. Predictive Inference Models for Real-world Physical Environments. Journal of Advanced Computational Intelligence and Intelligent Informatics, Fuji publisher, 2025, in press.
 
 ## International Conference
 1. __Eri Kuroda__ & Ichiro Kobayashi. Verbal Representation of Object Collision Prediction Based on Physical CommonSense Knowledge. <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>, Long Paper, Oral, Guangzhou, China, Feb 14th-17th, 2025.
@@ -99,6 +100,7 @@ subtitle = ""
 1. __Eri Kuroda__. <a href="https://aip.riken.jp/sympo/surijohoai-female-students-seminar/?lang=ja" target="_blank">Online seminars for female students</a>, RIKEN Center for Advanced Intelligence Project (AIP), Oct 20th, 2022. <a class="fa-brands fa-youtube" href="https://www.youtube.com/watch?v=RxtTYodFPlo" target="new"></a>  <a class="fa-solid fa-book-open" href="https://aip.riken.jp/sympo/1st_seminar_report/?lang=ja" target="new"></a>
 
 ## Others
+1. __Eri Kuroda__, Ayana Murakami. Student Forum (126) Interview with Prof. Yoko Nishihara: Discover Your Desires from Your Heart, Not Just Your Capabilities. Journal of the Japanese Society for Artificial Intelligence, Vol.40, No.1, pp.1092-1096. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/40/1/40_1092/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.40.1_1092" target="_blank"></a>
 1. __Eri Kuroda__. Special Issue: New Trends of Researches for Doctoral Theses. Journal of the Japanese Society for Artificial Intelligence, Vol.39, No.1, pp.46-47. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/39/1/39_46/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.39.1_46" target="_blank"></a>
 1. __Eri Kuroda__. Student Forum (117) Interview with Associate Prof. Yuki Igarashi: Real Opinions and Communications. Journal of the Japanese Society for Artificial Intelligence, Vol.38, No.3, pp.429-434. <a class="fas fa-file-pdf" href="https://www.jstage.jst.go.jp/article/jjsai/38/3/38_429/_pdf/-char/ja" target="_blank"></a> <a class="ai ai-doi" href="https://doi.org/10.11517/jjsai.38.3_429" target="_blank"></a>
 1. __Eri Kuroda__. Project on Student Editorial Committee: Report on the 40th Annual Conference of the Robotics Society of Japan (Probabilistic Robotics and Data Engineering Robotics ~Recognition, Behavioral Learning, and Symbolic Emergence~ (4/4)), Journal of the Robotics Society of Japan, Vol.41, No.2, pp.149-150. <a class="ai ai-doi" href="https://doi.org/10.7210/jrsj.41.149" target="_blank"></a>
