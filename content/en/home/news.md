@@ -66,6 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 17.02.2025
+I gave an online oral presentation at <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>.
+
 ### 12.11.2024
 I gave an oral presentation at <a href="https://soft-cr.org/scis/2024/index.html" target="_blank">2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS-ISIS2024)</a>.
 

@@ -66,6 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 2025-02-17
+中国・広州にて開催された<a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>で、オンラインにて口頭発表を行いました。
+
 ### 2024-11-12
 兵庫・アクリエ姫路にて開催された<a href="https://soft-cr.org/scis/2024/index.html" target="_blank">2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS-ISIS2024)</a>で、口頭発表を行いました。
 
