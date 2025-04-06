@@ -66,16 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+### 01.04.2025
+I started working at the University of Tokyo as an academic staff.
+
+### 24.03.2025
+I completed my PhD (computer science) at Ochanomizu University.
+
 ### 17.02.2025
 I gave an online oral presentation at <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>.
-
-### 12.11.2024
-I gave an oral presentation at <a href="https://soft-cr.org/scis/2024/index.html" target="_blank">2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS-ISIS2024)</a>.
-
-### 30.09.2024
-Our paper was accepted for <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>.
-
-### 04.09.2024
-I gave an oral presentation at <a href="https://soft-cr.org/fss/2024/" target="_blank">The 40th Fuzzy System Symposium</a>.
 <br><br>
 [SEE ALL NEWS](news) <i class="fas fa-angle-right"></i></i>

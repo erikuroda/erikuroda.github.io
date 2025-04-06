@@ -67,10 +67,10 @@ subtitle = ""
  css_class = ""
 +++
 ### Institutions
-- <a href="https://www.sci.ocha.ac.jp/ug/is/index.html" target="_blank">Department of Information Science, Ochanomizu University</a>
-- <a href="https://www.koba.is.ocha.ac.jp/kobalab" target="_blank">Ichiro Kobayashi Lab. Ochanomizu University</a>
+- <a href="https://weblab.t.u-tokyo.ac.jp/" target="_blank">University of Tokyo Matsuo-Iwasawa Lab</a>
 - <a href="https://www.ipsj.or.jp" target="_blank">Information Processing Society of Japan</a>
 - <a href="https://www.ai-gakkai.or.jp" target="_blank">The Japanese Society for Artificial Intelligence</a>
+- <a href="https://www.anlp.jp/en/" target="_blank">The Association for Natural Language Processing</a>
 
 <br>
 

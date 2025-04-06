@@ -4,9 +4,9 @@ authors:
 bio:
 education:
   courses:
-  - course: 博士後期課程 (理学専攻 情報科学領域)
+  - course: 博士 (理学)
     institution: お茶の水女子大学大学院 人間文化創成科学研究科
-    year: 2022–現在
+    year: 2025
   - course: 修士 (理学)
     institution: お茶の水女子大学大学院 人間文化創成科学研究科
     year: 2022
@@ -19,9 +19,9 @@ interests:
 - 物体認識
 - 予測
 organizations:
-- name: お茶の水女子大学 小林一郎研究室
-  url: "https://www.koba.is.ocha.ac.jp/kobalab/index.php/ja/home-ja/"
-- name: 日本学術振興会特別研究員（DC1）
+- name: 東京大学 松尾・岩澤研究室
+  url: "https://weblab.t.u-tokyo.ac.jp/"
+- name: 特任研究員
   ulr: ""
 role:
 social: 
@@ -42,12 +42,13 @@ social:
   link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl=ja
 - icon: cv
   icon_pack: ai
-  link: docs/cv250228_erikuroda.pdf
+  link: docs/cv250401_erikuroda.pdf
   
 superuser: true
 title: 黒田 彗莉
 ---
-お茶の水女子大学で情報科学を専攻しています。
+2025年にお茶の水女子大学で理学の学位を取得しました。
+現在は、東京大学 松尾・岩澤研究室で特任研究員をしています。
 
 機械学習や深層学習を用いて、ヒトが物体を認識したり、予測を行うといった世界理解についての研究をしています。
 

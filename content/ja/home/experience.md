@@ -25,6 +25,15 @@ date_format: "2006年1月"
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
+- company: 東京大学 松尾・岩澤研究室
+  company_url: "https://weblab.t.u-tokyo.ac.jp/"
+  company_logo: ""
+  date_end: ""
+  date_start: "2025-04-01"
+  description: 
+  location: 東京
+  title: 特任研究員
+
 - company: ザールラント大学
   company_url: "https://www.uni-saarland.de/en/home.html"
   company_logo: "saarland"
@@ -64,7 +73,7 @@ experience:
 - company: 日本学術振興会
   company_url: "https://www.jsps.go.jp/index.html"
   company_logo: "jsps"
-  date_end: ""
+  date_end: "2025-03-31"
   date_start: "2022-04-01"
   description: 
   location: 東京
@@ -73,7 +82,7 @@ experience:
 - company: 人工知能学会
   company_url: "https://www.ai-gakkai.or.jp/"
   company_logo: "jsai"
-  date_end: ""
+  date_end: "2025-03-31"
   date_start: "2021-06-01"
   description: 　<a href="https://www.ai-gakkai.or.jp/resource/student_forum/" target="_blank">HP</a>
   location: 東京

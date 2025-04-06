@@ -4,13 +4,13 @@ authors:
 bio:
 education:
   courses:
-  - course: Ph.D Candidate (Division of Information Sciences in Science)
+  - course: Ph.D (Computer Sciences)
     institution: Ochanomizu University
-    year: 2022–Present
-  - course: M.Sc. (Information Sciences)
+    year: 2025
+  - course: M.Sc. (Computer Sciences)
     institution: Ochanomizu University
     year: 2022
-  - course: B.Sc. (Information Sciences)
+  - course: B.Sc. (Computer Sciences)
     institution: Ochanomizu University
     year: 2020
 interests:
@@ -20,9 +20,9 @@ interests:
 - Physical Reasoning
 - Prediction
 organizations:
-- name: Ochanomizu University Kobayashi Lab.
-  url: "https://www.koba.is.ocha.ac.jp/kobalab/"
-- name: JSPS Research Fellow (DC1)
+- name: University of Tokyo Matsuo-Iwasawa Lab.
+  url: "https://weblab.t.u-tokyo.ac.jp/"
+- name: Postdoc, Academic staff
   ulr: ""
 role:
 social:
@@ -43,7 +43,7 @@ social:
   link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl
 - icon: cv
   icon_pack: ai
-  link: https://eri-kuroda.com/docs/cv250228_erikuroda.pdf
+  link: https://eri-kuroda.com/docs/cv250401_erikuroda.pdf
 superuser: true
 title: Eri Kuroda
 ---

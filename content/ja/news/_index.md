@@ -9,6 +9,31 @@ view: 2
 <div class="acordion" id="accordionTalks">
 
 <div class="card">
+  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2025" aria-expanded="false" aria-controls="collapse2025">
+    <div class="card-header" id="heading2025">
+      <h1 class="mb-0">
+        2025
+      </h1>
+    </div>
+  </button>  
+  <div id="collapse2025" class="collapse" aria-labelledby="heading2025" data-parent="#accordionTalks">
+    <div class="card-body">
+      <ol>
+        <h3>4月1日</h3>
+        東京大学工学系研究科 松尾・岩澤研究室で特任研究員として勤務します。
+        <br><br>
+        <h3>3月24日</h3>
+        お茶の水女子大学大学院人間文化創成科学研究科で博士号（理学）を取得しました。
+        <br><br>
+        <h3>2月17日</h3>
+        中国・広州にて開催された<a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>で、オンラインにて口頭発表を行いました。
+        <br><br>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<div class="card">
   <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2024" aria-expanded="false" aria-controls="collapse2024">
     <div class="card-header" id="heading2024">
       <h1 class="mb-0">
