@@ -67,7 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 ## Journal
-1. __Kuroda,E.__, Kobayashi, I. Predictive Inference Models for Real-world Physical Environments. Journal of Advanced Computational Intelligence and Intelligent Informatics, Fuji publisher, 2025, in press.
+1. __Kuroda,E.__ & Kobayashi, I. (in press). Verbal Representation of Object Collision Prediction Based on Physical Properties. Journal of Advanced Computational Intelligence and Intelligent Informatics.
+1. __Kuroda,E.__ & Kobayashi, I. (2025). Predictive Inference Models for Real-world Physical Environments. Journal of Advanced Computational Intelligence and Intelligent Informatics, Vol.29, No.3, pp.456-468, 2025. <a class="ai ai-doi" href="https://doi.org/10.20965/jaciii.2025.p0456" target="_blank"></a>
 
 ## International Conference
 1. __Eri Kuroda__ & Ichiro Kobayashi. Verbal Representation of Object Collision Prediction Based on Physical CommonSense Knowledge. <a href="https://www.icmlc.org/index.html" target="_blank">2025 17th International Conference on Machine Learning and Computing (ICMLC2025)</a>, Long Paper, Oral, Guangzhou, China, Feb 14th-17th, 2025.
