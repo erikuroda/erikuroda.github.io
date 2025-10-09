@@ -20,7 +20,7 @@ interests:
 - Physical Reasoning
 - Prediction
 organizations:
-- name: University of Tokyo Matsuo-Iwasawa Lab.
+- name: The University of Tokyo Matsuo-Iwasawa Lab.
   url: "https://weblab.t.u-tokyo.ac.jp/"
 - name: Project Researcher, Postdoc
   ulr: ""
@@ -43,11 +43,12 @@ social:
   link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl
 - icon: cv
   icon_pack: ai
-  link: https://eri-kuroda.com/docs/cv250526_erikuroda.pdf
+  link: https://eri-kuroda.com/docs/cv251001_erikuroda.pdf
 superuser: true
 title: Eri Kuroda
 ---
-Eri Kuroda is a graduate student majoring in information science at Ochanomizu University.
+I graduated with a Ph.D. in Computer Science from Ochanomizu University in 2025.
+I have been working as a Researcher in the Matsuo-Iwasawa Laboratory at the University of Tokyo.
 
 My research focuses on understanding the world using machine learning and deep learning to help humans recognize objects and make predictions.
 

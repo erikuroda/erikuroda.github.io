@@ -87,6 +87,8 @@ subtitle = ""
 <body>
   <div id="wrapper">
     <div id="contents">
+    <h4>2025-09-20</h4>
+    <a href="https://doi.org/10.20965/jaciii.2025.p1190">実世界における物体の衝突状況の言語説明に関する論文</a>がJACIIIに掲載されました。
     <h4>2025-05-20</h4>
     <a href="https://doi.org/10.20965/jaciii.2025.p0456">実環境における物体の衝突予測に関する論文</a>がJACIIIに掲載されました。
     <h4>2025-04-01</h4>

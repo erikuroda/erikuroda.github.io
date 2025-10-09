@@ -42,14 +42,14 @@ social:
   link: https://scholar.google.co.jp/citations?user=ym-sVBkAAAAJ&hl=ja
 - icon: cv
   icon_pack: ai
-  link: docs/cv250526_erikuroda.pdf
+  link: docs/cv251001_erikuroda.pdf
   
 superuser: true
 title: 黒田 彗莉
 ---
-2025年にお茶の水女子大学で理学の学位を取得しました。
+2025年にお茶の水女子大学で博士（理学）を取得しました。
 現在は、東京大学 松尾・岩澤研究室で特任研究員をしています。
 
-機械学習や深層学習を用いて、ヒトが物体を認識したり、予測を行うといった世界理解についての研究をしています。
+機械学習や深層学習を用いて、ヒトが物体を認識したり、予測を行うといった実世界理解についての研究をしています。
 
 <i class="far fa-caret-square-right"></i>  [researchmap](https://researchmap.jp/erikuroda?lang=ja)
